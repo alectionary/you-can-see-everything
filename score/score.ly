@@ -1,7 +1,7 @@
 \version "2.24.3"
 
 \header {
-  title = "YOU CAN SEE ANYTHING"
+  title = "YOU CAN SEE EVERYTHING"
   subtitle = "Breakdown cut — sixty seconds under dialogue"
   composer = "Original teaser score"
   tagline = ##f
