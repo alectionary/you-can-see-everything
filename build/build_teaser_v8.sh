@@ -138,7 +138,7 @@ ffmpeg -y -v error -f lavfi -i "color=c=black:s=1920x1080:r=24:d=1" \
   $ENC $B/seg/card8.mp4
 
 # --- concat in master order ---
-ORDER="w01 card1 w02 insA w03 insB w04 insC w05 card2 w06 panA panB panA2 panC card3 panC2a panC2b panD card4 panE stare2 grid4 card5 grid4b grid9 card6 grid9b card7 grid16 card8 w30 w31"
+ORDER="w01 card1 w02 insA w03 insB w04 insC w05 card2 w06 panA panB panA2 panC card3 panC2 panD card4 panE stare2 grid4 card5 grid4b grid9 card6 grid9b card7 grid16 card8 w30 w31"
 : > $B/concat.txt
 for s in $ORDER; do echo "file 'seg/$s.mp4'" >> $B/concat.txt; done
 ffmpeg -y -v error -f concat -safe 0 -i $B/concat.txt -c copy $B/video_raw.mp4
