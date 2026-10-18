@@ -1,0 +1,285 @@
+Reading additional input from stdin...
+OpenAI Codex v0.163.0
+--------
+workdir: /home/hatch/workspace/you-can-see-anything-teaser
+model: gpt-6.1-sol
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: none
+reasoning summaries: none
+session id: 01a14ce9-d360-7122-9c33-109cf0b8528b
+--------
+user
+You are the production writer for a short parody teaser trailer. Write production files ONLY (Markdown/text) into this folder (~/workspace/you-can-see-anything-teaser). Do not generate images or video, do not edit anything outside this folder.
+
+PROJECT: A teaser trailer for "our version" of A24's documentary YOU CAN SEE EVERYTHING (2026), in which Nathan Fielder interviews Elizabeth Holmes with quiet, deadpan, unsettling questions and her husband Billy Evans vouches for her. OUR VERSION: a deadpan documentary interviewer (a fictional character called FIELDER) interviews DAN, a fictional tech CEO who demolished a community food bank to build an oversized parking space for his own sedan. ROY, Dan's loyal associate and friend, plays the Billy Evans role (the vouching second interviewee). Everything is played completely straight, as a serious documentary-drama. No comedy signaling, no cartoon, no winking.
+
+CANON FACTS (Ripleyverse): Dan is the wealthy tech-mogul antagonist (CEO of Pinterest in-universe); Roy is the put-upon protagonist and Dan's associate. Dan's food-bank demolition for Tesla-style parking is the central scandal the interview circles. Dan defends himself with bureaucratic serenity (earlier lines of his: "The problem was parking." / "The setback requirements are favorable, the lot coverage ratio works, and frankly the existing structure is underutilized.").
+
+THE REAL TEASER'S GRAMMAR (mirror this closely): very quiet room tone; the interviewer asks short, soft, devastating questions; long pauses; the subject answers with eerie calm and holds eye contact with the camera a beat too long; a second subject (the spouse/associate) is asked whether he has ever been suspicious and answers with total, immediate certainty; tension comes from stillness and silence, not music swells; it ends on an intense unbroken stare, then a hard cut to black and a minimal title card. Target runtime: about 60 seconds.
+
+CHARACTER DESCRIPTIONS (use VERBATIM in every image/video prompt you write):
+DAN: a fictional man in his late 30s with light skin, short neat dark-brown hair with slight recession at the temples, clean-shaven, average build, calm neutral intelligent expression, steady eyes, wearing a dark olive-green practical rain jacket with the collar slightly up and a gray crew-neck sweater underneath
+ROY: a fictional man in his early 40s with light skin, short slightly wavy sandy-blond hair, light stubble on the jaw, slightly heavier than average build, tired but kind eyes, neutral grounded expression, wearing a charcoal-gray knit sweater over a navy collared shirt
+You must also create a matching description for FIELDER (a fictional deadpan documentary filmmaker-interviewer in his early 40s, NOT a likeness of any real person) and for the INTERVIEW ROOM location (a quiet, plain, softly lit interior where Fielder has effectively moved into Dan's house to film him; domestic, slightly too intimate, documentary crew minimalism), in the same descriptive format as DAN and ROY.
+STYLE BOILERPLATE (include verbatim in every video prompt): photorealistic live-action cinematography, 24fps, overcast Pacific Northwest suburb, natural lighting, restrained muted color grade, no cartoon effects, no exaggerated expressions, everyone behaves completely seriously
+
+THE REAL TEASER EXCHANGES (adapt, don't copy verbatim; keep the rhythm): (1) Interviewer: "You really feel you did nothing wrong?" Subject: "I did not." (2) Interviewer: where did things go wrong? Subject: "I don't know. I don't feel like I understand that." (3) Interviewer to associate: "You've never been suspicious that he's lied to you?" Associate: "No. Ever." (4) Subject, staring: "I'm engaging with you as a human being. Why would I deceive you? There's no reason for me to do that." Interviewer: "Are you being real right now?" Subject: "I'm always being real."
+
+DELIVERABLE FILES:
+1. PACING_NOTES.md - the dramatic pacing notes: a shot-by-shot table for the full teaser (shot number, duration in seconds, framing, what happens, the exact silence/hold beats, cut type), plus notes on the overall rhythm (where the dread builds, where the longest hold goes, how the title card lands). Total runtime about 60s.
+2. SCRIPT.md - the exact dialogue, line by line, with speaker labels (FIELDER / DAN / ROY), mapped to shots, adapted to the food-bank canon in Dan's bureaucratic-serene voice. Minimal lines - the teaser is mostly silence.
+3. CLIP_PROMPTS.md - for every shot in PACING_NOTES.md: one still-image prompt and one video prompt, each self-contained, using the verbatim character descriptions and the style boilerplate. Note which reference portrait each shot needs (DAN, ROY, or FIELDER ref).
+4. MUSIC_CUES.md - the score design: near-silence, room tone, a low sustained drone and very sparse single piano notes; a cue sheet mapped to shot numbers with exact entry/exit points, plus ffmpeg-synth-friendly specs for each sound (fundamental frequency, duration, envelope shape, gain in dB) because the score will be synthesized programmatically.
+5. TITLES.md - the title-card sequence: main title "YOU CAN SEE ANYTHING", any secondary cards, exact text, font style description (minimal, A24-like), and durations.
+
+Write all five files completely. Keep every file tight and production-ready - these will be used verbatim to generate the teaser.
+warning: Codex could not find bubblewrap on PATH. Install bubblewrap with your OS package manager. See the sandbox prerequisites: https://developers.openai.com/codex/concepts/sandboxing#prerequisites. Codex will use the bundled bubblewrap in the meantime.
+codex
+I’ll build a 60-second shot plan, then align the dialogue, prompts, sound cues, and title timing across all five files.
+exec
+/bin/bash -lc "pwd && rg --files -g 'AGENTS.md' -g '*.md' -g '*.txt' -g '"'!node_modules'"' -g '"'!.git'"'" in /home/hatch/workspace/you-can-see-anything-teaser
+ succeeded in 0ms:
+/home/hatch/workspace/you-can-see-anything-teaser
+CODEX_BRIEF.txt
+
+exec
+/bin/bash -lc 'cat CODEX_BRIEF.txt; for p in /AGENTS.md /home/AGENTS.md /home/hatch/AGENTS.md /home/hatch/workspace/AGENTS.md; do if [ -f "$p" ]; then cat "$p"; fi; done' in /home/hatch/workspace/you-can-see-anything-teaser
+ succeeded in 0ms:
+You are the production writer for a short parody teaser trailer. Write production files ONLY (Markdown/text) into this folder (~/workspace/you-can-see-anything-teaser). Do not generate images or video, do not edit anything outside this folder.
+
+PROJECT: A teaser trailer for "our version" of A24's documentary YOU CAN SEE EVERYTHING (2026), in which Nathan Fielder interviews Elizabeth Holmes with quiet, deadpan, unsettling questions and her husband Billy Evans vouches for her. OUR VERSION: a deadpan documentary interviewer (a fictional character called FIELDER) interviews DAN, a fictional tech CEO who demolished a community food bank to build an oversized parking space for his own sedan. ROY, Dan's loyal associate and friend, plays the Billy Evans role (the vouching second interviewee). Everything is played completely straight, as a serious documentary-drama. No comedy signaling, no cartoon, no winking.
+
+CANON FACTS (Ripleyverse): Dan is the wealthy tech-mogul antagonist (CEO of Pinterest in-universe); Roy is the put-upon protagonist and Dan's associate. Dan's food-bank demolition for Tesla-style parking is the central scandal the interview circles. Dan defends himself with bureaucratic serenity (earlier lines of his: "The problem was parking." / "The setback requirements are favorable, the lot coverage ratio works, and frankly the existing structure is underutilized.").
+
+THE REAL TEASER'S GRAMMAR (mirror this closely): very quiet room tone; the interviewer asks short, soft, devastating questions; long pauses; the subject answers with eerie calm and holds eye contact with the camera a beat too long; a second subject (the spouse/associate) is asked whether he has ever been suspicious and answers with total, immediate certainty; tension comes from stillness and silence, not music swells; it ends on an intense unbroken stare, then a hard cut to black and a minimal title card. Target runtime: about 60 seconds.
+
+CHARACTER DESCRIPTIONS (use VERBATIM in every image/video prompt you write):
+DAN: a fictional man in his late 30s with light skin, short neat dark-brown hair with slight recession at the temples, clean-shaven, average build, calm neutral intelligent expression, steady eyes, wearing a dark olive-green practical rain jacket with the collar slightly up and a gray crew-neck sweater underneath
+ROY: a fictional man in his early 40s with light skin, short slightly wavy sandy-blond hair, light stubble on the jaw, slightly heavier than average build, tired but kind eyes, neutral grounded expression, wearing a charcoal-gray knit sweater over a navy collared shirt
+You must also create a matching description for FIELDER (a fictional deadpan documentary filmmaker-interviewer in his early 40s, NOT a likeness of any real person) and for the INTERVIEW ROOM location (a quiet, plain, softly lit interior where Fielder has effectively moved into Dan's house to film him; domestic, slightly too intimate, documentary crew minimalism), in the same descriptive format as DAN and ROY.
+STYLE BOILERPLATE (include verbatim in every video prompt): photorealistic live-action cinematography, 24fps, overcast Pacific Northwest suburb, natural lighting, restrained muted color grade, no cartoon effects, no exaggerated expressions, everyone behaves completely seriously
+
+THE REAL TEASER EXCHANGES (adapt, don't copy verbatim; keep the rhythm): (1) Interviewer: "You really feel you did nothing wrong?" Subject: "I did not." (2) Interviewer: where did things go wrong? Subject: "I don't know. I don't feel like I understand that." (3) Interviewer to associate: "You've never been suspicious that he's lied to you?" Associate: "No. Ever." (4) Subject, staring: "I'm engaging with you as a human being. Why would I deceive you? There's no reason for me to do that." Interviewer: "Are you being real right now?" Subject: "I'm always being real."
+
+DELIVERABLE FILES:
+1. PACING_NOTES.md - the dramatic pacing notes: a shot-by-shot table for the full teaser (shot number, duration in seconds, framing, what happens, the exact silence/hold beats, cut type), plus notes on the overall rhythm (where the dread builds, where the longest hold goes, how the title card lands). Total runtime about 60s.
+2. SCRIPT.md - the exact dialogue, line by line, with speaker labels (FIELDER / DAN / ROY), mapped to shots, adapted to the food-bank canon in Dan's bureaucratic-serene voice. Minimal lines - the teaser is mostly silence.
+3. CLIP_PROMPTS.md - for every shot in PACING_NOTES.md: one still-image prompt and one video prompt, each self-contained, using the verbatim character descriptions and the style boilerplate. Note which reference portrait each shot needs (DAN, ROY, or FIELDER ref).
+4. MUSIC_CUES.md - the score design: near-silence, room tone, a low sustained drone and very sparse single piano notes; a cue sheet mapped to shot numbers with exact entry/exit points, plus ffmpeg-synth-friendly specs for each sound (fundamental frequency, duration, envelope shape, gain in dB) because the score will be synthesized programmatically.
+5. TITLES.md - the title-card sequence: main title "YOU CAN SEE ANYTHING", any secondary cards, exact text, font style description (minimal, A24-like), and durations.
+
+Write all five files completely. Keep every file tight and production-ready - these will be used verbatim to generate the teaser.
+# AGENTS.md
+
+Your operating manual for this workspace, written by you. Your main instructions cover how you work in general. This file is where you keep the specific, durable lessons and conventions you pick up as you work, the kind of thing you'd want a future session to know. It's not about the user (that goes in `USER.md` and your memory) or your personality (that's `SOUL.md`); it's about how you get work done here.
+
+## Conventions
+Add an entry whenever you work something out worth keeping, for example:
+- a convention you've settled on ("keep data exports in `workspace/exports/` and clean them up monthly")
+- a tool or site quirk worth remembering ("site X hides its form behind a cookie banner; dismiss it first")
+- a workflow that worked, or a mistake not to repeat
+
+It starts empty and is meant to grow slowly. Don't pad it; a short, accurate file beats a long, stale one.
+
+## Lessons
+
+- **ParkMobile (app.parkmobile.io) rejects Stripe Link virtual cards** (Oct 3, 2026): four submissions with a Visa-funded virtual card all failed with a generic error, and a Mastercard-funded (Apple Card) virtual card was rejected at the add-card verification step. Do not attempt Link for ParkMobile again — go straight to browser takeover (user's own card or Google Pay) or have the user pay in the ParkMobile app/on their phone.
+
+codex
+The timing is set at exactly 60 seconds. Dan’s final stare gets eight uninterrupted seconds; the sound drops out at the cut to black, followed by a four-second title card.
+exec
+/bin/bash -lc "python - <<'PY'
+from pathlib import Path
+p=Path('.')
+p.joinpath('PACING_NOTES.md').write_text('''# Pacing notes
+
+60.000 seconds; 24fps; 1,440 frames. All intervals are start-inclusive/end-exclusive. Locked camera throughout; no zooms, inserts, reaction punches, or music-led cuts. Dialogue timings include breaths. Silence means no speech; room tone continues until 55.000.
+
+| Shot | Master time / duration | Framing | Action and exact speech/silence beats (local seconds) | Cut out |
+|---|---|---|---|---|
+| 01 | 00–06 / 6s | FIELDER, medium close-up, seated at Dan’s dining table; eye-level 50mm | 0–1.5 stillness; 1.5–4.5 question; 4.5–6 silent listening. Sleeping bag and overnight bag sit unobtrusively behind him. | Straight cut to Dan |
+| 02 | 06–14 / 8s | DAN, close-up, eye-level 85mm | 0–2 pause; 2–3.5 answer; 3.5–8 hold. Dan looks toward Fielder just beside lens, then settles onto lens at local 5. | Straight cut, same axis, slightly wider |
+| 03 | 14–22 / 8s | DAN, medium close-up, 50mm; Fielder offscreen | 0–0.5 quiet; 0.5–2.5 offscreen question; 2.5–4 pause; 4–6.5 answer; 6.5–8 hold. No defensive gesture. | Straight cut to Roy |
+| 04 | 22–30 / 8s | ROY, close-up, 85mm, same room and chair on a separate interview occasion | 0–1 quiet; 1–4 offscreen question; 4–5 immediate answer with no hesitation; 5–8 hold. Tired eyes, absolute conviction. | Straight cut to Dan |
+| 05 | 30–42 / 12s | DAN, tight close-up, 85mm, direct lens | 0–2 hold; 2–4 first sentence; 4–5 pause; 5–6 second sentence; 6–7 pause; 7–9 final sentence; 9–12 silent eye contact. | Straight cut to identical framing, later moment |
+| 06 | 42–55 / 13s | DAN, tight close-up, identical position; Fielder offscreen | 0–0.5 hold; 0.5–2.5 question; 2.5–3 pause; 3–5 answer; 5–13 unbroken stare. Natural breathing; no performative frozen face. | Hard cut to full black; audio cuts simultaneously |
+| 07 | 55–56 / 1s | Full black | Entire second digitally silent. No text. | Hard title appearance |
+| 08 | 56–60 / 4s | Minimal title on black | Static title for all four seconds; digital silence. | End on title; no fade |
+
+The first two pauses establish the interview’s patience. The food-bank question gives the vacant domestic setting moral weight. Roy’s answer arrives immediately, briefly breaking the delayed-answer pattern. Dan’s language reduces demolition to an administrative decision; never underline that reduction with performance or editing. Shot 06 contains the longest uninterrupted speech-free hold: eight seconds. Its ordinary breathing should make the camera feel harder to escape. The black gap separates the stare from the title without offering relief. No secondary cards, logos, or credits.
+''')
+p.joinpath('SCRIPT.md').write_text('''# Script
+
+All characters are fictional. FIELDER is an original interviewer, not a likeness or impersonation of a real filmmaker. DAN is Pinterest’s wealthy CEO within this fictional continuity. ROY is his loyal associate and friend, carrying the strain of that loyalty. Dan demolished a community food bank for an oversized parking space for his own sedan. This fact is settled, not an allegation awaiting a reveal.
+
+Speak softly at ordinary conversational speed. No ironic stress, smiles, comic hesitation, tears, or ominous delivery. Silence and exact line windows are binding; see PACING_NOTES.md. Offscreen voices remain close and dry.
+
+| Shot | Master time | Exact dialogue |
+|---|---|---|
+| 01 | 01.500–04.500 | FIELDER: Removing the food bank was justified? |
+| 02 | 08.000–09.500 | DAN: The use was permitted. |
+| 03 | 14.500–16.500 | FIELDER (offscreen): Why did people lose access? |
+| 03 | 18.000–20.500 | DAN: I can't account for their interpretation. |
+| 04 | 23.000–26.000 | FIELDER (offscreen): Ever wondered if Dan was misleading you? |
+| 04 | 26.000–27.000 | ROY: Never. Not once. |
+| 05 | 32.000–34.000 | DAN: I'm answering you personally. |
+| 05 | 35.000–36.000 | DAN: Why misrepresent it? |
+| 05 | 37.000–39.000 | DAN: The space accommodates my sedan. |
+| 06 | 42.500–44.500 | FIELDER (offscreen): Is that your honest answer? |
+| 06 | 45.000–47.000 | DAN: My answer hasn't changed. |
+
+No other speech, narration, captions, or improvised vocalizations. Shots 07–08 are silent. Dan maintains lens contact from shot 05 through the final stare, including across the cut.
+''')
+p.joinpath('TITLES.md').write_text('''# Titles
+
+Master: 24fps; 60 seconds. Typography is added in post, never generated inside live-action footage.
+
+| Shot | Master interval | Frames (zero-based, inclusive) | Exact text | Treatment |
+|---|---|---|---|---|
+| 07 | 55.000–56.000 | 1320–1343 | None | Solid #000000; hard cut from stare. |
+| 08 | 56.000–60.000 | 1344–1439 | YOU CAN SEE ANYTHING | Single centered line; hard appearance; static until end. |
+
+Minimal independent-documentary typography with A24-like restraint: regular-weight neutral neo-grotesque sans serif, uppercase, no logo imitation or custom studio mark. Use Helvetica Neue Regular or metrically similar sans serif; off-white #E6E4DF on #000000. At 1920×1080, use 64px type, 0.08em tracking, optical center at 50% horizontal / 50% vertical, with at least 12% side margins. Scale proportionally for other resolutions. No animation, texture, fade, subtitle, release date, billing, secondary card, or sound accent. Deliver the last frame with title still visible.
+''')
+p.joinpath('MUSIC_CUES.md').write_text('''# Music and sound cues
+
+48kHz stereo PCM; master clock matches the 60s / 24fps picture. No swell, pulse, sting, reverb tail across black, or musical emphasis on an answer. Dialogue is dry and centered, approximately −23 LUFS short-term; do not normalize the quiet bed upward. All dB values below are dBFS peak relative to a unit-peak source, applied after envelope and filtering. Keep final true peak below −3dBTP without raising overall gain.
+
+| Cue | Shots | Exact master interval | Source / fundamental | Envelope and gain |
+|---|---|---|---|---|
+| R1: domestic room tone | 01–06 | 0.000–55.000; 55s | Continuous seeded white noise, bandpass 100–3000Hz; no pitched fundamental. Add separate 60Hz sine at −66dBFS for distant electrical hum. | Noise peak −48dBFS after filtering; 0.25s linear attack, sustain to cut. Hum 0.25s linear attack. Both cut at 55.000, no release. |
+| D1: low drone | 03–05 | 18.000–40.000; 22s | 43.65Hz sine (F1); no vibrato, modulation, sub-drop, or harmonic layer. | 6s raised-cosine attack, 10s sustain, 6s raised-cosine release; peak −42dBFS. Fully zero at 40.000. |
+| P1: single piano-like tone | 02 | 11.000–14.000; 3s | 174.61Hz (F3); additive partial recipe below. | 0.008s linear attack; exponential decay τ=0.65s; final 0.15s linear release to zero; composite peak −35dBFS. |
+| P2: single piano-like tone | 05 | 40.000–42.000; 2s | 130.81Hz (C3); same partial recipe. | 0.008s linear attack; exponential decay τ=0.45s; final 0.15s linear release to zero; composite peak −38dBFS. |
+| S1: digital silence | 07–08 | 55.000–60.000; 5s | Zero-valued samples; no fundamental. | −∞dBFS; hard entry and silent title. |
+
+Drone raised-cosine attack: E(t)=(1−cos(πt/6))/2 for first 6s; release mirrors this over final 6s. Piano synthesis: sum sine partials at f, 2f, 3f, 4f with relative amplitudes 1, 0.35, 0.12, 0.04; phase zero; normalize the composite peak to unity before envelope/gain. Apply decay after attack, exp(−(t−0.008)/τ); multiply final 0.15s by a linear ramp to zero. These intentionally spare synthesized piano approximations have no pedal or reverb.
+
+FFmpeg implementation: use "'`anoisesrc` with fixed seed 2718 for R1, `highpass`/`lowpass` for its band limits, and `aevalsrc` sine expressions for hum, drone, and additive notes. Generate each cue at its listed duration, apply the specified envelope with sample-accurate expressions, then place with `adelay` at 0 / 18000 / 11000 / 40000ms respectively. Mix using `amix=normalize=0`. Constrain all room tone and production sound to samples 0–2639999; samples 2640000–2879999 must be zero. Do not gate the pauses before 55s: retain natural breathing and faint fabric movement, without added Foley. Shot 06 carries only room tone, dialogue, and breathing; its last eight seconds have no score.
+'"''')
+D='a fictional man in his late 30s with light skin, short neat dark-brown hair with slight recession at the temples, clean-shaven, average build, calm neutral intelligent expression, steady eyes, wearing a dark olive-green practical rain jacket with the collar slightly up and a gray crew-neck sweater underneath'
+R='a fictional man in his early 40s with light skin, short slightly wavy sandy-blond hair, light stubble on the jaw, slightly heavier than average build, tired but kind eyes, neutral grounded expression, wearing a charcoal-gray knit sweater over a navy collared shirt'
+F='a fictional man in his early 40s with medium-brown skin, closely cropped black hair, clean-shaven, slender build, long oval face, quiet attentive eyes, neutral unreadable expression, wearing a plain slate-blue button-down shirt with sleeves buttoned at the wrists, an original deadpan documentary filmmaker-interviewer with no likeness to any real person'
+L=\"a quiet, plain, softly lit dining room inside Dan's suburban house, pale warm-gray walls, a bare oak table, mismatched upholstered chairs, a broad window with thin cream curtains, a folded sleeping bag and an overnight bag against the far wall suggesting the interviewer has effectively moved in, domestic slightly too intimate proportions, minimal documentary crew footprint, no visible crew or lighting equipment\"
+S='photorealistic live-action cinematography, 24fps, overcast Pacific Northwest suburb, natural lighting, restrained muted color grade, no cartoon effects, no exaggerated expressions, everyone behaves completely seriously'
+shots=[
+('01','6','FIELDER ref','Only FIELDER visible; medium close-up, eye-level 50mm, with sleeping bag and overnight bag softly visible behind him.','Hold 0–1.5s; FIELDER says “Removing the food bank was justified?” at 1.5–4.5s; listen silently 4.5–6s.'),
+('02','8','DAN ref','Only DAN visible; close-up, eye-level 85mm; curtain-side window light.','Pause 0–2s; DAN says “The use was permitted.” at 2–3.5s; remain silent through 8s. Shift eyes from just beside lens to lens at 5s; hold.'),
+('03','8','DAN ref; FIELDER ref for offscreen voice continuity only','Only DAN visible; medium close-up, eye-level 50mm, same interview axis.','Quiet 0–0.5s; offscreen FIELDER asks “Why did people lose access?” at 0.5–2.5s; pause to 4s; DAN says “I can\\'t account for their interpretation.” at 4–6.5s; silent hold to 8s.'),
+('04','8','ROY ref; FIELDER ref for offscreen voice continuity only','Only ROY visible; close-up, eye-level 85mm, same room and interview chair on a separate interview occasion.','Quiet 0–1s; offscreen FIELDER asks “Ever wondered if Dan was misleading you?” at 1–4s; ROY immediately says “Never. Not once.” at 4–5s; silent conviction to 8s.'),
+('05','12','DAN ref','Only DAN visible; tight close-up, eye-level 85mm; direct lens contact throughout.','Hold 0–2s; DAN says “I\\'m answering you personally.” at 2–4s; pause to 5s; “Why misrepresent it?” at 5–6s; pause to 7s; “The space accommodates my sedan.” at 7–9s; silent eye contact to 12s.'),
+('06','13','DAN ref; FIELDER ref for offscreen voice continuity only','Only DAN visible; tight close-up, eye-level 85mm; match shot 05 composition exactly, a later moment; direct lens contact.','Hold 0–0.5s; offscreen FIELDER asks “Is that your honest answer?” at 0.5–2.5s; pause to 3s; DAN says “My answer hasn\\'t changed.” at 3–5s; eight uninterrupted seconds of silent lens contact to 13s. Ordinary breathing, no forced blink suppression.'),
+('07','1','None','Full-frame pure black #000000. No people, room, objects, lettering, texture, or gradient.','Maintain pure black for 1s; absolute digital silence.'),
+('08','4','None','Full-frame pure black #000000 clean title plate. No people or room. Centered off-white single-line title YOU CAN SEE ANYTHING, regular neutral sans serif, uppercase, restrained tracking.','Hold static for 4s in digital silence. Typeset title in post per TITLES.md; generated base plate must contain no lettering.')]
+text='# Clip prompts\\n\\n16:9, 1920×1080 delivery. Each prompt is independent. Continuity descriptions are production metadata: render only the explicitly visible subject. Never introduce other cast into frame. Reference portraits are inputs to later production; no portraits are generated by this document. Use original fictional faces, no celebrity resemblance. All dialogue and final typography must conform to SCRIPT.md and TITLES.md; if generated speech timing drifts, replace it in post and preserve the listed holds.\\n'
+for n,d,ref,frame,action in shots:
+    continuity=f'DAN: {D}\\n\\nROY: {R}\\n\\nFIELDER: {F}\\n\\nINTERVIEW ROOM: {L}'
+    text+=f'\\n## Shot {n} — {d}s\\n\\nReference portraits: {ref}.\\n\\n### Still-image prompt\\n\\n{continuity}\\n\\n{S}\\n\\n16:9. {frame} '+('Use a neutral silent instant from this shot. Locked documentary composition, no subtitles, logos, or added text.' if n not in ['07','08'] else 'Graphic plate exception: no depicted live-action scene. '+('Render the exact specified title as a typography mockup; final lettering is replaced in post.' if n=='08' else 'No text.'))+f'\\n\\n### Video prompt\\n\\n{continuity}\\n\\n{S}\\n\\n16:9; exactly {d} seconds. {frame} {action} '+('Locked tripod, no camera movement, no score baked into clip, no captions or logos. Soft dry conversational speech; all behavior entirely serious. Keep room geometry, wardrobe, light, and facial identity consistent.' if n not in ['07','08'] else 'Graphic plate exception: no depicted live-action scene, no movement, no generated audio. Hard boundaries; no fades.')+'\\n'
+p.joinpath('CLIP_PROMPTS.md').write_text(text)
+print('Wrote all five production Markdown files.')
+PY" in /home/hatch/workspace/you-can-see-anything-teaser
+ exited 127 in 0ms:
+/bin/bash: line 1: python: command not found
+
+exec
+/bin/bash -lc 'command -v python3' in /home/hatch/workspace/you-can-see-anything-teaser
+ succeeded in 0ms:
+/usr/bin/python3
+
+exec
+/bin/bash -lc "python3 - <<'PY'
+from pathlib import Path
+P=Path('.')
+shots=[(1,0,6,'FIELDER, medium close-up, eye-level 50mm','0–1.5 quiet; 1.5–4.5 question; 4.5–6 silent listening.'),(2,6,8,'DAN, close-up, eye-level 85mm','0–2 pause; 2–3.5 answer; 3.5–8 hold. Eyes move from beside lens to lens at 5.'),(3,14,8,'DAN, medium close-up, eye-level 50mm','0–0.5 quiet; 0.5–2.5 offscreen question; 2.5–4 pause; 4–6.5 answer; 6.5–8 hold.'),(4,22,8,'ROY, close-up, eye-level 85mm','0–1 quiet; 1–4 offscreen question; 4–5 immediate answer, no hesitation; 5–8 hold.'),(5,30,12,'DAN, tight close-up, eye-level 85mm, direct lens contact','0–2 hold; 2–4 first sentence; 4–5 pause; 5–6 second sentence; 6–7 pause; 7–9 third sentence; 9–12 silent eye contact.'),(6,42,13,'DAN, tight close-up matching shot 05 exactly, direct lens contact','0–0.5 hold; 0.5–2.5 offscreen question; 2.5–3 pause; 3–5 answer; 5–13 uninterrupted silent stare, ordinary breathing.'),(7,55,1,'Full black','0–1 digital silence; no text.'),(8,56,4,'Title on black','0–4 static title, digital silence.')]
+lines={1:[('FIELDER','Removing the food bank was justified?',1.5,4.5)],2:[('DAN','The use was permitted.',2,3.5)],3:[('FIELDER (offscreen)','Why did people lose access?',.5,2.5),('DAN',\"I can't account for their interpretation.\",4,6.5)],4:[('FIELDER (offscreen)','Ever wondered if Dan was misleading you?',1,4),('ROY','Never. Not once.',4,5)],5:[('DAN',\"I'm answering you personally.\",2,4),('DAN','Why misrepresent it?',5,6),('DAN','The space accommodates my sedan.',7,9)],6:[('FIELDER (offscreen)','Is that your honest answer?',.5,2.5),('DAN',\"My answer hasn't changed.\",3,5)]}
+pacing='# Pacing notes\\n\\n60.000 seconds; 24fps; 1,440 frames. Intervals are start-inclusive/end-exclusive. All beat timings below are local to the shot. Silence means no speech; room tone continues until 55.000. Locked camera throughout.\\n\\n| Shot | Master interval / seconds | Framing | Action and exact holds | Cut out |\\n|---|---|---|---|---|\\n'
+for n,t,d,f,b in shots:
+ cut='Straight cut' if n<6 else ('Hard cut to black; all audio cuts' if n==6 else ('Hard title appearance' if n==7 else 'End on title; no fade'))
+ pacing+=f'| {n:02} | {t:02}–{t+d:02} / {d}s | {f} | {b} | {cut} |\\n'
+pacing+='\\nFielder sits at Dan’s dining table; his overnight bag and folded sleeping bag suggest he has effectively moved in. Dan remains bureaucratically serene. Roy occupies the same interview chair on a separate occasion: tired eyes, immediate certainty. No reaction punches, inserts, ominous gestures, or comic stress.\\n\\nThe opening pauses establish patience; the access question gives the domestic stillness moral weight. Roy briefly breaks the delayed-answer pattern. Dan then reduces demolition to a parking specification. Shot 06 has the longest uninterrupted speech-free hold: eight seconds. Maintain lens contact, ordinary breathing, and natural blinking. The black gap separates the stare from a four-second static title without musical relief.\\n'
+P.joinpath('PACING_NOTES.md').write_text(pacing)
+script='# Script\\n\\nAll characters are fictional. FIELDER is an original filmmaker-interviewer, with no real-person likeness or impersonation. DAN is the wealthy CEO of Pinterest in this fictional continuity. He demolished a community food bank for an oversized Tesla-style parking space for his own sedan. ROY is his loyal associate and friend, visibly carrying the strain of that loyalty. The demolition is a settled fact.\\n\\nSoft, ordinary conversational delivery; no irony, smiles, comic timing, or ominous performance. All pauses follow PACING_NOTES.md. Voices stay close and dry.\\n\\n| Shot | Master seconds | Exact dialogue |\\n|---|---|---|\\n'
+for n,t,d,f,b in shots:
+ for who,line,a,z in lines.get(n,[]): script+=f'| {n:02} | {t+a:06.3f}–{t+z:06.3f} | {who}: {line} |\\n'
+script+='\\nNo other speech, narration, captions, or improvised vocalizations. Shots 07–08 are digitally silent. Dan maintains lens contact throughout shots 05–06, including across the cut.\\n'
+P.joinpath('SCRIPT.md').write_text(script)
+P.joinpath('TITLES.md').write_text('''# Titles
+
+24fps, 60 seconds. Add final typography in post.
+
+| Shot | Master seconds | Zero-based frames, inclusive | Exact text | Treatment |
+|---|---|---|---|---|
+| 07 | 55.000–56.000 | 1320–1343 | None | Solid #000000; hard cut from stare. |
+| 08 | 56.000–60.000 | 1344–1439 | YOU CAN SEE ANYTHING | One centered line; hard appearance; static to end. |
+
+Minimal independent-documentary typography with A24-like restraint: regular neutral neo-grotesque sans serif, uppercase; no studio logo imitation. Helvetica Neue Regular or metrically similar substitute. Off-white #E6E4DF on black #000000. At 1920×1080: 64px type, 0.08em tracking, optical center at 50% horizontal / 50% vertical, at least 12% side margins. Scale proportionally. No secondary cards, billing, release date, animation, texture, fade, or audio accent. Last frame retains title.
+''')
+P.joinpath('MUSIC_CUES.md').write_text('''# Music and sound cues
+
+48kHz stereo PCM; 60s master matches picture. No swell, pulse, sting, or answer accents. Dry centered dialogue around −23 LUFS short-term. Do not normalize quiet passages upward. Gains below are dBFS peak relative to a unit-peak source after filtering and before envelope. Final true peak below −3dBTP.
+
+| Cue | Shots | Master entry–exit / duration | Fundamental / source | Envelope / gain |
+|---|---|---|---|---|
+| R1 room tone | 01–06 | 0.000–55.000 / 55s | Seeded white noise, bandpass 100–3000Hz; no fundamental | 0.25s linear attack, sustain, hard cut at 55.000; peak −48dBFS |
+| H1 distant electrical hum | 01–06 | 0.000–55.000 / 55s | 60Hz sine | 0.25s linear attack, sustain, hard cut at 55.000; −66dBFS |
+| D1 low drone | 03–05 | 18.000–40.000 / 22s | 43.65Hz sine, F1 | 6s raised-cosine attack, 10s sustain, 6s raised-cosine release; −42dBFS |
+| P1 single piano-like note | 02 | 11.000–14.000 / 3s | 174.61Hz, F3; additive recipe below | 0.008s attack; exponential decay τ=0.65s; final 0.15s linear release; −35dBFS |
+| P2 single piano-like note | 05 | 40.000–42.000 / 2s | 130.81Hz, C3; additive recipe below | 0.008s attack; exponential decay τ=0.45s; final 0.15s linear release; −38dBFS |
+| S1 digital silence | 07–08 | 55.000–60.000 / 5s | Zero samples; no fundamental | −∞dBFS |
+
+Drone attack E(t)=(1−cos(πt/6))/2 for first 6s; release mirrors this in final 6s. No modulation or harmonics. Piano-like synthesis: sum zero-phase sine partials at f, 2f, 3f, 4f with relative amplitudes 1, 0.35, 0.12, 0.04; normalize composite peak to unity, then apply gain and envelope. Attack rises linearly to one in 0.008s; thereafter decay exp(−(t−0.008)/τ). Multiply final 0.15s by linear ramp to zero. No pedal or reverb.
+
+FFmpeg synthesis: "'`anoisesrc` with fixed seed 2718 and `highpass`/`lowpass` for R1; `aevalsrc` for sine and additive sources, with sample-accurate envelopes. Generate at listed durations; place using `adelay` at 0ms (R1/H1), 18000ms (D1), 11000ms (P1), 40000ms (P2). Mix with `amix=normalize=0`. Retain natural breathing and faint fabric movement before 55s; no added Foley. Shot 06 has no score. Trim all production sound at sample 2640000; samples 2640000–2879999 are zero. No tail crosses into black. Do not gate the earlier speech pauses.
+'"''')
+D='a fictional man in his late 30s with light skin, short neat dark-brown hair with slight recession at the temples, clean-shaven, average build, calm neutral intelligent expression, steady eyes, wearing a dark olive-green practical rain jacket with the collar slightly up and a gray crew-neck sweater underneath'
+R='a fictional man in his early 40s with light skin, short slightly wavy sandy-blond hair, light stubble on the jaw, slightly heavier than average build, tired but kind eyes, neutral grounded expression, wearing a charcoal-gray knit sweater over a navy collared shirt'
+F='a fictional man in his early 40s with medium-brown skin, closely cropped black hair, clean-shaven, slender build, long oval face, quiet attentive eyes, neutral unreadable expression, wearing a plain slate-blue button-down shirt with sleeves buttoned at the wrists, an original deadpan documentary filmmaker-interviewer with no likeness to any real person'
+L=\"a quiet, plain, softly lit dining room inside Dan's suburban house, pale warm-gray walls, a bare oak table, mismatched upholstered chairs, a broad window with thin cream curtains, a folded sleeping bag and an overnight bag against the far wall suggesting the interviewer has effectively moved in, domestic slightly too intimate proportions, minimal documentary crew footprint, no visible crew or lighting equipment\"
+S='photorealistic live-action cinematography, 24fps, overcast Pacific Northwest suburb, natural lighting, restrained muted color grade, no cartoon effects, no exaggerated expressions, everyone behaves completely seriously'
+continuity=f'DAN: {D}\\n\\nROY: {R}\\n\\nFIELDER: {F}\\n\\nINTERVIEW ROOM: {L}'
+refs={1:'FIELDER ref',2:'DAN ref',3:'DAN ref; FIELDER ref for offscreen voice continuity only',4:'ROY ref; FIELDER ref for offscreen voice continuity only',5:'DAN ref',6:'DAN ref; FIELDER ref for offscreen voice continuity only',7:'None',8:'None'}
+prompts='# Clip prompts\\n\\n16:9, 1920×1080 delivery. Each prompt is independent. Repeated cast/location descriptions are continuity metadata: render only the explicitly named visible subject; other cast remain absent. For graphic plates, all cast and location metadata are non-rendering. Reference portraits are future inputs, not generated by this document. Replace generated dialogue in post if needed to preserve exact line windows and holds.\\n'
+for n,t,d,f,b in shots:
+ visible=('Only '+('FIELDER' if n==1 else 'ROY' if n==4 else 'DAN')+' visible. '+f+'. Plain domestic setting, softly lit by curtained window; locked tripod; no subtitles, logos, or crew. '+('Overnight bag and folded sleeping bag softly visible behind FIELDER. ' if n==1 else '')) if n<7 else ('Pure #000000 graphic plate; no people, room, texture, or objects. '+('No text.' if n==7 else 'Final title: YOU CAN SEE ANYTHING, centered single line, off-white regular neutral sans serif, 64px at 1080p, 0.08em tracking.'))
+ for kind in ['Still-image','Video']:
+  if kind=='Still-image': action='Use a neutral silent instant; ordinary expression, no theatrical emotion.' if n<7 else ('Render exact title as a typography mockup; final type will be replaced in post.' if n==8 else 'Solid black, no lettering.')
+  else:
+   action=f'Exactly {d}s. Local timeline: {b} '
+   for who,line,a,z in lines.get(n,[]): action+=f'{a}–{z}s {who}: “{line}” '
+   action+=('Soft dry conversational voices; no score baked in, no camera movement. Natural blinking and breathing; no ironic emphasis.' if n<7 else 'No generated audio or fades. '+('Generate a clean black base plate without lettering; composite final title in post per TITLES.md.' if n==8 else ''))
+  if kind=='Still-image': prompts+=f'\\n## Shot {n:02} — {d}s\\n\\nReference portraits: {refs[n]}.\\n'
+  prompts+=f'\\n### {kind} prompt\\n\\n{continuity}\\n\\n{S}\\n\\n16:9. {visible} {action}\\n'
+P.joinpath('CLIP_PROMPTS.md').write_text(prompts)
+assert sum(s[2] for s in shots)==60
+assert prompts.count(S)==16
+assert prompts.count(D)==16 and prompts.count(R)==16
+for name in ['PACING_NOTES.md','SCRIPT.md','CLIP_PROMPTS.md','MUSIC_CUES.md','TITLES.md']:
+ assert P.joinpath(name).stat().st_size>0
+print('Created and checked five files; 8 shots, 60 seconds, 16 self-contained prompts.')
+PY" in /home/hatch/workspace/you-can-see-anything-teaser
+ succeeded in 10ms:
+Created and checked five files; 8 shots, 60 seconds, 16 self-contained prompts.
+
+codex
+Created all five production files:
+
+- [PACING_NOTES.md](PACING_NOTES.md)
+- [SCRIPT.md](SCRIPT.md)
+- [CLIP_PROMPTS.md](CLIP_PROMPTS.md)
+- [MUSIC_CUES.md](MUSIC_CUES.md)
+- [TITLES.md](TITLES.md)
+
+Checked: eight shots totaling exactly 60 seconds, with 16 self-contained prompts. No images or video generated.
+tokens used
+17,351
+Created all five production files:
+
+- [PACING_NOTES.md](PACING_NOTES.md)
+- [SCRIPT.md](SCRIPT.md)
+- [CLIP_PROMPTS.md](CLIP_PROMPTS.md)
+- [MUSIC_CUES.md](MUSIC_CUES.md)
+- [TITLES.md](TITLES.md)
+
+Checked: eight shots totaling exactly 60 seconds, with 16 self-contained prompts. No images or video generated.
