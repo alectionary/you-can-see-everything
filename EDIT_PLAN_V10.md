@@ -1,6 +1,6 @@
 # YOU CAN SEE EVERYTHING — v10 build plan
 
-RULES.md outranks this plan. This replaces the v8 plan and v9 revision in EDIT_PLAN.md. Runtime is **71.000 seconds / 1,704 frames at 24fps**, 1920×1080. Times are seconds, start-inclusive/end-exclusive; all picture boundaries are integral frames. There is no target-length compression. All visible segments, including every panel composition and card reveal, are enumerated below; no hidden microcuts or changing panels inside these intervals.
+RULES.md outranks this plan. This replaces the v8 plan and v9 revision in EDIT_PLAN.md. Runtime is **76.000 seconds / 1,824 frames at 24fps**, 1920×1080. Times are seconds, start-inclusive/end-exclusive; all picture boundaries are integral frames. There is no target-length compression. All visible segments, including every panel composition and card reveal, are enumerated below; no hidden microcuts or changing panels inside these intervals.
 
 ## Sources and assembly
 
@@ -53,21 +53,22 @@ Use the eleven dialogue/v2 MP3s with unchanged v7 delays: f01 1.500, d01 8.000, 
 | S23 | 60.500 | 62.500 | 2.000 | 4×4 mixed grid continues same geometry; D06 source 5–7 simultaneously in face cells; LOT source 7.5–9.5 and DEMO source 5.5–7.5 in cells 5 and 10. | — |
 | S24 | 62.500 | 65.000 | 2.500 | CARD 8 — THE GREATEST FILM YOU WILL EVER SEE IN YOUR LIFE | — |
 | S25 | 65.000 | 67.000 | 2.000 | Pure black, no text; absolute digital silence on every audio bus. | — |
-| S26 | 67.000 | 71.000 | 4.000 | Static title YOU CAN SEE EVERYTHING; one fff ensemble chord at first frame, externally decayed through end. | — |
+| S26 | 67.000 | 71.000 | 4.000 | Static title YOU CAN SEE EVERYTHING; one fff ensemble chord at first frame, externally sustained/decayed through 76.000. | — |
+| S27 | 71.000 | 76.000 | 5.000 | One continuous shot inside a Tesla at night from the driver’s seat; fade in from black over the first second (71.000–72.000), a transition, not a cut. Center touchscreen glows with white YOU CAN SEE EVERYTHING, identical title text, on its black display; cabin otherwise dark and world outside the windshield pure black. In the final ~1.5s (74.500–76.000), headlights switch on and clearly illuminate the community food bank ahead: a lighting change within this same continuous take, not a cut. | — |
 
 ## Cards, escalation and sound
 
 Cards replace the full frame, white centered restrained sans-serif on pure black; exact wording above, no attribution, speech or sound effects. Sizes increase across cards, with reduced margins; keep all text inside 90% safe area. Card 8 breaks as “THE GREATEST FILM / YOU WILL / EVER SEE IN / YOUR LIFE”, held 2.500s. Title uses Liberation Sans Regular 64, color 0xE6E4DF, centered, no animation or end fade.
 
-Clear-film gaps between successive cards are **14.000, 8.000, 7.500, 7.000, 3.000, 2.500, 2.000 seconds**, strictly decreasing. Card durations are 2, 2, 2, 2.5, 2, 2, 2, 2.5 seconds; acceleration comes from the gaps and increasing panel density. The sequence is clean full-frame → two-panel → three-panel reaction → split stare → 2×2 → 3×3 → 4×4 → card 8 → black/silence → title. Card 4 replaces the obsolete quarter-second Dan return; the demolition composition holds until card 3, removing the obsolete Roy sliver. No unseen extra grid or return composition is required under a card.
+Clear-film gaps between successive cards are **14.000, 8.000, 7.500, 7.000, 3.000, 2.500, 2.000 seconds**, strictly decreasing. Card durations are 2, 2, 2, 2.5, 2, 2, 2, 2.5 seconds; acceleration comes from the gaps and increasing panel density. The sequence is clean full-frame → two-panel → three-panel reaction → split stare → 2×2 → 3×3 → 4×4 → card 8 → black/silence → title → Tesla / food-bank headlight reveal. Card 4 replaces the obsolete quarter-second Dan return; the demolition composition holds until card 3, removing the obsolete Roy sliver. No unseen extra grid or return composition is required under a card.
 
-Score10 keeps A–C (0–42) unchanged, retains the original D through 55, and adds ten quarter notes of cluster/tremolo/irregular-group development through 65. All-staff rest is 65–67; one fff title attack is at 67, held to 71 with an external exponential envelope (tau approximately 1.2s). No extra attacks or end tail. Disable synth chorus/reverb. Duck music about 6dB under locked speech, preserving consonants. Keep room tone through 65 only. Gate every bus and synth release to exact PCM zeros for 65–67: 48kHz samples 3,120,000 through 3,215,999 inclusive. Trim at sample 3,408,000. The black beat is two full seconds; no part of it funds card 8.
+Score10 keeps A–C (0–42) unchanged, retains the original D through 55, and adds ten quarter notes of cluster/tremolo/irregular-group development through 65. All-staff rest is 65–67; one fff title attack is at 67, sustained/decayed across 67–76 with an external exponential envelope (tau approximately 1.2s), ending in near-silence for the headlight reveal. No extra attacks or end tail. Disable synth chorus/reverb. Duck music about 6dB under locked speech, preserving consonants. Keep room tone through 65 only. Gate every bus and synth release to exact PCM zeros for 65–67: 48kHz samples 3,120,000 through 3,215,999 inclusive. Trim at sample 3,648,000. The black beat is two full seconds; no part of it funds card 8.
 
 ## Rules and verification brief
 
-Rule 1: the exhaustive audit below covers every actual visible shot, insert, card, panel/grid composition, black beat and title. Rule 2: added holds extend runtime to 71; no shortening of black or title to preserve an old runtime. Rule 3: all eleven SRT windows stay fixed, all eight cards avoid speech, Dan remains visible during on-camera lines, both deceive-you lines have only Fielder's closed-mouth reaction plus wordless inserts, and the food-bank insert covers the 14.500 line. Sedan ends exactly at 8.000 before the answer; demolition swaps at 27.000 after Roy.
+Rule 1: the exhaustive audit below covers every actual visible shot, insert, card, panel/grid composition, black beat and title. Rule 2: added holds extend runtime to 76; S27 is purely additive after the unchanged S01–S26; no shortening of black or title to preserve an old runtime. Rule 3: all eleven SRT windows stay fixed, all eight cards avoid speech, Dan remains visible during on-camera lines, both deceive-you lines have only Fielder's closed-mouth reaction plus wordless inserts, and the food-bank insert covers the 14.500 line. Sedan ends exactly at 8.000 before the answer; demolition swaps at 27.000 after Roy.
 
-Rule 4: run `python3 score/verify_score10.py`; it prints each duration, card/SRT overlap checks, preserved A–C checks and LilyPond's evaluated part lengths, compiling only to a temporary directory. Rule 5 is a required future rendered-artifact QC gate, not a claim of rendered verification here: no video or audio is built for this planning task. Before any future delivery, inspect the actual output's 1,704 frames, every listed boundary, mouth sync and closed-mouth reactions, source continuity, exact subtitles, title frame 1,608, music pitch/levels, single title attack, sample-zero interval and trimmed tails. Inspect the encoded viewing copy as well as the PCM master.
+Rule 4: run `python3 score/verify_score10.py`; it prints each duration, card/SRT overlap checks, preserved A–C and A–E checks and LilyPond's evaluated part lengths, compiling only to a temporary directory. Rule 5 is a required future rendered-artifact QC gate, not a claim of rendered verification here: no video or audio is built for this planning task. Before any future delivery, inspect the actual output's 1,824 frames, every listed boundary, mouth sync and closed-mouth reactions, source continuity, exact subtitles, title frame 1,608, music pitch/levels, single title attack sustained/decayed through 76, S27’s one-second fade-in and continuous headlight reveal, sample-zero interval and trimmed tails. Inspect the encoded viewing copy as well as the PCM master.
 
 ## DURATION AUDIT
 
@@ -101,5 +102,6 @@ Required minimum for **every segment: 2.000 seconds**; card 8 additionally ≥2.
 | S24 | 2.500 | 2.500 | PASS |
 | S25 | 2.000 | 2.000 | PASS |
 | S26 | 4.000 | 4.000 | PASS |
+| S27 | 5.000 | 2.000 | PASS |
 
-Total: **71.000s**. Smallest segment: **2.000s**. All 26 segments pass; no exceptions.
+Total: **76.000s**. Smallest segment: **2.000s**. All 27 segments pass; no exceptions.

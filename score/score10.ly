@@ -2,7 +2,7 @@
 
 \header {
   title = "YOU CAN SEE EVERYTHING"
-  subtitle = "V10 — seventy-one seconds under dialogue"
+  subtitle = "V10 — seventy-six seconds under dialogue"
   composer = "Original teaser score"
   tagline = ##f
 }
@@ -12,9 +12,9 @@
 % Bars 5–8: 4 x 4/4 = 16s (30s).
 % Bars 9–11: 3 x 4/4 = 12s (42s).
 % D: 42–65 (original 13q + 10q extension); E: 65–67 (2q rest).
-% F: 67–71 (4q single title attack). Total: 71 quarter notes.
+% F: 67–76 (9q single title attack). Total: 76 quarter notes.
 % Absolute digital silence requires external gating of ALL buses at 65–67.
-% Title envelope tau ~1.2s, trimmed exactly at 71; no synth audio rendered here.
+% Title envelope tau ~1.2s, trimmed exactly at 76; no synth audio rendered here.
 
 global = {
   \numericTimeSignature
@@ -42,10 +42,10 @@ global = {
   % E: 65–67, absolute silence.
   \mark \markup "1:05 — DIGITAL SILENCE"
   s2 |
-  % F: 67–71 — one collective attack; no further strikes.
+  % F: 67–76 — one collective attack; no further strikes.
   \time 4/4
-  \mark \markup "1:07 — title / decay to 1:11"
-  s1 \bar "|."
+  \mark \markup "1:07 — title / decay to 1:16"
+  s1 | s1 | \time 1/4 s4 \bar "|."
 }
 
 pianoRH = \fixed c' {
@@ -78,8 +78,8 @@ pianoRH = \fixed c' {
   <a bes b c' dis' e' fis'>2:32\ff |
   % 65–67: all-staff rest.
   r2 |
-  % 67–71: a single massive sonority. Let the mix envelope decay it.
-  <a bes b c' dis' e' fis'>1\fff^\markup { "one attack; decay, no re-strike" } |
+  % 67–76: a single massive sonority. Let the mix envelope decay it.
+  <a bes b c' dis' e' fis'>1~\fff^\markup { "one attack; decay, no re-strike" } | <a bes b c' dis' e' fis'>1~ | <a bes b c' dis' e' fis'>4 |
 }
 
 pianoLH = \fixed c' {
@@ -100,7 +100,7 @@ pianoLH = \fixed c' {
   <a,, bes,, ees, e,>2:32 |
   % 65–67: all-staff rest.
   r2 |
-  <a,, bes,, ees, e,>1\fff |
+  <a,, bes,, ees, e,>1~\fff | <a,, bes,, ees, e,>1~ | <a,, bes,, ees, e,>4 |
 }
 
 strings = \fixed c' {
@@ -123,7 +123,7 @@ strings = \fixed c' {
   % 65–67: all-staff rest.
   r2 |
   % No tremolo on the title: one sustained attack, externally decayed.
-  <a bes dis' e' f' fis'>1\fff |
+  <a bes dis' e' f' fis'>1~\fff | <a bes dis' e' f' fis'>1~ | <a bes dis' e' f' fis'>4 |
 }
 
 brass = \fixed c' {
@@ -140,31 +140,31 @@ brass = \fixed c' {
   <e, bes,>2 |
   % 65–67: all-staff rest.
   r2 |
-  <a,, ees, bes,>1\fff |
+  <a,, ees, bes,>1~\fff | <a,, ees, bes,>1~ | <a,, ees, bes,>4 |
 }
 
 
 % Programmatic duration assertions (whole-note moments = quarter count / 4).
 #(let ((actual (ly:music-length global)))
-   (if (not (equal? actual (ly:make-moment 71 4)))
-       (ly:error "global: expected 71 quarters, got ~a" actual))
-   (display "AUDIT global: 71.000 quarter notes PASS\n"))
+   (if (not (equal? actual (ly:make-moment 76 4)))
+       (ly:error "global: expected 76 quarters, got ~a" actual))
+   (display "AUDIT global: 76.000 quarter notes PASS\n"))
 #(let ((actual (ly:music-length pianoRH)))
-   (if (not (equal? actual (ly:make-moment 71 4)))
-       (ly:error "pianoRH: expected 71 quarters, got ~a" actual))
-   (display "AUDIT pianoRH: 71.000 quarter notes PASS\n"))
+   (if (not (equal? actual (ly:make-moment 76 4)))
+       (ly:error "pianoRH: expected 76 quarters, got ~a" actual))
+   (display "AUDIT pianoRH: 76.000 quarter notes PASS\n"))
 #(let ((actual (ly:music-length pianoLH)))
-   (if (not (equal? actual (ly:make-moment 71 4)))
-       (ly:error "pianoLH: expected 71 quarters, got ~a" actual))
-   (display "AUDIT pianoLH: 71.000 quarter notes PASS\n"))
+   (if (not (equal? actual (ly:make-moment 76 4)))
+       (ly:error "pianoLH: expected 76 quarters, got ~a" actual))
+   (display "AUDIT pianoLH: 76.000 quarter notes PASS\n"))
 #(let ((actual (ly:music-length strings)))
-   (if (not (equal? actual (ly:make-moment 71 4)))
-       (ly:error "strings: expected 71 quarters, got ~a" actual))
-   (display "AUDIT strings: 71.000 quarter notes PASS\n"))
+   (if (not (equal? actual (ly:make-moment 76 4)))
+       (ly:error "strings: expected 76 quarters, got ~a" actual))
+   (display "AUDIT strings: 76.000 quarter notes PASS\n"))
 #(let ((actual (ly:music-length brass)))
-   (if (not (equal? actual (ly:make-moment 71 4)))
-       (ly:error "brass: expected 71 quarters, got ~a" actual))
-   (display "AUDIT brass: 71.000 quarter notes PASS\n"))
+   (if (not (equal? actual (ly:make-moment 76 4)))
+       (ly:error "brass: expected 76 quarters, got ~a" actual))
+   (display "AUDIT brass: 76.000 quarter notes PASS\n"))
 
 \paper { #(set-paper-size "a3") }
 \score {
