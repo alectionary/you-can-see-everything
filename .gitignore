@@ -1,2 +1,1 @@
-# Build intermediates are reproducible from the tracked build scripts.
-build/v*/
+# Everything is tracked in this repo, including build intermediates.
