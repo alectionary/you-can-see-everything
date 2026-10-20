@@ -1,6 +1,2 @@
-# Large generated media — prompts, scripts, docs and small assets are tracked;
-# video binaries are reproducible from the tracked build scripts and prompts.
-clips/
+# Build intermediates are reproducible from the tracked build scripts.
 build/v*/
-*.mp4
-!QC_REPORT*.md
