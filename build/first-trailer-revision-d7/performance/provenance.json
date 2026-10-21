@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "character_input": "still",
+    "facial_expressiveness": 1,
+    "gestures": false,
+    "final_method": "Native output directly; no low-resolution face patch"
+  },
+  "jobs": [
+    {
+      "key": "dan-test",
+      "task_id": "2ab3c4ba-fb19-40dc-92af-faa212167944",
+      "duration": 4,
+      "credits": 20,
+      "segments": [
+        "T04"
+      ]
+    },
+    {
+      "key": "dan-main",
+      "task_id": "12a4e1b9-4a8b-495f-821e-5fdb1e596fe2",
+      "duration": 19,
+      "credits": 95,
+      "segments": [
+        "T08",
+        "T22",
+        "T26",
+        "T30",
+        "T35"
+      ]
+    },
+    {
+      "key": "fielder-main",
+      "task_id": "0930c1a7-f4d5-40f0-9233-a9a8182f75e5",
+      "duration": 7,
+      "credits": 35,
+      "segments": [
+        "T07",
+        "T09"
+      ]
+    }
+  ],
+  "total_credits": 150,
+  "new_elevenlabs_generations": 0,
+  "upload_approval": "User explicitly authorized Dan 19-second and Fielder 7-second clips plus generated stills to existing Runway workspace."
+}

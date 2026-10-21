@@ -1,0 +1,34 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/drivers/dan-main-still.mp4",
+  "audio": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/drivers/dan-main.wav",
+  "output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/drivers/dan-main-mouth.mp4",
+  "frames": 456,
+  "fps": 24,
+  "device": "mps",
+  "roi": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "detected_face_samples": 152,
+  "attempted_face_samples": 152,
+  "box_min": [
+    390,
+    13,
+    863,
+    619
+  ],
+  "box_max": [
+    390,
+    17,
+    867,
+    619
+  ],
+  "source_sha256": "6848dd5d3131606ed86878fe2b18b8daa8d2d7120481513536ca1c1a93eada77",
+  "audio_sha256": "93e15b64be6c1a7c36750934762133422909140ec27816f063ecf3f8f89ed880",
+  "output_sha256": "0b6612b6a65d7b00da952d815896655ac900c5deb8c8b1d53a5af60ef1a01778",
+  "seconds": 22.09,
+  "method": "Wav2Lip GAN; feathered lower-face composite; original upper face and body retained",
+  "license": "personal/noncommercial only"
+}

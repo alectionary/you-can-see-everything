@@ -1,0 +1,33 @@
+line_id,start_seconds,end_seconds,speaker,text,source,segment
+L01,8.4,10.5,ROY,Sorry. Let me start again.,"file dialogue/first/voice-tests/roy_L01.mp3; ElevenLabs Chris, recovered original settings",T02
+L02,12.2,14.7,FIELDER,What made you start doing this?,"file dialogue/first/revisions/fielder-r1/L02_fielder.mp3; ElevenLabs Brian, user pronunciation and pacing revision r1",T03
+L03,15.5,16.5,ROY,It helped.,"file dialogue/first/principal/L03_roy.mp3; ElevenLabs Chris, recovered original settings",T03
+L04a,18.4,19.75,DAN,Why would I deceive you?,reuse dialogue/v2/d04.mp3; original established Dan / Eric recording,T04
+L04b,20.25,21.95,DAN,There’s no reason for me to do that.,reuse dialogue/v2/d05.mp3; original established Dan / Eric recording,T04
+L05,25.2,25.9,OFFSCREEN DIRECTOR,Again.,"file dialogue/first/support/L05.mp3; ElevenLabs George, supporting cast",T05
+L06,30.3,33.0,FIELDER,Was the first one too suspicious?,"file dialogue/first/principal/L06_fielder.mp3; ElevenLabs Brian, recovered original settings",T07
+L07,34.15,36.6,DAN,I thought you looked confused.,"file dialogue/first/principal/L07_dan.mp3; ElevenLabs Eric, recovered original settings",T08
+L08,37.4,38.6,FIELDER,I was.,"file dialogue/first/revisions/fielder-r1/L08_fielder.mp3; ElevenLabs Brian, user pronunciation and pacing revision r1",T09
+L09,40.5,44.0,FIELDER,Roy doesn’t want to participate in the documentary.,"file dialogue/first/principal/L09_fielder.mp3; ElevenLabs Brian, recovered original settings",T10
+L10,45.0,47.8,DAN,"Well, let’s just hire a lookalike.","file dialogue/first/principal/L10_dan.mp3; ElevenLabs Eric, recovered original settings",T10
+L11,49.0,50.4,ROY CANDIDATE A,No. Not once.,"file dialogue/first/support/L11.mp3; ElevenLabs Will, supporting cast",T11
+L12,53.0,54.4,ROY CANDIDATE B,No. Not once.,"file dialogue/first/support/L12.mp3; ElevenLabs Roger, supporting cast",T12
+L13,57.0,59.3,ROY CANDIDATE C,What am I saying no to?,"file dialogue/first/support/L13.mp3; ElevenLabs Daniel, supporting cast",T13
+L14,67.5,70.0,COMMUNICATIONS,We’re only here for factual accuracy.,"file dialogue/first/support/L14.mp3; ElevenLabs Sarah, supporting cast",T15
+L15,76.1,78.2,FIELDER,What was inaccurate?,"file dialogue/first/principal/L15_fielder.mp3; ElevenLabs Brian, recovered original settings",T17
+L16,81.1,83.5,COMMUNICATIONS,Which version are you looking at?,"file dialogue/first/support/L16.mp3; ElevenLabs Sarah, supporting cast",T18
+L17,84.1,89.8,DAN,There’s no such thing as good publicity or bad publicity. Only publicity.,"file dialogue/first/principal/L17_dan.mp3; ElevenLabs Eric, recovered original settings",T19
+L18,96.2,99.7,FIELDER,Why did you agree to make this movie?,"file dialogue/first/principal/L18_fielder.mp3; ElevenLabs Brian, recovered original settings",T21
+L19,100.4,104.4,DAN,I’d like the conversation to happen on Pinterest.,"file dialogue/first/dan_L19_platform.mp3; ElevenLabs Eric, recovered original settings",T22
+L20,108.8,113.0,ROY,This next one’s about someone I used to work with.,"file dialogue/first/principal/L20_roy.mp3; ElevenLabs Chris, recovered original settings",T23
+L21,122.4,124.6,FIELDER,Did you arrange this?,"file dialogue/first/principal/L21_fielder.mp3; ElevenLabs Brian, recovered original settings",T25
+L22,126.3,128.1,DAN,Roy chose the song.,"file dialogue/first/principal/L22_dan.mp3; ElevenLabs Eric, recovered original settings",T26
+L23,130.4,132.5,ROY CANDIDATE A,Am I supposed to play it?,"file dialogue/first/support/L23.mp3; ElevenLabs Will, supporting cast",T27
+L24,133.0,135.5,OFFSCREEN CREW,We can use the original audio.,"file dialogue/first/support/L24.mp3; ElevenLabs Charlie, supporting cast",T27
+L25,136.5,137.6,EDITOR,Which take?,"file dialogue/first/support/L25.mp3; ElevenLabs Matilda, supporting cast",T28
+L26,138.3,140.8,FIELDER,The one where I didn’t know.,"file dialogue/first/principal/L26_fielder.mp3; ElevenLabs Brian, recovered original settings",T28
+L27,142.3,145.5,FIELDER,You said you weren’t involved.,"file dialogue/first/principal/L27_fielder.mp3; ElevenLabs Brian, recovered original settings",T29
+L28,146.4,147.7,DAN,In the song?,"file dialogue/first/principal/L28_dan.mp3; ElevenLabs Eric, recovered original settings",T30
+L29,161.3,163.55,DAN,I’m engaging with you as a human being.,reuse dialogue/v2/d03.mp3; delivered visibly by Dan in T35,T35
+L30,164.8,167.9,ROY,I didn’t know they were going to use—,"file dialogue/first/principal/L30_roy.mp3; ElevenLabs Chris, recovered original settings",T36
+L31,179.3,180.8,ROY,Can you hear me?,"file dialogue/first/principal/L31_roy.mp3; ElevenLabs Chris, recovered original settings",T39

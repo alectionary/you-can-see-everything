@@ -1,0 +1,314 @@
+[
+  {
+    "segment": "T01",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T01.mp4",
+    "kind": "Clean native Roy performance; no local mouth patch",
+    "duration": 8.0
+  },
+  {
+    "segment": "T02",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_end.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 4.0
+  },
+  {
+    "segment": "T03",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_continuous.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 6.0
+  },
+  {
+    "segment": "T05",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T05.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T06",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T06.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T10",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d7/images/T10-reverse.png",
+    "kind": "Reverse-angle interview coverage",
+    "duration": 8.0
+  },
+  {
+    "segment": "T11",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/candidate_a.mp4",
+    "kind": "Held sharp contact-sheet / audio review composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T12",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/candidate_b.mp4",
+    "kind": "Held sharp contact-sheet / audio review composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T13",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/candidate_c.mp4",
+    "kind": "Held sharp contact-sheet / audio review composition",
+    "duration": 6.0
+  },
+  {
+    "segment": "T14",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T14.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 5.0
+  },
+  {
+    "segment": "T15",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d7/images/communications-reverse.png",
+    "kind": "Reverse-angle interview coverage",
+    "duration": 5.0
+  },
+  {
+    "segment": "T16",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T16.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T17",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T17.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "C01",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/C01.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 2.0
+  },
+  {
+    "segment": "T18",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d7/images/communications-reverse.png",
+    "kind": "Reverse-angle interview coverage",
+    "duration": 3.0
+  },
+  {
+    "segment": "T19",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T19.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 6.0
+  },
+  {
+    "segment": "T20",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T20.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 6.0
+  },
+  {
+    "segment": "T21",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T21.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "C02",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/C02.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 2.0
+  },
+  {
+    "segment": "T23",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_continuous.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 6.0
+  },
+  {
+    "segment": "T24",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T24.mp4",
+    "kind": "Clean native Roy performance; no local mouth patch",
+    "duration": 8.0
+  },
+  {
+    "segment": "T25",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T25.mp4",
+    "kind": "Sharp held monitor coverage; off-screen voice",
+    "duration": 4.0
+  },
+  {
+    "segment": "T27",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/candidate_uke.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 6.0
+  },
+  {
+    "segment": "T28",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T28.mp4",
+    "kind": "Sharp held monitor coverage; off-screen voice",
+    "duration": 6.0
+  },
+  {
+    "segment": "T29",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T29.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T31",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_continuous.mp4",
+    "kind": "Held sharp contact-sheet / audio review composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "T32",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T32.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "T33",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T33.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "T34",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/fielder_practice.mp4",
+    "kind": "Held sharp contact-sheet / audio review composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "T36",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T36.mp4",
+    "kind": "Sharp held monitor coverage; off-screen voice",
+    "duration": 4.0
+  },
+  {
+    "segment": "C03",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/C03.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 3.0
+  },
+  {
+    "segment": "T37",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T37.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 2.0
+  },
+  {
+    "segment": "T38",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/T38.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T39",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_end.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 5.0
+  },
+  {
+    "segment": "T40",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_end.mp4",
+    "kind": "Native instrument insert; face outside frame",
+    "duration": 5.0
+  },
+  {
+    "segment": "C04",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/segments/C04.mp4",
+    "kind": "preserved D6 composition",
+    "duration": 4.0
+  },
+  {
+    "segment": "T04",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-test-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T07",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/fielder-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T08",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T09",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/fielder-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T22",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 6.0
+  },
+  {
+    "segment": "T26",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T30",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T35",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T04",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-test-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T07",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/fielder-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T08",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T09",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/fielder-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T22",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 6.0
+  },
+  {
+    "segment": "T26",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 4.0
+  },
+  {
+    "segment": "T30",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 3.0
+  },
+  {
+    "segment": "T35",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/performance/dan-main-native.mp4",
+    "kind": "Native sharp stationary Act-Two output; whole frame held after speech plus 100ms; no mouth patch",
+    "duration": 3.0
+  }
+]

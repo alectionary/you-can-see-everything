@@ -1,0 +1,29 @@
+{
+  "key": "fielder-main",
+  "role": "FIELDER",
+  "character": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/drivers/fielder-main-character.png",
+  "driver": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/drivers/fielder-main-driver.mp4",
+  "duration": 7,
+  "segments": [
+    {
+      "segment": "T07",
+      "offset": 0,
+      "duration": 4
+    },
+    {
+      "segment": "T09",
+      "offset": 4,
+      "duration": 3
+    }
+  ],
+  "half": null,
+  "ratio": "16:9",
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/fielder_practice.mp4",
+  "source_frame_seconds": 8,
+  "method": "Stationary native character frame; existing accepted voice recordings; mouth driver only. Final delivery uses native high-detail performance output directly. No driver mouth patch enters delivery.",
+  "settings": {
+    "facial_expressiveness": 1,
+    "gestures": false
+  },
+  "driver_sha256": "4a9bdc806d2315a689c08ff5a23ba5362594032cecd8b13cc358bd376866d5f1"
+}

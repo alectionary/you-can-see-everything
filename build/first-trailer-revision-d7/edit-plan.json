@@ -1,0 +1,13 @@
+{
+  "duration": 191,
+  "segments": 44,
+  "minimum_hold": 2,
+  "source": "D6 durations retained in full",
+  "changes": [
+    "T35 visibly Dan; L29 audio starts 161.3 and ends 162.993, caption ends 163.55 before Roy at 164",
+    "Stationary still character plus stationary performance driver, expressiveness 1, gestures off; final native output used directly",
+    "Candidate audio-review filmstrip, rear interview and comms coverage, instrument inserts, paused stream",
+    "Roy strums from first frame through 18; final diegetic strums 177-187; CTA silent"
+  ],
+  "RULES.md": "All 44 holds retain D6 durations; no shot shortened. Full-trailer changes explicitly requested by user; accepted words/voice files preserved. Final actual artifact is checked, including segment audit."
+}

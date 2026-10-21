@@ -1,0 +1,54 @@
+{
+  "master_gain_db": 9.829999999999998,
+  "premaster_loudness": {
+    "input_i": "-27.83",
+    "input_tp": "-10.73",
+    "input_lra": "10.10",
+    "input_thresh": "-38.92",
+    "output_i": "-18.28",
+    "output_tp": "-1.20",
+    "output_lra": "8.40",
+    "output_thresh": "-29.41",
+    "normalization_type": "dynamic",
+    "target_offset": "0.28"
+  },
+  "master_loudness": {
+    "input_i": "-18.02",
+    "input_tp": "-1.51",
+    "input_lra": "10.00",
+    "input_thresh": "-29.30",
+    "output_i": "-18.24",
+    "output_tp": "-1.33",
+    "output_lra": "8.30",
+    "output_thresh": "-29.36",
+    "normalization_type": "dynamic",
+    "target_offset": "0.24"
+  },
+  "dialogue": "All accepted speech PCM preserved. L29 moved to 161.3 on Dan.",
+  "diegetic_uke_windows": [
+    [
+      0,
+      18
+    ],
+    [
+      108,
+      130
+    ],
+    [
+      177,
+      187
+    ]
+  ],
+  "score_ends": 177,
+  "silence": [
+    [
+      171,
+      173
+    ],
+    [
+      187,
+      191
+    ]
+  ],
+  "other_stems": "D6 byte-identical"
+}
