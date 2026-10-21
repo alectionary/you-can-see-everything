@@ -1,0 +1,20 @@
+{
+  "character": "ROY",
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris - Charming, Down-to-Earth",
+  "text": "I didn\u2019t know they were going to use\u2014",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "ee183e6f7771d02f208820667be0bdefcb508686980c4a352e6f653509bac9cb",
+  "request_id": "MZ60CHvep06SCvgQwaX5",
+  "history_item_id": "4JmzFUVd8EWe5qf4ZXGg",
+  "character_cost_header": "37",
+  "sha256": "ddc6b8c3fde3bbe793dd863012a4728f6db35756e9c79ccb2082699009f4bc99"
+}

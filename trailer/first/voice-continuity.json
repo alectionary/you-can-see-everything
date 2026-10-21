@@ -1,0 +1,35 @@
+[
+  {
+    "character": "dan",
+    "history_item_id": "uTpAxNGiSirQOlDB45bu",
+    "local_reference": "dialogue/v2/d01.mp3",
+    "download_bytes": 36580,
+    "local_bytes": 19687,
+    "file_identical": false,
+    "decoded_pcm_identical": true,
+    "history_sha256": "761e0282e5372f89a6b843590a62955d8e9cfb411da2357000384a50b0a7ab36",
+    "local_sha256": "95fdc7affc8156ebfb809f8ec6ff01258dde1d5f08dad0895cb826d709be9d7f"
+  },
+  {
+    "character": "roy",
+    "history_item_id": "o2KQ3oSonWysFeZBg3Qt",
+    "local_reference": "dialogue/v2/r01.mp3",
+    "download_bytes": 33654,
+    "local_bytes": 16761,
+    "file_identical": false,
+    "decoded_pcm_identical": true,
+    "history_sha256": "c8dcd7a4b943a4e11d5483b2b271da10ddccce21421940220dadf6246fd2969e",
+    "local_sha256": "4cdaaff626ae93ac03e8e8ddd3c58e91b5be41f28431ecbfc295b33c973af382"
+  },
+  {
+    "character": "fielder_brian",
+    "history_item_id": "Rliq5xg8yiodOApQmCjS",
+    "local_reference": "dialogue/v2/f01.mp3",
+    "download_bytes": 46193,
+    "local_bytes": 29300,
+    "file_identical": false,
+    "decoded_pcm_identical": true,
+    "history_sha256": "373a010211a5947bbdc7adae39888b7f2173a89d176ba54bff5eeb1c7baa4213",
+    "local_sha256": "fdc315dca9d179c2d2fcfaf4528397cf68f50ee8bd545172ce69726899b20494"
+  }
+]

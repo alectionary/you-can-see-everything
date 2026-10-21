@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "character": "DAN",
+      "file": "dialogue/first/voice-tests/dan_L19.mp3",
+      "duration_seconds": 1.578957,
+      "text": "I want to trend on Pinterest.",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "request_id": "Mr0nXmA5lgOXw8HNkFcc",
+      "history_item_id": "mACQ86O9KWN7EJgiFy0V",
+      "sha256": "1654f605861c774532874a6fb6fbd209b02f7117b94376cf3026fd4d560c4dc0"
+    },
+    {
+      "character": "ROY",
+      "file": "dialogue/first/voice-tests/roy_L01.mp3",
+      "duration_seconds": 1.207438,
+      "text": "Sorry. Let me start again.",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "request_id": "M3fzzUZqaeuuuwqWIhlU",
+      "history_item_id": "1aR8aTA4Bqz7lhbgneg1",
+      "sha256": "e40272fd9dfa3619e9dcb372c6895f609e5fd7f0d044141652f8331d01ea7a9f"
+    },
+    {
+      "character": "FIELDER",
+      "file": "dialogue/first/voice-tests/fielder_L02.mp3",
+      "duration_seconds": 1.625397,
+      "text": "What made you start doing this?",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "request_id": "S18FZwMxUUFifeYLNiKK",
+      "history_item_id": "FGj8cMbEDJTcqPGwfU0d",
+      "sha256": "27c93b7783c5936b3aa39a6a4d4d43cb58fccc67809febde1dd3fec9d0e29c68"
+    }
+  ],
+  "generated_characters": 86,
+  "account_credit_change": 86,
+  "verification": "All three MP3s decode. Original character identities are confirmed by exact PCM matches to history audio. New acting requires listening review."
+}

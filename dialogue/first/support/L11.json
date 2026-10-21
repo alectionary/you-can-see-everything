@@ -1,0 +1,20 @@
+{
+  "character": "ROY CANDIDATE A",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "text": "No. Not once.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "6a180eda675bdb296e338b6c2de2451eedd975dcfe778227236f1d488a3cce5f",
+  "request_id": "LbV8oi8prNPp19cYkvid",
+  "history_item_id": "z2aoY2C28J5VVes4as8j",
+  "character_cost_header": "13",
+  "sha256": "98d3ee3ecfd713ce8b466d7be1665d315ae61311919868b5f75bc39149df98b1"
+}

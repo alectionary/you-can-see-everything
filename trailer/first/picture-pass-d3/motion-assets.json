@@ -1,0 +1,225 @@
+{
+  "starting_credits": 2310,
+  "remaining_at_last_submission": 1290,
+  "credits_used": 1020,
+  "pass_budget": 1800,
+  "reserve_floor": 510,
+  "generations": 14,
+  "assets": [
+    {
+      "key": "roy-stream",
+      "taskId": "ede7e28d-d0c7-4b32-a00b-5e88980e2142",
+      "prompt": "Fixed webcam, one continuous quiet documentary take. The seated man sincerely plays this small four-string ukulele, plucking a simple slow phrase in measured one-second beats. His right fingertips gently pluck beside the sound hole and his left hand makes modest plausible fingering changes near the first frets. His tired kind expression stays absorbed and calm. Small natural breathing, occasional blink, gaze mostly down toward the instrument. Preserve exactly the same man, charcoal hoodie, olive shirt, four strings, four tuning pegs, crutches, chair, window light and room. His lips remain closed. The camera remains completely still. No cuts, no text, no additional people, no dramatic gesture.",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/roy-stream.mp4",
+      "sha256": "20c9fb58dfe31737949dc4280b48867b9bf56ae15ce0850171c96b56d283d6ac",
+      "bytes": 2702519
+    },
+    {
+      "key": "candidate_a",
+      "prompt": "Seated fictional actor says a brief restrained answer to an interviewer just camera left, a small head shake once, then waits neutrally. Natural subtle speaking motion for two seconds at beginning, then lips closed. Fixed camera, single take. Preserve this exact face, gray hoodie, olive shirt, audition room and lighting. No captions, no cuts, no exaggerated acting.",
+      "taskId": "9569f8ee-8234-42b8-a667-8b81bbd686a9",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/candidate_a.mp4",
+      "sha256": "4c08587cec605c54fad36af4f5dcf0403283553cbbd9f8162bb59eb63b7cd124",
+      "bytes": 2063604
+    },
+    {
+      "key": "candidate_b",
+      "prompt": "Seated fictional actor gives a brief restrained answer to an interviewer just camera left. Slight nod, modest speaking mouth motion for two seconds at beginning, then waits quietly. Fixed camera, single take. Preserve exact face, mustache, hoodie, olive shirt, audition room and lighting. No text or cuts.",
+      "taskId": "1b355d42-fcb6-4bc5-94d7-1755d8937a2d",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/candidate_b.mp4",
+      "sha256": "54ae2b8e20cdd2b2a0c8506b70f452488cb957ee514fdc4b83db009ee6487462",
+      "bytes": 2158631
+    },
+    {
+      "key": "candidate_c",
+      "prompt": "Seated fictional actor asks a short reasonable question, subtly raising his eyebrows and looking at interviewer just camera left, then waits for an answer. Natural speaking movement near beginning, no exaggerated expression. Preserve exact face, glasses, hoodie, room and lighting. Locked camera, one continuous take.",
+      "taskId": "8d8c9c06-f574-42f0-834d-e42313442b08",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/candidate_c.mp4",
+      "sha256": "33942eb7618708000c5a4bb1541b1f55cbdb185bad90a9cabf942fee296f2a2a",
+      "bytes": 1818832
+    },
+    {
+      "key": "communications",
+      "prompt": "The woman with legal pad gives a short matter-of-fact answer to interviewer just off camera. Small natural speaking movements for first four seconds, then a thoughtful blink, glance at her pad and return gaze. Restrained professional demeanor, fixed documentary camera, preserve exact face, clothes, hands and room. No text, cuts or added people.",
+      "taskId": "3606aa18-65ba-4e28-80a3-c57f107f30d0",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/communications.mp4",
+      "sha256": "41804f7413542c175a7ca1de1c82324454b7c2cc867239d70927ad73ecb4ff93",
+      "bytes": 1677197
+    },
+    {
+      "key": "table",
+      "prompt": "One continuous locked documentary two-shot. The man on the right in gray blazer quietly speaks first for three seconds. Both wait for a beat. The man on the left then gives a short calm practical answer. Their movements are small and ordinary, hands relaxed. Preserve exact faces, clothes, room, table and lighting. No cuts, no captions, no dramatic gesture.",
+      "taskId": "9d8e61bb-9859-440c-b7ff-34b12fa1087a",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/table.mp4",
+      "sha256": "73355f32af1e34188a9d5ae2554bc3ce9d4358d0f3726f8205810a7cc7957038",
+      "bytes": 1805948
+    },
+    {
+      "key": "roy_monitor",
+      "prompt": "Locked documentary camera. The man quietly watches his laptop, blinking, eyes scanning slightly. His expression slowly tightens with concern and he looks just beyond the screen near the end. Preserve exact man, face, hoodie, laptop, crutches and room. Lips remain closed, no cuts or text. Restrained natural breathing.",
+      "taskId": "09bdf21f-cb1f-4168-969f-1ea2f85f5472",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/roy_monitor.mp4",
+      "sha256": "e974a849b523f9765f97cfcb921156210539ac4294d28bfcb758fbcff9b8ea5a",
+      "bytes": 1600981
+    },
+    {
+      "key": "lodge",
+      "prompt": "One continuous locked documentary event shot, absolutely no cuts. First SIX seconds the intact Cubist portrait sits still in this exact thick frame on pedestal. Guests watch quietly. At six seconds an internal motor pulls the canvas slowly vertically DOWN through the narrow slot at the bottom of the fixed frame. Thin parallel shredded strips of the painted canvas emerge beneath the slot and lengthen toward the pedestal while the portrait gradually descends inside the frame leaving blank backing above. Mechanical physically plausible continuous motion. Frame and pedestal remain rigid and stationary. Guests look surprised but restrained; the man at right raises his phone to record near the end. No confetti or explosion, no added objects, no text. Preserve exact painting, room, guests, snowy windows and lighting.",
+      "taskId": "defc532c-3bae-4e05-a442-06e4cc93990a",
+      "meta": {
+        "modelId": "wan3",
+        "modelLabel": "WAN 3.0",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 16,
+        "hasAudio": false,
+        "resolution": "720p"
+      },
+      "file": "clips/first/picture-pass-d3/lodge.mp4",
+      "sha256": "569fa91a3d801c7a896e5728bee595ab8a1a4f6b3109e8b93817b143b1f88302",
+      "bytes": 16891551
+    },
+    {
+      "key": "dan",
+      "prompt": "Locked documentary medium close-up of this exact man. He gives an ordinary calm, practical answer, speaking softly in short sentences with little head movement, then waits politely. No big smile, no wink, no sinister expression. Preserve exact face, hairstyle, olive jacket, gray shirt, domestic room and lighting. One continuous take, no cuts or text.",
+      "taskId": "154df440-041e-484f-856b-6400328e2822",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/dan.mp4",
+      "sha256": "2e505638b15c80c0aa684ebfdb535fc3505f7d0d3e706ae008ec33b215ed2746",
+      "bytes": 1415950
+    },
+    {
+      "key": "fielder_practice",
+      "prompt": "Locked documentary close-up. The seated man resets his neutral face and waits, then deliberately rehearses a puzzled reaction: eyebrows pinch at center, eyes squint, chin dips and gaze drops down toward his lap. Hold the downward gaze for a beat. He looks back toward interviewer and quietly asks a short question. Small restrained movements, no comic mugging. Preserve exact face, wavy hair, gray blazer, black shirt and room. One continuous take, no text or cuts.",
+      "taskId": "1a799ee3-9c59-441b-90b8-3f6b54eb14d9",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/fielder_practice.mp4",
+      "sha256": "326eff70e7f6168d6d5146342f21228425a6529c443f860ac60626f79dce6333",
+      "bytes": 2260563
+    },
+    {
+      "key": "roy_end",
+      "prompt": "One continuous fixed webcam shot. The man stops playing and rests his right hand on the small four-string ukulele, looks just beyond his webcam, waits uncertainly, then softly asks a very short question, lips moving for about one second. Afterward he waits, eyes searching the camera with quiet concern. Restrained natural expression. Preserve exact man, four-string instrument, hoodie, room, crutches, lighting. No cuts, no text.",
+      "taskId": "38db02e6-1bab-437b-ab89-b44af97c2030",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/roy_end.mp4",
+      "sha256": "7558e2b9a0261b9596c17d097ea7b3ec694095fffa7be8f682a41d845b524159",
+      "bytes": 2356379
+    },
+    {
+      "key": "candidate_uke",
+      "prompt": "Locked documentary camera. The seated actor holds his small four-string ukulele, asks interviewer just off camera a brief uncertain question for two seconds, then waits and glances down at the instrument. He does not play it. Preserve exact man, face, hands, four-string ukulele with four pegs, hoodie, audition room and light. Small natural breathing and blinks, no cuts or text.",
+      "taskId": "c7d64f23-fec6-4975-95f3-c5ba3b760ed6",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/candidate_uke.mp4",
+      "sha256": "1486c07fc7bc6326f254ce1f46e232e807a2c8b03eb642a832c97e2502ff29ba",
+      "bytes": 2268361
+    },
+    {
+      "key": "roy_continuous",
+      "prompt": "Locked webcam, one continuous quiet documentary take with the same seated man and four-string ukulele from the reference. First five seconds he introduces a song in a short, soft spoken sentence, looking just beside the camera, right hand resting quietly on the instrument. Then he looks down and begins gently picking a simple slow four-note phrase, one note per second. His fingertips move modestly with plausible fretting near the first three frets. Preserve his exact identity, charcoal hoodie, olive shirt, small instrument, four tuning pegs, crutches, room and lighting. Performance stays sincere, no smiles or winks. No camera movement, no cuts, no text.",
+      "taskId": "83d01a25-89a5-403f-88e1-25143459615a",
+      "meta": {
+        "modelId": "wan3",
+        "modelLabel": "WAN 3.0",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 26,
+        "hasAudio": false,
+        "resolution": "720p"
+      },
+      "file": "clips/first/picture-pass-d3/roy_continuous.mp4",
+      "sha256": "49ccc735cb766f70c3238c62ffdd1ede62e3a12f84cab7d1b922edff832177b6",
+      "bytes": 23606434
+    },
+    {
+      "key": "guests",
+      "prompt": "One continuous locked documentary shot. The man holds his smartphone steadily and records the offscreen event to camera left. The blonde woman completes just ONE slow tentative polite clap, her hands touch then separate and relax; she looks mildly uncertain, not delighted. The dark-haired woman watches quietly holding her glass steady. Preserve these exact people, faces, clothes, phone, champagne glasses, ski-lodge room, lighting and framing. Natural breathing and blinks, no cuts, no speech, no text or added people.",
+      "taskId": "642471f5-7445-4d6a-a1f8-11ce2be06e4c",
+      "meta": {
+        "modelId": "gen-4-turbo",
+        "modelLabel": "Gen-4 Turbo",
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 10.083333
+      },
+      "file": "clips/first/picture-pass-d3/guests.mp4",
+      "sha256": "b1082505489fd5619e7c450d43805e2c4ad16e577df5ed73f7da1b6ab63eca70",
+      "bytes": 2268117
+    }
+  ],
+  "final_balance_verified": 1290
+}

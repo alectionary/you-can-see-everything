@@ -1,0 +1,20 @@
+{
+  "character": "ROY",
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris - Charming, Down-to-Earth",
+  "text": "It helped.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "ac3048298176f6fb135b3d95403fc709b5180ee518c7b267f6f0324a629579b5",
+  "request_id": "f5iZS8bo2ZXeQ4n0Dn7i",
+  "history_item_id": "b95RRaZqLqGJzKDfYhdM",
+  "character_cost_header": "10",
+  "sha256": "571d7ada5d653bbdfe8a755667030e247da10399adeaa11ce12b5d962b8c9f5e"
+}

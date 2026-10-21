@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "Did you arrange this?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "30e0cf403ffa4cb359d9c62f9ebdeabfa898e33eb9eadf09208454c3b28466f7",
+  "request_id": "08z8xNp9n75QP7tvir6o",
+  "history_item_id": "DqRDmcN8ou8gKw5ekfDQ",
+  "character_cost_header": "21",
+  "sha256": "5012336ad4d1bc08dd36db89fe0ef1c23bff9aa2af680693cc71d7b9e35fbcea"
+}

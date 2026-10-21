@@ -1,0 +1,20 @@
+{
+  "character": "ROY",
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris - Charming, Down-to-Earth",
+  "text": "Sorry. Let me start again.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "a8750a022d1949b8f58d1ed005440fa67c75d495515054401cf449048a31956e",
+  "request_id": "M3fzzUZqaeuuuwqWIhlU",
+  "history_item_id": "1aR8aTA4Bqz7lhbgneg1",
+  "character_cost_header": "26",
+  "sha256": "e40272fd9dfa3619e9dcb372c6895f609e5fd7f0d044141652f8331d01ea7a9f"
+}

@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "You said you weren\u2019t involved.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "399b9f34354ea634a880b26ffdf3651ac27278ec31de6da8626ba7ef0834c14a",
+  "request_id": "rbaoQh05UyFwGW5E5kuB",
+  "history_item_id": "2oLE1m8HHl9jegjWKM7M",
+  "character_cost_header": "30",
+  "sha256": "ba709b74e5584e6230bf161de02a184bcc43d6a9ef818e72d2485cbd88738de1"
+}

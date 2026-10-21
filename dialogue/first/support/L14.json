@@ -1,0 +1,20 @@
+{
+  "character": "COMMUNICATIONS",
+  "voice_id": "EXAVITQu4vr4xnSDxMaL",
+  "voice_name": "Sarah",
+  "text": "We\u2019re only here for factual accuracy.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "40cef6a735ccbb30f3e0a2a25f7fc3c848ff0f8ec806c0bdf88e3a4c76a85dd5",
+  "request_id": "8xwqbP2mhYEpJSnNOZsd",
+  "history_item_id": "pD7zoyhpkgXcxF0XuaM9",
+  "character_cost_header": "37",
+  "sha256": "004da56a2b8d5334ea31af2b5dbfa208d9d7bc642da3e7b43fcb423b74b7c038"
+}

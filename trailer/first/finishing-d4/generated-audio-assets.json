@@ -1,0 +1,62 @@
+[
+  {
+    "key": "ukulele",
+    "taskId": "12d46ba4-3562-4325-88ed-320cc0db5dbe",
+    "meta": {
+      "durationSeconds": 28.995875
+    },
+    "prompt": "Solo low-G tuned four-string ukulele recorded close in a modest quiet room, instrumental with no vocals and absolutely no other instruments. Very sparse hesitant fingerpicked A minor motif at 60 BPM: low A3, E4, C4, E4, each a single plucked note with one second between attacks. Repeat the four-note phrase gently with silence and natural string decay. Small human timing variation and finger noise, warm woody body, nylon strings, intimate and sincere. No strumming accompaniment, no percussion, no bass, no pads, no piano, no reverb wash, no polished pop production. Only this unaccompanied ukulele.",
+    "path": "clips/first/finishing-d4/audio/ukulele.mp3",
+    "sha256": "cd972bdefe2ff8804d04c4d1e9fe7344ea5b32a6972b9eb0e614a58cfdfa3b34"
+  },
+  {
+    "key": "shred",
+    "taskId": "e9f7f5b4-2bf6-4205-a003-cd35f2564b85",
+    "meta": {
+      "durationSeconds": 6
+    },
+    "prompt": "Mechanical canvas shredder in a warm wooden reception room: quiet electric motor starts, dry uneven paper and canvas tearing with small rollers rattling, then motor winds down. Close realistic practical foley, restrained, no voices, no music, no cinematic impact.",
+    "path": "clips/first/finishing-d4/audio/shred.mp3",
+    "sha256": "e7c0f378483566814df6a5342befd550c175eb6c2d94ae52a91c09e5bf4088a8"
+  },
+  {
+    "key": "lodge",
+    "taskId": "b3979a01-e988-4e44-8618-f9b919d04128",
+    "meta": {
+      "durationSeconds": 12
+    },
+    "prompt": "Quiet upscale ski-lodge reception room ambience, distant indistinct soft social murmur, very light glass movement, spacious wood and stone room, restrained low level. No intelligible words, no music, no applause. Seamless room-tone bed.",
+    "path": "clips/first/finishing-d4/audio/lodge.mp3",
+    "sha256": "e288a2d31aa952b42e2a5488737610e96906a6a4004faebb73f235930e10561e"
+  },
+  {
+    "key": "home",
+    "taskId": "dd45cbff-304d-43b5-910d-7745a6d18645",
+    "meta": {
+      "durationSeconds": 12
+    },
+    "prompt": "Very quiet modest domestic room ambience in daytime, faint distant outdoor air, soft small-room noise floor. No voices, no music, no identifiable appliances, no footsteps or birds close to microphone. Seamless neutral room tone.",
+    "path": "clips/first/finishing-d4/audio/home.mp3",
+    "sha256": "60c730a08e07ae75aad64747ea97af8d9a4d1baa9aa725dfa98ca106ca80f748"
+  },
+  {
+    "key": "clap",
+    "taskId": "68043c75-8a58-49d3-88c8-a6bce6f55157",
+    "meta": {
+      "durationSeconds": 1
+    },
+    "prompt": "One hesitant polite single hand clap from one adult woman, close dry natural palms, short soft room reflection in a wooden ski lodge. Only ONE clap with empty space after it. No crowd, no cheers, no speech, no music.",
+    "path": "clips/first/finishing-d4/audio/clap.mp3",
+    "sha256": "98e0ef3ada698b72968bcf341ed9740572c358f9b86b21b58425d0960e515e07"
+  },
+  {
+    "key": "uke_handle",
+    "taskId": "0238f1e2-439a-4b4e-bea4-c75942abe996",
+    "meta": {
+      "durationSeconds": 2
+    },
+    "prompt": "A hand gently settles onto a small wooden ukulele body and brushes nylon strings muted with fingertips, soft cloth sleeve movement, close dry instrument handling. No pitched musical notes, no strum, no voices or background.",
+    "path": "clips/first/finishing-d4/audio/uke_handle.mp3",
+    "sha256": "bdbe553269c687ea4024b4e260a3cc63551d25ec6bda7710ce572879c4a1edc6"
+  }
+]

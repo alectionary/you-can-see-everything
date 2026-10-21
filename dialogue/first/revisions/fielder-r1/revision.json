@@ -1,0 +1,12 @@
+{
+  "reason": "User flagged extraneous final syllable in L02 and clipped delivery of L08",
+  "credits_remaining": 8737,
+  "lines": [
+    "L02",
+    "L08"
+  ],
+  "subscription_delta_immediate": 0,
+  "reported_character_cost": 37,
+  "usage_note": "Immediate subscription counts may lag; request headers report 37 characters for the two replacement takes.",
+  "review": "Regenerated takes selected for user listening review; waveform and timing checks do not prove pronunciation."
+}

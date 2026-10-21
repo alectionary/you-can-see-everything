@@ -1,0 +1,246 @@
+{
+  "principal_lines": 22,
+  "new_generations": 17,
+  "new_text_characters": 507,
+  "credits_used_this_pass": 257,
+  "included_credits_remaining": 8987,
+  "roles": {
+    "DAN": "Eric - Smooth, Trustworthy",
+    "ROY": "Chris - Charming, Down-to-Earth",
+    "FIELDER": "Brian - Deep, Resonant and Comforting"
+  },
+  "lines": [
+    {
+      "line_id": "L01",
+      "role": "ROY",
+      "text": "Sorry. Let me start again.",
+      "path": "dialogue/first/voice-tests/roy_L01.mp3",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "e40272fd9dfa3619e9dcb372c6895f609e5fd7f0d044141652f8331d01ea7a9f"
+    },
+    {
+      "line_id": "L02",
+      "role": "FIELDER",
+      "text": "What made you start doing this?",
+      "path": "dialogue/first/revisions/fielder-r1/L02_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "6b7bc5366158a19ade0756ee7eb790893b5a22d573d43c0820ec4628e67c3c36",
+      "revision": "fielder-r1",
+      "voice_settings": {
+        "stability": 0.55,
+        "similarity_boost": 0.75,
+        "speed": 0.88,
+        "style": 0.0,
+        "use_speaker_boost": true
+      }
+    },
+    {
+      "line_id": "L03",
+      "role": "ROY",
+      "text": "It helped.",
+      "path": "dialogue/first/principal/L03_roy.mp3",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "571d7ada5d653bbdfe8a755667030e247da10399adeaa11ce12b5d962b8c9f5e"
+    },
+    {
+      "line_id": "L04",
+      "role": "DAN",
+      "text": "There\u2019s no reason for me to do that.",
+      "path": "dialogue/v2/d05.mp3",
+      "status": "original teaser recording"
+    },
+    {
+      "line_id": "L06",
+      "role": "FIELDER",
+      "text": "Was the first one too suspicious?",
+      "path": "dialogue/first/principal/L06_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "65fae633aeca9bd0e7700e626465cece72cc92f3199c95d065ce4f80d04e10d5"
+    },
+    {
+      "line_id": "L07",
+      "role": "DAN",
+      "text": "I thought you looked confused.",
+      "path": "dialogue/first/principal/L07_dan.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "c2557938bf1205d4b5e2465cbb0c8b89f0cdb0e7eb9501441d84c6eaaca1c248"
+    },
+    {
+      "line_id": "L08",
+      "role": "FIELDER",
+      "text": "I was.",
+      "path": "dialogue/first/revisions/fielder-r1/L08_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "975aeb13104bceae646ae9b1963d6775c74740f3eb66010cfcdb63f5bc934279",
+      "revision": "fielder-r1",
+      "voice_settings": {
+        "stability": 0.55,
+        "similarity_boost": 0.75,
+        "speed": 0.72,
+        "style": 0.0,
+        "use_speaker_boost": true
+      }
+    },
+    {
+      "line_id": "L09",
+      "role": "FIELDER",
+      "text": "Roy doesn\u2019t want to participate in the documentary.",
+      "path": "dialogue/first/principal/L09_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "624cfe1bff3de7fc64100f8b5bf999c6cded8dcb5164eb9d16af72799ab91277"
+    },
+    {
+      "line_id": "L10",
+      "role": "DAN",
+      "text": "Well, let\u2019s just hire a lookalike.",
+      "path": "dialogue/first/principal/L10_dan.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "dd2c9391e8ad029e9ddf9cbd685e8ca54f62d04823b9ddc2e40e7fc46add7bf3"
+    },
+    {
+      "line_id": "L15",
+      "role": "FIELDER",
+      "text": "What was inaccurate?",
+      "path": "dialogue/first/principal/L15_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "c26425340d5ebaea02a83d88062e13ed70a3c2daabd36f3b8b74d6cb6d5e1e12"
+    },
+    {
+      "line_id": "L17",
+      "role": "DAN",
+      "text": "There\u2019s no such thing as good publicity or bad publicity. Only publicity.",
+      "path": "dialogue/first/principal/L17_dan.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "6dede5c3816e76434351189886d3d2b5b84a41c76666957c2acfd668720d52f2"
+    },
+    {
+      "line_id": "L18",
+      "role": "FIELDER",
+      "text": "Why did you agree to make this movie?",
+      "path": "dialogue/first/principal/L18_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "0d7acce7eacd0122b6e466c1f6d1163f20d6d89092b442cf3c382ad59aa5da9a"
+    },
+    {
+      "line_id": "L19",
+      "role": "DAN",
+      "text": "I\u2019d like the conversation to happen on Pinterest.",
+      "path": "dialogue/first/dan_L19_platform.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "483594645512fd38e83bf5382c47a2fb7d40ca299c2e9ea6d87ba7f02a0feb9e"
+    },
+    {
+      "line_id": "L20",
+      "role": "ROY",
+      "text": "This next one\u2019s about someone I used to work with.",
+      "path": "dialogue/first/principal/L20_roy.mp3",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "8f054996e7accb7f9745531e213e8b55cf29155c9ee3fb1db901cbccfe523c3b"
+    },
+    {
+      "line_id": "L21",
+      "role": "FIELDER",
+      "text": "Did you arrange this?",
+      "path": "dialogue/first/principal/L21_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "5012336ad4d1bc08dd36db89fe0ef1c23bff9aa2af680693cc71d7b9e35fbcea"
+    },
+    {
+      "line_id": "L22",
+      "role": "DAN",
+      "text": "Roy chose the song.",
+      "path": "dialogue/first/principal/L22_dan.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "998809676e03d7c022c26abd87a413801b05e0de9ba3db2f66a65b4fd11c006d"
+    },
+    {
+      "line_id": "L26",
+      "role": "FIELDER",
+      "text": "The one where I didn\u2019t know.",
+      "path": "dialogue/first/principal/L26_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "75c5416ee667f473796457511054ffefa62f1088e9bae114adbbabaa2ce01430"
+    },
+    {
+      "line_id": "L27",
+      "role": "FIELDER",
+      "text": "You said you weren\u2019t involved.",
+      "path": "dialogue/first/principal/L27_fielder.mp3",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "ba709b74e5584e6230bf161de02a184bcc43d6a9ef818e72d2485cbd88738de1"
+    },
+    {
+      "line_id": "L28",
+      "role": "DAN",
+      "text": "In the song?",
+      "path": "dialogue/first/principal/L28_dan.mp3",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "8564dabb6cd5528198ef643e28970eb1389211df56692aaf7d61184fa8778fba"
+    },
+    {
+      "line_id": "L29",
+      "role": "DAN",
+      "text": "I\u2019m engaging with you as a human being.",
+      "path": "dialogue/v2/d03.mp3",
+      "status": "original teaser recording"
+    },
+    {
+      "line_id": "L30",
+      "role": "ROY",
+      "text": "I didn\u2019t know they were going to use\u2014",
+      "path": "dialogue/first/principal/L30_roy.mp3",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "ddc6b8c3fde3bbe793dd863012a4728f6db35756e9c79ccb2082699009f4bc99"
+    },
+    {
+      "line_id": "L31",
+      "role": "ROY",
+      "text": "Can you hear me?",
+      "path": "dialogue/first/principal/L31_roy.mp3",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "model_id": "eleven_multilingual_v2",
+      "status": "ElevenLabs recording available",
+      "sha256": "8e5916a210c7325b40c7c8cd0717c85be0ac8aa3c1160d7ee3ff2f7cea1cc928"
+    }
+  ],
+  "supporting_roles": "macOS placeholders retained",
+  "revision_manifest": "dialogue/first/revisions/fielder-r1/revision.json"
+}

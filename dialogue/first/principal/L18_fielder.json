@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "Why did you agree to make this movie?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "d9f7610d7441c3e2f98356e917eca413d2501ae8db8648cf59e3e7988be8749d",
+  "request_id": "InucStnJYh6cxGxM64Su",
+  "history_item_id": "h8DyqwugswH1998Cq0NV",
+  "character_cost_header": "37",
+  "sha256": "0d7acce7eacd0122b6e466c1f6d1163f20d6d89092b442cf3c382ad59aa5da9a"
+}

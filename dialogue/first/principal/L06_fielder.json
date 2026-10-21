@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "Was the first one too suspicious?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "dafb302f8e4848ae8ba9261a537305f2f80b5290299af33635e586799a67551d",
+  "request_id": "HeUyWypfVnlefC33bY7K",
+  "history_item_id": "erZHH1YMr7U7DG199cR8",
+  "character_cost_header": "33",
+  "sha256": "65fae633aeca9bd0e7700e626465cece72cc92f3199c95d065ce4f80d04e10d5"
+}

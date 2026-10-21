@@ -1,0 +1,11 @@
+{
+  "taskId": "23dba3dd-e08c-4339-a751-98457d5e51db",
+  "selected_for_delivery": true,
+  "source_start_seconds": 9,
+  "duration": 4,
+  "batch_credits": 80,
+  "character_reference_task": "154df440-041e-484f-856b-6400328e2822",
+  "driver": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/lip-tests/dan-group-performance-driver.mp4",
+  "sha256": "15b928e1be7cb74200c6702c80499962f73f8a05e66c6bd1201e92d021b302de",
+  "review": "Selected after comparative sampled-frame inspection; sharper mouth detail than the local composite. Original ElevenLabs audio retained separately."
+}

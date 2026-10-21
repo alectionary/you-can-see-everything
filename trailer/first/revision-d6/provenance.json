@@ -1,0 +1,32 @@
+{
+  "input_cuts": [
+    {
+      "file": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/first-trailer-finishing-d4.mp4",
+      "sha256": "2bdb650328c936b0daaa7d14ae641e63ac5f835d7413795113aac714b89e11c0"
+    },
+    {
+      "file": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-ukulele-d5/first-trailer-ukulele-d5.mp4",
+      "sha256": "595720ffbaa6cb3056b28db7a3b2617e22ef7c27ccae6db5e9966300d65cc7d5"
+    }
+  ],
+  "scripts": [
+    {
+      "path": "trailer/first/revision-d6/build_revision.py",
+      "sha256": "b4efe3b9bb9ecc7948e3307c6ff3c1419e780f5988f7da8012e8b55552d1d27f"
+    },
+    {
+      "path": "trailer/first/revision-d6/correct_mouths.py",
+      "sha256": "239c334f3fdb4a2839ea9d69aab5c5f816f45a8ce70d791a51383b87f6631925"
+    },
+    {
+      "path": "trailer/first/revision-d6/verify_revision.py",
+      "sha256": "445f51e40eb10e13c1915fad4474c554b3e3e765e07a72d9c8a18954ce04caa3"
+    }
+  ],
+  "output_sha256": "3eb65c0a90962aa5e4df5834d8378e990249f19ab8af0ded536c0e8ef9867c5e",
+  "image_prompts": "images/provenance.json",
+  "mouth_sources": "build/first-trailer-revision-d6/mouth-corrections.json",
+  "new_runway_generations": 0,
+  "new_elevenlabs_generations": 0,
+  "builtin_image_generations": 3
+}

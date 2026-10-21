@@ -1,0 +1,89 @@
+{
+  "music_source": "Saved FreePats ukulele recordings, CC0",
+  "new_paid_generations": 0,
+  "inputs": [
+    {
+      "path": "trailer/first/ukulele-d5/build_ukulele.py",
+      "sha256": "f05e646ffbde7a05c0de0bfa9228f9f730bee9e9ced7fdcd704967fd41ee1d4b"
+    },
+    {
+      "path": "trailer/first/ukulele-d5/verify_ukulele.py",
+      "sha256": "63fd6a9c285fcccdab8eb9c70e815e3928960bb43ec9463eba7384837ca74327"
+    },
+    {
+      "path": "trailer/first/finishing-d4/requirements-lock.txt",
+      "sha256": "f9037bb4b8e6185948eab90a5bc93be8f27570fa932f57867b236129f5bac58b"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/Ukulele 20260811.sfz",
+      "sha256": "03c1758879cf937cf7d1dac86d560d16ec47e7fb1c82c4601a6f6476ee420f72"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/LICENSE.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/A4.flac",
+      "sha256": "ce575bc244682dfc6499a68e6ebb1195f043cc14dc49a8c2e4ea7e384bd2f114"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/A5.flac",
+      "sha256": "877bcb793b9c7320777c0b164b78444a39c9b93da6ddafc95da5e91b085bccc7"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/B4.flac",
+      "sha256": "04102fb6c825f6ec23c4c08b89b34aba1412109d2e3950eb2399decd53ad49ae"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/C#5.flac",
+      "sha256": "604a9de9ab270294fa123cd9bf175fedaf295c63a9305e7cb3e187b666a6798e"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/C4.flac",
+      "sha256": "aa23ee3722f8f418c7078243b4e1e2cb8022ff7c9e94801098cf3aa1694ec4b4"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/C6.flac",
+      "sha256": "e397e1a73588074f9d636f9b128fbca8c52fd08df89cc893c5467f9256ea02cd"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/D#5.flac",
+      "sha256": "0a6e011f0ef5d96ef51554cb5daaad788ec3240b723b4846411698194ff2f2b0"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/D4.flac",
+      "sha256": "113ecda48383232739edbc471c2ed6be5bf3999be0075c7fa6d6bd0e98edfe98"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/E4.flac",
+      "sha256": "8d5ea8c5ca9cddca9d5af0c37b8e022fddc71444d0f81718695c9de706d8908e"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/F#4.flac",
+      "sha256": "5b4a82c7c8c9e57185e2510771a06df25c225fd78487e54b79d960f08c6e2653"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/F5.flac",
+      "sha256": "5b85d224cee53fba23fda855ff34b919553bfc9df9ee1990df68aeff59857bc3"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/G4.flac",
+      "sha256": "e1952cca1c74d0dbab6053c081eda7f79e1eb2f11c1bd485aafdd51f77df1e93"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/G5.flac",
+      "sha256": "429f4ab8c6fff45041c7d688341a2d0af2710036a72505ad62198a1e6188c226"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/body-tap.flac",
+      "sha256": "ec5bc4a56f1e07376190bc4ea20489737a1ce76e03bdbb2a80a42734e7c0cc01"
+    },
+    {
+      "path": "trailer/first/finishing-d4/samples/ukulele/samples/chuck.wav",
+      "sha256": "f3359f5d170387d55d1ba48af7d3d47bb416b0d882f225968f3c274a43fe5971"
+    }
+  ],
+  "video_sha256": "595720ffbaa6cb3056b28db7a3b2617e22ef7c27ccae6db5e9966300d65cc7d5",
+  "comparison_d4_video_stream_hash": "SHA256=a9f3f83a65338a493ed57dd49d889bbab1ca16f4957cf651acb918df084f89e4",
+  "comparison_d4_sha256": "2bdb650328c936b0daaa7d14ae641e63ac5f835d7413795113aac714b89e11c0"
+}

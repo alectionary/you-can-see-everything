@@ -1,0 +1,23 @@
+[
+  {
+    "key": "macbook",
+    "src": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-83f16270-c2ba-49c3-bf67-680ee81344fc.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional documentary laptop-screen insert for a satirical film trailer. Primary request: Landscape 16:9 photograph of an open space-gray MacBook Pro on a dark wooden editing desk in an ordinary daylight room. The screen is large and nearly straight-on, centered, with four clean inner screen corners and a blank uniform dark charcoal display to receive a video editing interface later. Show the keyboard, metal body and bottom bezel with the small MacBook Pro wordmark if natural. Screen has a believable soft diagonal window reflection and subtle fingerprints, but no huge white obstruction. No people or hands, no faces, no camera shake, no artificial motion blur. Natural slightly imperfect documentary photograph, not glossy product advertising. The whole laptop fits, with screen occupying about 70 percent of the image width. No other readable text or UI.",
+    "provider": "built-in imagegen",
+    "sha256": "b0135773b828961133c3227889fb9855d0a175de63ada708653ab1104533dd12"
+  },
+  {
+    "key": "plan",
+    "src": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-2b29114c-f3a1-4272-aeda-77d94f0969e9.png",
+    "prompt": "Use case: illustration-story. Asset type: friendly fictional municipal planning presentation in a satirical film trailer. Primary request: landscape 16:9 friendly architectural concept rendering on textured cream paper: an almost idyllic new car parking area with generous trees, rain gardens, permeable paving, flowers, people strolling and a welcoming low food-bank building preserved only as a faint pale blue dashed ghost outline beneath the proposed parking spaces. Mix neat pencil drawing and soft watercolor with precise CAD landscaping linework. A small inset plan in the upper right shows a demolition-permit stamp as ordinary city paperwork, while the large drawing is aggressively pleasant and benign. Main exact readable heading across the top: 'COMMUNITY ACCESS IMPROVEMENT'. Small exact footer heading: 'PROPOSED PARKING / FORMER FOOD BANK SITE'. Small inset heading: 'DEMOLITION PERMIT'. Avoid gore, destruction footage, villainous caricature, sinister colors, logos, extra invented claims or large unreadable pseudo-text. Make the plan genuinely attractive and misleadingly reassuring. Stable flat artwork suitable for holding on screen three seconds.",
+    "provider": "built-in imagegen",
+    "sha256": "842a9fcc0e33b8565411fef03e4d8c5283ea31c6133cfcf5d620f8fa48c0e00b"
+  },
+  {
+    "key": "times_square",
+    "src": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-941cd4f9-f95e-438b-8285-bdb17c32a361.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: final documentary reveal of a private-message screenshot displayed publicly on a Times Square billboard, for a fictional satirical trailer. Primary request: landscape 16:9 realistic evening photograph at Times Square, New York, from a pedestrian's eye level. Huge prominent rectangular LED billboard near the center facing the camera almost straight-on, its entire screen blank charcoal gray, with four simple unobstructed clean corners for later compositing. Billboard occupies about 55 percent of frame width and 60 percent of frame height. Surrounding architecture, other smaller colorful advertisements without legible brand messages, yellow taxi lights, damp pavement and small crowds establish Times Square unmistakeably. The blank billboard is the main focal point. Sharp natural documentary texture, restrained perspective, no fisheye, no blur, no dramatic tilted camera, no foreground heads obscuring the billboard. No message text on the main screen; it will be added later.",
+    "provider": "built-in imagegen",
+    "sha256": "17cedfe654243f5a8b24c53b042fc375ba5c06cf24a859031459eb6e6d810d3b"
+  }
+]

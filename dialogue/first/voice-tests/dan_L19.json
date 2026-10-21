@@ -1,0 +1,20 @@
+{
+  "character": "DAN",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric - Smooth, Trustworthy",
+  "text": "I want to trend on Pinterest.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "5d34e1ef2a21d70e30fb8eae5f5315fe6c09b8af606fe12b1724238d855ac215",
+  "request_id": "Mr0nXmA5lgOXw8HNkFcc",
+  "history_item_id": "mACQ86O9KWN7EJgiFy0V",
+  "character_cost_header": "29",
+  "sha256": "1654f605861c774532874a6fb6fbd209b02f7117b94376cf3026fd4d560c4dc0"
+}

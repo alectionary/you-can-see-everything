@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "provider": "elevenlabs",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "credential": {
+    "kind": "macos_keychain",
+    "account": "redacted",
+    "service": "com.alectionary.you-can-see-anything-teaser.elevenlabs"
+  },
+  "characters": {
+    "DAN": {
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric - Smooth, Trustworthy",
+      "model_id": "eleven_multilingual_v2",
+      "voice_settings": {
+        "stability": 0.55,
+        "similarity_boost": 0.75,
+        "speed": 1.0,
+        "style": 0.0,
+        "use_speaker_boost": true
+      },
+      "direction": "Quiet bureaucratic assurance. Pinterest’s CEO seeks platform activity and distribution; personal virality is secondary. Ordinary American conversational delivery.",
+      "reference_audio": "dialogue/v2/d01.mp3",
+      "reference_history_item_id": "uTpAxNGiSirQOlDB45bu",
+      "continuity": {
+        "method": "exact decoded PCM equality at mono 48kHz signed 16-bit",
+        "verified": true,
+        "local_sha256": "95fdc7affc8156ebfb809f8ec6ff01258dde1d5f08dad0895cb826d709be9d7f",
+        "history_download_sha256": "761e0282e5372f89a6b843590a62955d8e9cfb411da2357000384a50b0a7ab36"
+      },
+      "historical_generations": [
+        {
+          "history_item_id": "LwbcLjubJx49Sfb4Tr0H",
+          "text": "I'm always being real.",
+          "date_unix": 1792293957
+        },
+        {
+          "history_item_id": "dWP1NtzZiLge7jLuoUFo",
+          "text": "There's no reason for me to do that.",
+          "date_unix": 1792293954
+        },
+        {
+          "history_item_id": "sDCVp0ubMJb4KOO4lnVg",
+          "text": "Why would I deceive you?",
+          "date_unix": 1792293952
+        },
+        {
+          "history_item_id": "wXia9ZqiQTaxm46m8q61",
+          "text": "I'm engaging with you as a human being.",
+          "date_unix": 1792293950
+        },
+        {
+          "history_item_id": "jtbpdtshvwCIQkwZFfGX",
+          "text": "I can't account for their interpretation.",
+          "date_unix": 1792293946
+        },
+        {
+          "history_item_id": "uTpAxNGiSirQOlDB45bu",
+          "text": "The use was permitted.",
+          "date_unix": 1792293943
+        }
+      ]
+    },
+    "ROY": {
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "voice_name": "Chris - Charming, Down-to-Earth",
+      "model_id": "eleven_multilingual_v2",
+      "voice_settings": {
+        "stability": 0.55,
+        "similarity_boost": 0.75,
+        "speed": 1.0,
+        "style": 0.0,
+        "use_speaker_boost": true
+      },
+      "direction": "Grounded and tired, with warmth; allow hesitation without exaggeration.",
+      "reference_audio": "dialogue/v2/r01.mp3",
+      "reference_history_item_id": "o2KQ3oSonWysFeZBg3Qt",
+      "continuity": {
+        "method": "exact decoded PCM equality at mono 48kHz signed 16-bit",
+        "verified": true,
+        "local_sha256": "4cdaaff626ae93ac03e8e8ddd3c58e91b5be41f28431ecbfc295b33c973af382",
+        "history_download_sha256": "c8dcd7a4b943a4e11d5483b2b271da10ddccce21421940220dadf6246fd2969e"
+      },
+      "historical_generations": [
+        {
+          "history_item_id": "o2KQ3oSonWysFeZBg3Qt",
+          "text": "Never. Not once.",
+          "date_unix": 1792293949
+        }
+      ]
+    },
+    "FIELDER": {
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "voice_name": "Brian - Deep, Resonant and Comforting",
+      "model_id": "eleven_multilingual_v2",
+      "voice_settings": {
+        "stability": 0.55,
+        "similarity_boost": 0.75,
+        "speed": 1.0,
+        "style": 0.0,
+        "use_speaker_boost": true
+      },
+      "direction": "Soft, low, attentive questions. Restrained performance rather than an impersonation.",
+      "reference_audio": "dialogue/v2/f01.mp3",
+      "reference_history_item_id": "Rliq5xg8yiodOApQmCjS",
+      "continuity": {
+        "method": "exact decoded PCM equality at mono 48kHz signed 16-bit",
+        "verified": true,
+        "local_sha256": "fdc315dca9d179c2d2fcfaf4528397cf68f50ee8bd545172ce69726899b20494",
+        "history_download_sha256": "373a010211a5947bbdc7adae39888b7f2173a89d176ba54bff5eeb1c7baa4213"
+      },
+      "historical_generations": [
+        {
+          "history_item_id": "3rSvBQIMeOSPMLlXH5YX",
+          "text": "Are you being real right now?",
+          "date_unix": 1792295674
+        },
+        {
+          "history_item_id": "ehRoWfcgn12yJjSAsmqB",
+          "text": "It says here the neighbors objected.",
+          "date_unix": 1792295672
+        },
+        {
+          "history_item_id": "m3aSqHNKEz8V4CwGVxud",
+          "text": "The building was a food bank.",
+          "date_unix": 1792295671
+        },
+        {
+          "history_item_id": "Rliq5xg8yiodOApQmCjS",
+          "text": "And the county approved the parking?",
+          "date_unix": 1792295669
+        }
+      ]
+    }
+  }
+}

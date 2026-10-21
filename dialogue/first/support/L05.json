@@ -1,0 +1,20 @@
+{
+  "character": "OFFSCREEN DIRECTOR",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "text": "Again.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "3b3ff7d9abe6e0a8613b7d711e4902b6a889b83e72ff101917aba61de9758945",
+  "request_id": "ddWtIPy7T07c1a4TQRw8",
+  "history_item_id": "GspAXAOrc4ALYfKsdca5",
+  "character_cost_header": "6",
+  "sha256": "1553ec0dc3c94464b2b1344fd553f0736267d13c4ecbc2f83955a24e93b35fea"
+}

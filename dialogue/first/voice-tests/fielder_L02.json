@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "What made you start doing this?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "5e1131283ce0e51193394bca64ccc922bb5c0f5869fc22e78dea06a3135a5ba4",
+  "request_id": "S18FZwMxUUFifeYLNiKK",
+  "history_item_id": "FGj8cMbEDJTcqPGwfU0d",
+  "character_cost_header": "31",
+  "sha256": "27c93b7783c5936b3aa39a6a4d4d43cb58fccc67809febde1dd3fec9d0e29c68"
+}

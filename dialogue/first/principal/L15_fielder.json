@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "What was inaccurate?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "bccb50e4e26da8f63efa434c348d58d8cfeb5b8065581758b2204a7bc0f3d5a6",
+  "request_id": "bcfmpuQESwjlAmXWciDd",
+  "history_item_id": "yeapJmIbwLya8no5icUA",
+  "character_cost_header": "20",
+  "sha256": "c26425340d5ebaea02a83d88062e13ed70a3c2daabd36f3b8b74d6cb6d5e1e12"
+}

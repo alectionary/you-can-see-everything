@@ -1,0 +1,18 @@
+[
+  {
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-4d3ef927-19d1-4d02-a35a-5a51b744cdf9.png",
+    "name": "T10-reverse.png",
+    "prompt": "Edit the reference into an alternate reverse-angle documentary still of the SAME fictional interview in the SAME bright, modest room with wooden table, white window light, plants and framed art. Landscape 16:9. Camera is high behind both men's shoulders at one end of the table, looking down toward their hands and an ordinary notebook between them. Left man is Dan in olive field jacket over gray sweater; right man is the interviewer with dark wavy hair, textured gray blazer and black shirt. Show only backs and rear three-quarter silhouettes of their heads: neither mouth, eyes nor facial front should be visible. Their hands rest quietly by the notebook. Restrained unposed natural photography, sharp cloth/paper/wood detail, no dramatic acting, no nodding pose. No captions, no labels, no invented handwritten allegations or readable text. This is a believable behind-the-scenes coverage angle for the existing interview, not a different scene.",
+    "sha256": "1393e695966f57d8958cd09bbc4de924718fc3808372e7a3d2f3c5193f04c78b",
+    "provider": "built-in GPT imagegen",
+    "purpose": "Fictional documentary reverse-angle coverage; faces outside frame"
+  },
+  {
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-bc421904-893f-4af9-9a03-22979b15205c.png",
+    "name": "communications-reverse.png",
+    "prompt": "Edit the supplied reference into a reverse-angle documentary photograph in the SAME modest bright interview room. Landscape 16:9. We now look from just behind the right shoulder of this same fictional communications staffer: long wavy brown hair, navy sweater and plaid trousers. Her back and hair conceal her face and mouth completely. Emphasize her hands, pen and yellow legal pad on her lap; the pad has only a few short ordinary handwritten notes, with the words 'factual accuracy' and 'version?' readable, no other claims. A small plain stapled review printout is partly tucked underneath. Soft window daylight, a plant and ordinary bookshelf remain in the background. Natural sharp documentary texture, restrained thoughtful still posture, no head tilt, no gesture, no glamour, no text overlays, no production badge, no extra people. This is quiet b-roll coverage of the same communications review, not a new office.",
+    "sha256": "2679706ff93892ec56b2c9ae786cbf72b8f0b98c6df67eeb6f177e26ea7f54bb",
+    "provider": "built-in GPT imagegen",
+    "purpose": "Fictional documentary reverse-angle coverage; faces outside frame"
+  }
+]

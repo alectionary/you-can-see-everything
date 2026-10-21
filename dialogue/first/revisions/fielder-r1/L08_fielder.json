@@ -1,0 +1,25 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "I was.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 0.72,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "previous_text": "I thought you looked confused.",
+  "output_format": "mp3_44100_128",
+  "request_signature": "00ef7b5dbb88f19f3f5fcc949409044edacada654c79b06f104c5478c35adb6a",
+  "request_id": "aI6qm8RuIYN7LYYWrSyF",
+  "history_item_id": "RryKjVxAjnU7KH2Gjcw2",
+  "character_cost_header": "6",
+  "sha256": "975aeb13104bceae646ae9b1963d6775c74740f3eb66010cfcdb63f5bc934279",
+  "speech_trim_padding_ms": {
+    "head": 30,
+    "tail": 140
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "character": "ROY CANDIDATE B",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger",
+  "text": "No. Not once.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "305d1f422866eb1891284bd8bf71d384fa5546b2da6909a4f812eeef5fd096ea",
+  "request_id": "OX2ikclaedWTIoFyJ5tY",
+  "history_item_id": "Agw2HiAIjxGzOH4q50Nt",
+  "character_cost_header": "13",
+  "sha256": "d64b43b656aa8ded4da58f0beacd5c0bc6b5ac433f40479f58e5a53a870652f6"
+}

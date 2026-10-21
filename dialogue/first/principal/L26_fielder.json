@@ -1,0 +1,20 @@
+{
+  "character": "FIELDER",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian - Deep, Resonant and Comforting",
+  "text": "The one where I didn\u2019t know.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "a8ba335b8fd9fb73aab02412efc2df38d402637a319cdc612749e2da3d2b3cd3",
+  "request_id": "ijwequy6oPs8qyi3u3s8",
+  "history_item_id": "pCJ2mqugtb3jqQymf2PS",
+  "character_cost_header": "28",
+  "sha256": "75c5416ee667f473796457511054ffefa62f1088e9bae114adbbabaa2ce01430"
+}

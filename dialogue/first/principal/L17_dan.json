@@ -1,0 +1,20 @@
+{
+  "character": "DAN",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric - Smooth, Trustworthy",
+  "text": "There\u2019s no such thing as good publicity or bad publicity. Only publicity.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "a9f104e81c08980b97cee8539527f68c356737f058e1478fe934c1bfc28ba777",
+  "request_id": "y7GBDv9zZuoqzM6YZLGI",
+  "history_item_id": "5l785zMN6lwMIIllkuMo",
+  "character_cost_header": "73",
+  "sha256": "6dede5c3816e76434351189886d3d2b5b84a41c76666957c2acfd668720d52f2"
+}

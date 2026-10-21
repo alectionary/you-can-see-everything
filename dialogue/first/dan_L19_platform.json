@@ -1,0 +1,20 @@
+{
+  "character": "DAN",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric - Smooth, Trustworthy",
+  "text": "I\u2019d like the conversation to happen on Pinterest.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "ffd5d323046421f7eae56c284bca21b7c80c8b1e4913e8cd1febd7803be8224d",
+  "request_id": "UNykWoSdyDotBc1yUvWe",
+  "history_item_id": "JVjBhQBD3EJcvd1kP0fr",
+  "character_cost_header": "49",
+  "sha256": "483594645512fd38e83bf5382c47a2fb7d40ca299c2e9ea6d87ba7f02a0feb9e"
+}

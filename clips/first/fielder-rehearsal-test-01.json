@@ -1,0 +1,50 @@
+{
+  "shot": "F01",
+  "status": "generated, downloaded and technically verified; creative test only",
+  "method": "Runway website through signed-in Edge session",
+  "model_displayed": "Seedance 2.5",
+  "requested_duration_seconds": 8,
+  "requested_resolution": "720p",
+  "requested_ratio": "16:9",
+  "native_audio": false,
+  "prompt": "Locked-camera documentary close-up of this same fictional interviewer, preserving his face, wavy dark hair, gray blazer, dark shirt, room and soft window light. One restrained rehearsal of a specific reaction. First 2.6 seconds: quiet attentive listening, relaxed brow, a small settling breath and visible reset. From 2.6 to 3.6 seconds his brow pinches slightly and his eyes narrow. From 3.6 to 4.8 seconds his gaze drops toward his lap and his chin lowers only a few degrees. From 4.8 seconds to the end he holds the quiet uncertain expression in the final reference frame. It feels like another attempt at the same reaction, fractionally deliberate but sincere. No speech, no grin, no broad grimace, no wink, no exaggerated acting, no camera movement, no cuts, no text, no added people. Natural small facial and breathing motion. Eight-second continuous take.",
+  "start_frame": "fielder-reset-v1.png",
+  "end_frame": "fielder-downward-glance-v1.png",
+  "session_url": "redacted",
+  "session_name": "You Can See Everything - Fielder rehearsal test 01",
+  "workspace_plan_observed": "Standard",
+  "credits_before": 625,
+  "credits_after_submission": 385,
+  "credits_debited": 240,
+  "additional_purchase": false,
+  "intended_edit_source_seconds": [
+    2,
+    6
+  ],
+  "acceptance_pending": [
+    "motion and gesture timing",
+    "face and room continuity",
+    "camera stability",
+    "native duration and output metadata",
+    "natural performance without morphing"
+  ],
+  "start_frame_sha256": "3af6baf17ea7cec4a71575e2c7a6970e0b138f6d01e6356033ee00c9313b0b19",
+  "end_frame_sha256": "0504f675a0ff622c64f7e3f775b24e2b6cb7933437af9513bd78bdb07466c2b4",
+  "output_path": "clips/first/fielder-rehearsal-test-01.mov",
+  "output_sha256": "82bc538ca8f25d636a21e0f4244384495a4a1fb375e29b8489bd618ee6c39361",
+  "credits_after_onboarding_reward": 685,
+  "onboarding_reward_credits": 300,
+  "download_format": "MOV",
+  "native_duration_seconds": 8.041667,
+  "native_frames": 193,
+  "native_fps": "24/1",
+  "native_dimensions": [
+    1280,
+    720
+  ],
+  "native_audio_streams": 0,
+  "comparison": "build/first-trailer-visual-tests-v1/fielder-motion-test/fielder-original-versus-new-test-01.mp4",
+  "viewing_copy": "build/first-trailer-visual-tests-v1/fielder-motion-test/fielder-rehearsal-test-01.mp4",
+  "creative_review": "Sampled frames show the brow pinch and dropped gaze, with stable identity and room. New framing is wider than the original target moment; retain as a test pending full motion review and framing refinement.",
+  "accepted_into_full_trailer": false
+}

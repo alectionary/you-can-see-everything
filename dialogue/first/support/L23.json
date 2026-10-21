@@ -1,0 +1,20 @@
+{
+  "character": "ROY CANDIDATE A",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "text": "Am I supposed to play it?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "7748146686f6366328bd10ebafdcb2965d1d03043f6a661506a9b1d6c01df1f0",
+  "request_id": "yDNuencpGFvZb3XvbBrk",
+  "history_item_id": "Wl6yIasuSLldbRKoDtNc",
+  "character_cost_header": "25",
+  "sha256": "bdb552becee7bb32d624ccf2754a1ba581da67f7c6bc7557b3d1dc0cd07eb116"
+}

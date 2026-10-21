@@ -1,0 +1,20 @@
+{
+  "character": "COMMUNICATIONS",
+  "voice_id": "EXAVITQu4vr4xnSDxMaL",
+  "voice_name": "Sarah",
+  "text": "Which version are you looking at?",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "8ff32c83a27e716892ee46e03a15387628004961ea187ef0e034e514366c4761",
+  "request_id": "HFY8cjuVXTqYSJTxnhzN",
+  "history_item_id": "I9zJSIkjcVZ2lQajkCq9",
+  "character_cost_header": "33",
+  "sha256": "e7a3839a9c0a3838f204a89a377630ea59d9b4c736f701669cbc9e2831f53532"
+}

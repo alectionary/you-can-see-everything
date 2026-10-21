@@ -1,0 +1,62 @@
+[
+  {
+    "key": "roy_fixed",
+    "file": "roy-stream-master-v1.png",
+    "generated": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-149fac0c-f88c-4972-b923-7f15c943b7a6.png",
+    "references": [
+      "trailer/first/refs/ROY_v4.jpg"
+    ],
+    "prompts": [
+      "roy",
+      "roy_fix"
+    ],
+    "sha256": "2fc148d604127db5cc8730e276710fa8f3e6bd9f1d215a1dfac08d220eec92cd",
+    "generation_method": "built-in image_gen",
+    "status": "continuity keyframe; no generated character animation"
+  },
+  {
+    "key": "fielder",
+    "file": "fielder-reset-v1.png",
+    "generated": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-fb3318ce-57f2-4f5e-9be7-a0b50fafa92b.png",
+    "references": [
+      "trailer/first/refs/FIELDER_v4.jpg",
+      "trailer/first/refs/FIELDER_reaction_39s.jpg"
+    ],
+    "prompts": [
+      "fielder"
+    ],
+    "sha256": "3af6baf17ea7cec4a71575e2c7a6970e0b138f6d01e6356033ee00c9313b0b19",
+    "generation_method": "built-in image_gen",
+    "status": "continuity keyframe; no generated character animation"
+  },
+  {
+    "key": "fielder_down",
+    "file": "fielder-downward-glance-v1.png",
+    "generated": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-6891a4e7-9018-4dd8-98dc-9e82b27aa3dd.png",
+    "references": [
+      "fielder-reset-v1.png",
+      "trailer/first/refs/FIELDER_reaction_39s.jpg"
+    ],
+    "prompts": [
+      "fielder_down"
+    ],
+    "sha256": "0504f675a0ff622c64f7e3f775b24e2b6cb7933437af9513bd78bdb07466c2b4",
+    "generation_method": "built-in image_gen",
+    "status": "continuity keyframe; no generated character animation"
+  },
+  {
+    "key": "room",
+    "file": "dan-fielder-monitor-clean-v1.png",
+    "generated": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-bd6c5201-e4b2-4dbc-8e40-de086bb80d73.png",
+    "references": [
+      "trailer/first/refs/DAN_v3.jpg",
+      "trailer/first/refs/FIELDER_v4.jpg"
+    ],
+    "prompts": [
+      "room"
+    ],
+    "sha256": "8f1a189d1c7da7da81e387afd5ea83af5d4403a57e340c5e00e77e8eb645487a",
+    "generation_method": "built-in image_gen",
+    "status": "continuity keyframe; no generated character animation"
+  }
+]

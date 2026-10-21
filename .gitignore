@@ -1,1 +1,5 @@
-# Everything is tracked in this repo, including build intermediates.
+# Project sources, media and build intermediates are tracked.
+# Exclude only local operating-system and Python caches.
+.DS_Store
+__pycache__/
+*.py[cod]

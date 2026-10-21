@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "mode": "reference edits, three separate calls",
+  "transparent_background": false,
+  "assets": [
+    {
+      "segment": "T14",
+      "reference": "build/first-trailer-picture-pass-d3/plates/T14.png",
+      "output": "trailer/first/revision-d6/images/T14.png",
+      "prompt": "Edit the supplied documentary preparation graphic into a photorealistic 16:9 candid evidence photograph for a fictional satirical documentary trailer. The same Pinterest communications preparation document is now a discarded, handled landscape printout lying diagonally on a scuffed dark meeting-room tabletop, one fold across the paper, curled corner, faint coffee-ring edge, ordinary pen underlining. Close framing so the page fills most of the picture and the key text remains large and readable. Natural uneven overhead light, slight phone-camera grain, modest perspective, no cinematic glamour. Preserve the exact important wording: 'PINTEREST', 'DOCUMENTARY PREPARATION', 'COMMUNICATIONS REVIEW', 'Distribution review', 'Primary destination: Pinterest', 'Keep this in Dan\u2019s own words.', 'Can this feel less prepared?'. Remove the PICTURE PASS D3 label. No extra sensational allegations or extra text, no hands, no invented people. Make this look casually photographed and almost thrown away, rather than a designed full-screen slide.",
+      "sha256": "cdacfe5bc7276cfbe217287e0e975dcfda5f59faa4717424a961f7111812fcd5"
+    },
+    {
+      "segment": "T29",
+      "reference": "build/first-trailer-picture-pass-d3/plates/T29.png",
+      "output": "trailer/first/revision-d6/images/T29.png",
+      "prompt": "Edit the supplied documentary editing/communications review screen into a photorealistic candid iPhone photograph of that exact material on a real computer monitor. Landscape 16:9 framing. The screen nearly fills the frame but is slightly keystoned, with a narrow black monitor bezel visible at bottom and left, slight handheld tilt, real screen moire and a broad reflected ceiling light streak near upper left that does not hide the main words. Dim ordinary edit room, imperfect exposure. Keep the supplied Fielder reaction image and take thumbnails as the actual screen content, preserve the exact wording 'DOCUMENTARY / COMMUNICATIONS REVIEW', 'Pinterest / Communications', 'Keep this in Dan\u2019s own words.', 'Can this feel less prepared?', 'TAKE 01', 'TAKE 02', 'TAKE 03'. Remove every PICTURE PASS D3 production badge. Preserve the man's supplied face and expressions, do not invent a new face. Readable key wording but materially a furtive phone photo, not a clean graphic. No additional allegations, captions, logos or people.",
+      "sha256": "da10e2fb0a185e2c19d2815338e73ed5630527fa78d071eb03e36e8975a265a8"
+    },
+    {
+      "segment": "T33",
+      "reference": "build/first-trailer-picture-pass-d3/plates/T33.png",
+      "output": "trailer/first/revision-d6/images/T33.png",
+      "prompt": "Edit the supplied Pinterest distribution strategy graphic into a photorealistic candid landscape phone photograph of a carelessly discarded landscape printout on an ordinary office floor beside a meeting table leg. Close framing: paper fills 85 percent of frame, most words large and clearly readable. Creased paper, slightly crumpled top corner, dull toner, faint shoe scuff near an edge, real uneven fluorescent lighting. The supplied demolition photograph remains printed on the document, not a new real scene. Preserve exactly the essential text 'PINTEREST', 'DISTRIBUTION STRATEGY', 'Keep the conversation on Pinterest', 'Creative review', 'Picture select: demolition'. Remove the PICTURE PASS D3 badge. Documentary evidence aesthetic, incidental phone-camera grain and slight perspective, no theatrical crime-scene look, no extra allegations, no invented handwritten claims, no people or hands.",
+      "sha256": "c179ad989cc0e2c22aa19780b52fbbc849af14be4b673c2d0a5a194e333c8265"
+    }
+  ]
+}

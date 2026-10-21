@@ -1,0 +1,98 @@
+[
+  {
+    "key": "candidate_a",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. Plain modest audition room with warm off-white wall, soft daylight from camera left, medium shot head through waist, seated on an ordinary dark chair. Restrained unpolished documentary color and real skin texture. No crew in frame, no words, slate, captions, labels, logos, watermark or montage. A fictional male actor in his early forties auditioning to play Roy. The supplied image is a loose casting and wardrobe reference only: create a visibly different man, not the exact Roy identity. Filipino-American appearance, short neat dark side-parted hair, slightly broader jaw and warmer rounder face, clean shaven, medium build. Charcoal zip hoodie over muted olive T-shirt. He waits patiently, eyes directed to interviewer just camera left, lips relaxed and closed, neutral professional expression. This is a working actor doing an ordinary audition; no comic costume or ethnicity caricature.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-0d5f38ba-c61b-4116-9bf2-d736e7ad5df4.png",
+    "path": "trailer/first/picture-pass-d3/refs/candidate_a.png",
+    "sha256": "eb934b187560f9afa6f9cdc6f48d3d1a2c9a6f4c8a287f4509b29ec86ffba8e4",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "candidate_b",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. Plain modest audition room with warm off-white wall, soft daylight from camera left, medium shot head through waist, seated on an ordinary dark chair. Restrained unpolished documentary color and real skin texture. No crew in frame, no words, slate, captions, labels, logos, watermark or montage. A fictional male actor in his late thirties auditioning to play Roy. The supplied image is a loose casting/wardrobe reference only: a visibly different man from Roy and other candidates, with an oval face, slightly longer straight dark fringe, narrower shoulders and faint mustache. Filipino-American appearance, gray hoodie over muted olive shirt. He sits upright, waits for a question, gaze toward interviewer just camera left, lips closed. Thoughtful slightly uncertain professional expression. No caricature, no comedy face.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-8e82f0f7-58da-45b3-a025-888ada95df71.png",
+    "path": "trailer/first/picture-pass-d3/refs/candidate_b.png",
+    "sha256": "2839be8f31140c53d808dcf6571a2410eed02c91eb48b41f19a40228a6fa0288",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "candidate_c",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. Plain modest audition room with warm off-white wall, soft daylight from camera left, medium shot head through waist, seated on an ordinary dark chair. Restrained unpolished documentary color and real skin texture. No crew in frame, no words, slate, captions, labels, logos, watermark or montage. A fictional male actor in his late forties auditioning to play Roy. The supplied image is a loose casting and wardrobe reference only: a visibly different man, heavier brows, shorter almost cropped dark hair with faint gray at temples, small dark rectangular eyeglasses and subtle stubble. Filipino-American appearance, charcoal hoodie over olive T-shirt. He looks reasonably puzzled at an interviewer just camera left as though asking for context, mouth relaxed. Grounded working actor, no comic mugging or caricature.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-0d26e854-8370-4c8e-8bd5-62d3a9f4dd89.png",
+    "path": "trailer/first/picture-pass-d3/refs/candidate_c.png",
+    "sha256": "1b8d99841b5f55f673cd7e5b37323772b70d99091326bac253969b9d938750ec",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "communications",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. A fictional female corporate communications professional in her early forties sits at the edge of the domestic interview setup shown in the supplied room reference. Same soft daylight, pale wall and understated documentary palette; this is an adjacent wider corner of that room. She has shoulder-length dark brown hair, simple dark navy knit top and neutral trousers, and holds a thin unbranded legal pad on her lap with writing too small to read. Medium shot head to lap. Her expression is ordinary, attentive and matter-of-fact, not villainous or comic. The interviewer is offscreen. Natural skin and fabric texture. No generated words or logos, no extra people, no captions or watermark.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-d42f6d25-b281-477f-a364-cd4fb8b81419.png",
+    "path": "trailer/first/picture-pass-d3/refs/communications.png",
+    "sha256": "aee557b12c744a037279abcb460b94588fdd93b838735a4ae134a3c9d6f860d5",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "lodge_event",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9, a modestly extravagant private ski-lodge reception with exposed timber, warm neutral practical lights and snowy slopes visible beyond tall windows. A large framed Cubist portrait painting stands centered on a display plinth. This is a fictional Picasso prop recreation, an abstract angular human face in muted ochre, blue and cream, not a copy of a named work. The painting is completely intact. Its thick rectangular dark wooden frame has a clearly visible narrow horizontal feed slot integrated across its lower edge, with room beneath for shredded strips to emerge. A few formally dressed guests stand well back at either side, calmly watching. Ordinary event videography, not a glossy auction advertisement. Keep the entire painting and lower apparatus in view. Plausible physical mechanism, no impossible geometry. No words, captions, readable labels, logos, montage or watermark.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-00d10820-0aca-41ed-b7a6-9a0e7c19a125.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/lodge_event.png",
+    "sha256": "51da02e482d0b2b2a41ede645e97aff83849198767503cfb45cd72817bc58a8c",
+    "production_status": "superseded draft"
+  },
+  {
+    "key": "table",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. Image 1 is Dan's exact identity and wardrobe reference; image 2 is Fielder's exact identity and wardrobe reference. Preserve these two established fictional men, faces, hairstyles and ages. They sit across a plain wooden table in the same quiet domestic interview location, soft daylight from a side window. Dan wears his dark olive jacket over gray knit shirt; Fielder his gray blazer and black crew-neck shirt. A patient medium-wide two-shot, both heads and upper bodies in frame, slight three-quarter profiles facing one another. Fielder listens with restrained uncertainty. Dan looks politely practical and helpful, without a wink or villainous smile. Calm empty hands, no papers required, no crew, no Roy, no text, captions, logos or watermark. Real fabric and skin texture, neutral documentary color.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-8ab23424-b581-49ac-9b1f-bb183a47ff8f.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/table.png",
+    "sha256": "330cd2ded33b0fb849d79f8c2c224d4a4d9b232e93490e7e8f72b723ccc1d1f6",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "editor",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. Image 1 is the exact identity and wardrobe reference for the fictional interviewer Fielder: wavy dark hair, long face, gray blazer, black crew-neck shirt. He sits beside a fictional female editor at a plain editing desk, seen from a slight rear three-quarter angle so his recognizable side profile is visible. The editor is an ordinary professional in a simple gray shirt. They look at one large desktop monitor, centered on the left half of the frame, nearly straight-on with all four display corners visible and no obstruction. Screen uniformly neutral gray and blank for accurate editing-interface compositing later. Dimmer sober room illuminated by soft side daylight and screen light, realistic skin and cloth texture. No other screens, no generated text, no visible thumbnails, no logos, no captions, no smiling at a joke or dramatic villain lighting. One unbordered photograph.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-c5e81e17-9b0c-4f84-8282-c76f09a6ce6b.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/editor.png",
+    "sha256": "9b9f3657ac1ffedabfdbc91f09f16627fab10356cb24e2a2c2fea12c7b894efa",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "roy_monitor",
+    "prompt": "Photorealistic natural documentary frame, landscape 16:9. The supplied image is Roy's exact identity, wardrobe and home reference. Preserve this same fictional Filipino-American man, lean early forties, short dark hair, charcoal zip hoodie over muted olive shirt, tired kind eyes. A quiet new angle in the same home: he sits at a small table watching a laptop whose back faces the camera, so no screen content is visible. Three-quarter view, Roy's face clearly visible as he looks down at the screen, faintly troubled and concentrating without exaggerated distress. Crutches lean beside his chair. Soft natural daylight, modest room, real texture, no ukulele in his hands in this shot. No text, branding, captions, crew, montage or watermark.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-9f7e28d7-bfe6-4e27-a3df-f898a1fb739d.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/roy_monitor.png",
+    "sha256": "04bc777ad4fcc3aa64e133b2a365180833362171a87170cb89f63ce51b5bcbdf",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "lodge_intact",
+    "prompt": "Edit this exact photograph, preserving everything except the shredded strips protruding below the frame. Remove every dangling strip, replace the area with the plain dark plinth/background that should be behind them. The portrait itself remains completely intact in its existing frame. Keep a narrow dark exit slot along the bottom frame edge, empty with nothing hanging out. Preserve all guests, their faces and positions, snowy windows, lighting, camera framing, colors, painting, dark frame and pedestal exactly. No other changes.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-2db9f500-725b-46b8-bf7e-1322d60c47cd.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/lodge_intact.png",
+    "sha256": "cc9b14fc74d0641c0695221bcec45953c94988144ce008f3c616e487f6ab1caf",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "candidate_a_ukulele",
+    "prompt": "Edit this exact documentary photograph. Preserve this exact fictional actor's face, age, hair, charcoal hoodie, olive shirt, chair, room, camera framing and lighting. Add a small realistic four-string wooden soprano ukulele resting across his lap, with four strings and exactly four tuning pegs. Both hands rest gently on the instrument, right by soundhole and left loose at the neck. Widen framing slightly only if needed to show his hands and full instrument headstock. He looks uncertain toward the same interviewer, not performing yet. No text or extra people.",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-1269b289-5227-46da-a5a0-f3c3cbcf0a62.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/candidate_a_ukulele.png",
+    "sha256": "d632beffd1c826d5d81fd0abcf5d3ad5f93400d351d597b1d2916aec049d758f",
+    "production_status": "superseded draft"
+  },
+  {
+    "key": "candidate_a_ukulele_r1",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-18cbc0ca-60d5-4082-b073-d72e3b692e35.png",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/candidate_a_ukulele_r1.png",
+    "prompt": "Edit only the small instrument in this image, leaving the exact same man, face, clothing, hands, posture, room and light. Replace the current six-string guitar-like instrument with a true soprano UKULELE: short neck, narrow fretboard, exactly FOUR strings and a compact headstock with exactly FOUR tuning pegs, two on top and two on bottom. There must be no middle pair of pegs and no fifth or sixth string. The hand positions may adjust naturally to a smaller ukulele. Preserve everything else. It is visibly a small ukulele, not a guitar.",
+    "sha256": "967d39213103ded2db4b3524a954942ec1c77bae74d0d50706c8dcd39d8a2e30",
+    "production_status": "selected reference"
+  },
+  {
+    "key": "guests",
+    "path": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/picture-pass-d3/refs/guests.png",
+    "source": "/Users/anonymous/.codex/generated_images/01a15a43-1a08-74c3-90a7-f7468ac6d527/exec-d6da960d-8b86-42b7-be59-4904a96d358e.png",
+    "prompt": "A new camera angle within this exact fictional ski-lodge event. Photorealistic documentary medium shot of the three guests who stood to the RIGHT of the painting in the reference: the blonde woman in black evening dress, the light-brown-haired man in dark suit and white shirt, and the dark-haired woman in black. Preserve their exact faces, clothes, snowy-window timber-and-stone room and warm light. Painting is now OFFSCREEN to camera left. The man holds a smartphone vertically at upper chest level, rear of phone toward camera, quietly recording the offscreen painting. The blonde woman is beginning one uncertain polite clap with hands about to meet at chest level; the dark-haired woman watches quietly. Restrained confusion, ordinary real event behavior. No readable text, logos, captions, no extra people or duplicated hands. Landscape 16:9, natural skin and fabric.",
+    "sha256": "17076ada2cd0615a0d4943867668faebc3034352c35ae907c6c713d62b45b7b6",
+    "production_status": "selected reference"
+  }
+]

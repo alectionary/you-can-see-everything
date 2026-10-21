@@ -1,0 +1,25 @@
+{
+  "current_visual_workflow": "Audio-driven local lip sync with narrow lip/jaw compositing; Dan close-ups refined by Runway performance capture",
+  "new_runway_generations_enabled": true,
+  "user_direction": "Proceed with the approved full picture pass; target 1800 Runway credits with 510 reserved from the starting 2310.",
+  "still_image_tool": "built-in image_gen; no fallback API or separate key requested",
+  "picture_approach": [
+    "Generate continuity-matched photographic stills for remaining scenes",
+    "Use local camera moves, screen animation and compositing",
+    "Reuse suitable existing motion clips, including the saved rehearsal test where accepted"
+  ],
+  "audio_approach": "Accepted ElevenLabs speech and captions retained; recorded tenor ukulele samples replace guitar, with location beds, practical foley and stereo master at approximately -18 LUFS",
+  "capability_limit": "Some AI mouth detail and instrument fingering remain approximate; perceptual listening approval is not claimed",
+  "future_upgrade": "Audio-driven facial performances and final ukulele performance can replace sources within the accepted edit; longer holds extend the timeline under RULES.md.",
+  "preserved_work": [
+    "D2-r1 full voice pass",
+    "visual-tests/v1 reference images and screen reveal",
+    "clips/first/fielder-rehearsal-test-01.mov and its comparison"
+  ],
+  "next_priority": "Review the D4 finishing cut for acting and sound choices",
+  "runway_app_integration_available": true,
+  "runway_access_note": "D4 used 137 credits from 1290, leaving verified 1153; no purchases or plan changes",
+  "picture_pass": "picture-pass-d3",
+  "current_finishing_pass": "finishing-d4",
+  "distribution_terms": "Local Wav2Lip output and derived performance drivers are limited to personal/research/noncommercial use; commercial release needs an appropriately licensed replacement."
+}

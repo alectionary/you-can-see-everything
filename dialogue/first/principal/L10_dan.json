@@ -1,0 +1,20 @@
+{
+  "character": "DAN",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric - Smooth, Trustworthy",
+  "text": "Well, let\u2019s just hire a lookalike.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "dcd71d3dc1145889ab8161741fe8dc2abe8ec2c11f0b56fddaa31fea3529e3aa",
+  "request_id": "NRFAToJmKdRWrrcHu9Jc",
+  "history_item_id": "t3TucWEF6L6xZjvBJbAE",
+  "character_cost_header": "34",
+  "sha256": "dd2c9391e8ad029e9ddf9cbd685e8ca54f62d04823b9ddc2e40e7fc46add7bf3"
+}

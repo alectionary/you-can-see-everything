@@ -1,0 +1,22 @@
+{
+  "installed": true,
+  "connector_workspace_verified": true,
+  "website_authenticated": true,
+  "website_workspace_verified": true,
+  "workspace_plan": "Standard",
+  "credits_observed_after_submission": 385,
+  "generation_tasks_submitted": 1,
+  "generation_manifest": "runway-generation-01.json",
+  "method": "User signed in with Google; native browser UI fallback works.",
+  "credits_observed_after_reward": 685,
+  "onboarding_reward_credits": 300,
+  "generation_tasks_completed": 1,
+  "last_generation_status": "downloaded and technically verified",
+  "connector_authenticated": true,
+  "connector_error_resolved": true,
+  "previous_connector_error": "This app tool requires a non-empty string link_id argument",
+  "latest_check": "App integration authenticated successfully after user reported upgrading to Pro.",
+  "available_video_models_verified": true,
+  "credits_latest_total": 2310,
+  "latest_check_generated_media": false
+}

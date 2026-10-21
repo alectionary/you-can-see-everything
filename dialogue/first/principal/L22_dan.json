@@ -1,0 +1,20 @@
+{
+  "character": "DAN",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric - Smooth, Trustworthy",
+  "text": "Roy chose the song.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "speed": 1.0,
+    "style": 0.0,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "request_signature": "2998e75026026af784ddcd310dd71751a8b441058ef37cc8bdc0a6b554f0df6e",
+  "request_id": "8E70uVMGTcTxs1QGgoF6",
+  "history_item_id": "GZNHMLNHoMA50j1vNGUk",
+  "character_cost_header": "19",
+  "sha256": "998809676e03d7c022c26abd87a413801b05e0de9ba3db2f66a65b4fd11c006d"
+}
