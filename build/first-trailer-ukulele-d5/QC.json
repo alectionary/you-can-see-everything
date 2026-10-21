@@ -1,0 +1,467 @@
+{
+  "status": "PASS technical artifact checks; perceptual comparison remains for the user",
+  "artifact": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-ukulele-d5/first-trailer-ukulele-d5.mp4",
+  "sha256": "595720ffbaa6cb3056b28db7a3b2617e22ef7c27ccae6db5e9966300d65cc7d5",
+  "duration": 180,
+  "frames": 4320,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "encoded_loudness": {
+    "input_i": "-18.05",
+    "input_tp": "-1.53",
+    "input_lra": "12.30"
+  },
+  "mono_fold_loss_db": -0.011083229124530303,
+  "encoded_gap_peak_dbfs": -79.76683290881651,
+  "picture_stream_sha256": "SHA256=a9f3f83a65338a493ed57dd49d889bbab1ca16f4957cf651acb918df084f89e4",
+  "picture_identical_to_d4": true,
+  "d4_preserved": true,
+  "captions_identical": true,
+  "preserved_pcm_stems": {
+    "roy": "ukulele",
+    "dialogue": "dialogue",
+    "effects": "effects",
+    "ambience": "ambience"
+  },
+  "segments": [
+    {
+      "id": "T01",
+      "start": 0.0,
+      "end": 8.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T02",
+      "start": 8.0,
+      "end": 12.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T03",
+      "start": 12.0,
+      "end": 18.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T04",
+      "start": 18.0,
+      "end": 22.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T05",
+      "start": 22.0,
+      "end": 26.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T06",
+      "start": 26.0,
+      "end": 30.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T07",
+      "start": 30.0,
+      "end": 34.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T08",
+      "start": 34.0,
+      "end": 37.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T09",
+      "start": 37.0,
+      "end": 40.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T10",
+      "start": 40.0,
+      "end": 48.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T11",
+      "start": 48.0,
+      "end": 52.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T12",
+      "start": 52.0,
+      "end": 56.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T13",
+      "start": 56.0,
+      "end": 62.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T14",
+      "start": 62.0,
+      "end": 67.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T15",
+      "start": 67.0,
+      "end": 72.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T16",
+      "start": 72.0,
+      "end": 76.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T17",
+      "start": 76.0,
+      "end": 79.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T18",
+      "start": 79.0,
+      "end": 82.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T19",
+      "start": 82.0,
+      "end": 88.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T20",
+      "start": 88.0,
+      "end": 94.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T21",
+      "start": 94.0,
+      "end": 98.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T22",
+      "start": 98.0,
+      "end": 104.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T23",
+      "start": 104.0,
+      "end": 110.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T24",
+      "start": 110.0,
+      "end": 118.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T25",
+      "start": 118.0,
+      "end": 122.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T26",
+      "start": 122.0,
+      "end": 126.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T27",
+      "start": 126.0,
+      "end": 132.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T28",
+      "start": 132.0,
+      "end": 138.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T29",
+      "start": 138.0,
+      "end": 142.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T30",
+      "start": 142.0,
+      "end": 145.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T31",
+      "start": 145.0,
+      "end": 148.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T32",
+      "start": 148.0,
+      "end": 151.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T33",
+      "start": 151.0,
+      "end": 154.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T34",
+      "start": 154.0,
+      "end": 157.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T35",
+      "start": 157.0,
+      "end": 160.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T36",
+      "start": 160.0,
+      "end": 164.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T37",
+      "start": 164.0,
+      "end": 166.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "T38",
+      "start": 166.0,
+      "end": 170.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T39",
+      "start": 170.0,
+      "end": 175.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T40",
+      "start": 175.0,
+      "end": 180.0,
+      "duration": 5.0,
+      "frames": 120
+    }
+  ],
+  "minimum_picture_segment_seconds": 2.0,
+  "stems": {
+    "mix.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -1.5181053172355896
+    },
+    "music-only.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -14.1107321159771
+    },
+    "stems/ambience.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -28.19746454662171
+    },
+    "stems/bloom.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -20.060845841259763
+    },
+    "stems/body.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -30.756169639118855
+    },
+    "stems/dialogue.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -12.38081268268343
+    },
+    "stems/effects.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -23.37909695378158
+    },
+    "stems/grit.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -35.91997752175856
+    },
+    "stems/low.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -15.738258203963829
+    },
+    "stems/plucks.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -25.99005440029094
+    },
+    "stems/reverse.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -38.41640061990714
+    },
+    "stems/roy.wav": {
+      "frames": 8640000,
+      "sample_rate": 48000,
+      "channels": 2,
+      "subtype": "PCM_24",
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -18.4387344501731
+    }
+  },
+  "pitch_checks": [
+    {
+      "source": "Actual encoded MP4 opening",
+      "window_start": 1.07,
+      "expected_hz": 220.0,
+      "measured_hz": 219.8187063629889,
+      "cents_error": -1.4272323141696852
+    },
+    {
+      "source": "Actual encoded MP4 opening",
+      "window_start": 2.08,
+      "expected_hz": 329.6275569128699,
+      "measured_hz": 328.2712257498827,
+      "cents_error": -7.138271356508935
+    },
+    {
+      "source": "Actual encoded MP4 opening",
+      "window_start": 3.08,
+      "expected_hz": 277.1826309768721,
+      "measured_hz": 276.69530124258097,
+      "cents_error": -3.046454815252136
+    },
+    {
+      "source": "Rendered lowered ukulele stem",
+      "window_start": 40.08,
+      "expected_hz": 55,
+      "measured_hz": 55.24882778734963,
+      "cents_error": 7.814683891140006
+    }
+  ],
+  "midi_tracks": 8,
+  "midi_timing_and_notes_match_score_events": true,
+  "score_pdf_pages": 6,
+  "title": "One shared attack at 166, no subsequent score event; exact PCM silence 164-166; music zero after 170",
+  "bass_anticipation": [
+    109.5,
+    110.5,
+    111.5,
+    112.5,
+    113.5,
+    114.5,
+    115.5,
+    116.5,
+    117.5,
+    118.5,
+    119.5,
+    120.5,
+    121.5,
+    122.5,
+    123.5,
+    124.5
+  ],
+  "paid_generations": 0,
+  "limits": "No claim of subjective headphone/speaker listening. Low and sustained sounds are transformed ukulele recordings, not physically playable solo-instrument parts. D4 picture and its approximate mouth/hand detail remain unchanged.",
+  "score_pdf_sha256": "7da5036e8230f4e63d25660935df3d672a1ac99f8ce9846fde5cabb6f25c45b4",
+  "midi_sha256": "1b8c5f89ce69c5520c3d30749ce05059fcaa17da0a983e2b148506e76d224d66",
+  "score_visual_review": "All six final pages rendered with Poppler at 1600px and inspected; clear timing marks, round/cross body articulations centered, no clipped or overlapping notation."
+}

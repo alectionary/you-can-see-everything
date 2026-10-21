@@ -1,0 +1,39 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/synced/T10_fielder.mp4",
+  "audio": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/lip-inputs/T10_dan.wav",
+  "output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/synced/T10_dan.mp4",
+  "frames": 192,
+  "fps": 24,
+  "device": "mps",
+  "roi": [
+    0,
+    0,
+    660,
+    720
+  ],
+  "detected_face_samples": 64,
+  "attempted_face_samples": 64,
+  "box_min": [
+    297,
+    97,
+    430,
+    309
+  ],
+  "box_max": [
+    308,
+    112,
+    438,
+    319
+  ],
+  "source_sha256": "6d6982ba954c9cbdab73f24a37d031effba3711e02e575b690b7b6e134a29319",
+  "audio_sha256": "c4b43257a51c69c7ff26a0b2b5d32e1b315a97fdc74d963d49e557fba84c3636",
+  "output_sha256": "6f74d1076e60ee0b9c2eb1dabd7f9c2a204c9e0dd49e08e0831675cf1aca69c5",
+  "seconds": 31.57,
+  "method": "Wav2Lip GAN; feathered lower-face composite; original upper face and body retained",
+  "license": "personal/noncommercial only",
+  "composite_source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/polished/T10_fielder.mp4",
+  "refined_output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/polished/T10_dan.mp4",
+  "refinement": "Narrow lip/jaw feather; original nose and cheek texture restored",
+  "sha256": "4435593dcb13fdd412d6315ba03d9ac0f54a66ddb354f91b922bb1c63c45ae90",
+  "face_boxes": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/polished/T10_dan.face-boxes.npy"
+}

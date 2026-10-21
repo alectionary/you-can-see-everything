@@ -1,0 +1,11 @@
+# D4 sampled-frame performance review
+
+Inspected the local Roy question test and comparative frames for the first Dan, Roy and Fielder passes. The broad local mouth region softened some skin in the largest Dan close-ups; a narrower lip/jaw composite restores more of the original nose and cheek texture. Five Dan close-ups were then selected from the sharper performance-capture refinements after comparison against the local results. Those refinements can vary eye/head position slightly while keeping the established character, wardrobe and setting.
+
+Reviewed sixteen additional local performance frames covering the table scene, candidates, communications, song introduction, monitor room, editor room and silent mouth corrections. All 22 local jobs completed; twenty visible dialogue cues were driven by their matching accepted recordings. Profile-mouth detail is small and remains approximate. The original reaction remains untouched.
+
+Reviewed eighteen captioned frames from the actual final D4 MP4, saved in contacts/final-d4-*.jpg. Dan's CEO, Pinterest identifier is present. The original “Again” anchor, longer “I was,” repeated candidate answers, corporate accuracy claim, platform motive, Roy introduction, embedded stream, arranged-it question, song answer, editor response and final question/comment are readable. The final comment has no overlapping dialogue caption. The workprint label is updated to FINISH PASS D4.
+
+Full encoded frame counting and scene-change scanning are in QC.json/QC.md. All detected scene changes align with planned composition boundaries; no extra internal cut was detected above threshold 0.25. Silence, title black, levels, mono compatibility, ukulele tuning and unchanged voice/caption sources are measured there. This visual sampling is not a claim of human headphone/speaker listening or an independent phoneme-level review. Exact instrument fingering is still approximate because the hands come from generated footage.
+
+The updated score compiles successfully. The ukulele part and its first middle-section entry at 110 seconds match the rendered arrangement; GM MIDI remains an audition proxy for the recorded sample instrument. Model and sample usage terms are recorded in trailer/first/finishing-d4/README.md.

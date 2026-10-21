@@ -1,0 +1,80 @@
+{
+  "version": "D5 all-ukulele alternate",
+  "duration_seconds": 180,
+  "sample_rate": 48000,
+  "channels": 2,
+  "samples_per_channel": 8640000,
+  "master_gain_db": 10.149999999999999,
+  "premaster_loudness": {
+    "input_i": "-28.15",
+    "input_tp": "-11.45",
+    "input_lra": "12.30",
+    "input_thresh": "-39.88",
+    "output_i": "-17.99",
+    "output_tp": "-1.20",
+    "output_lra": "8.90",
+    "output_thresh": "-29.67",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.01"
+  },
+  "master_loudness": {
+    "input_i": "-18.05",
+    "input_tp": "-1.51",
+    "input_lra": "12.30",
+    "input_thresh": "-29.96",
+    "output_i": "-17.94",
+    "output_tp": "-1.20",
+    "output_lra": "8.80",
+    "output_thresh": "-29.60",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.06"
+  },
+  "music_roles": [
+    "roy",
+    "plucks",
+    "low",
+    "bloom",
+    "grit",
+    "body",
+    "reverse"
+  ],
+  "render_gains": {
+    "plucks": {
+      "linear_gain": 0.012752425714086435,
+      "reference_role": "piano",
+      "peak_dbfs": -25.99005889892578
+    },
+    "low": {
+      "linear_gain": 0.0836861964118484,
+      "reference_role": "bass",
+      "peak_dbfs": -15.738253593444824
+    },
+    "bloom": {
+      "linear_gain": 0.03857771733123869,
+      "reference_role": "strings",
+      "peak_dbfs": -20.06084632873535
+    },
+    "grit": {
+      "linear_gain": 0.01630336962838403,
+      "reference_role": "brass",
+      "peak_dbfs": -35.919952392578125
+    },
+    "body": {
+      "linear_gain": 0.005500413988918611,
+      "reference_role": "percussion",
+      "peak_dbfs": -30.756187438964844
+    },
+    "reverse": {
+      "linear_gain": 0.0002283140056533739,
+      "reference_role": null,
+      "peak_dbfs": -38.41637420654297
+    }
+  },
+  "source": "Only the saved CC0 ukulele pitched/body/muted samples produce the new score; Roy is the accepted D4 stem. No oscillator, drum sample, piano, brass or string sample is used. Practical sound effects remain separate.",
+  "source_library": "Flight Fireball tenor / Mateusz Dabrowski / FreePats, CC0",
+  "source_url": "https://freepats.zenvoid.org/GuitarFamily/ukulele.html",
+  "paid_generations": 0,
+  "dialogue_effects_ambience": "Byte-identical D4 stems before common mastering gain",
+  "picture": "Original D4 encoded video stream retained without re-encoding, including its D4 picture-pass label",
+  "roy": "Byte-identical to D4 ukulele stem, including microtiming and playback perspective"
+}

@@ -1,0 +1,39 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T18.mp4",
+  "audio": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/lip-inputs/T18.wav",
+  "output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/synced/T18.mp4",
+  "frames": 72,
+  "fps": 24,
+  "device": "mps",
+  "roi": [
+    0,
+    0,
+    1020,
+    720
+  ],
+  "detected_face_samples": 24,
+  "attempted_face_samples": 24,
+  "box_min": [
+    435,
+    76,
+    584,
+    287
+  ],
+  "box_max": [
+    441,
+    88,
+    595,
+    301
+  ],
+  "source_sha256": "c12ba14e23220c1b949250cac302b0f08d1accff290731f063e42622b5acca6f",
+  "audio_sha256": "558cdb75fa8c3607f202f00b91e1a8155892233681df8a0c77bf437567f6c237",
+  "output_sha256": "39fa64cf3f31d00ca9e372d8169414238bbe538dda3fc975ba2705583105b559",
+  "seconds": 6.61,
+  "method": "Wav2Lip GAN; feathered lower-face composite; original upper face and body retained",
+  "license": "personal/noncommercial only",
+  "composite_source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T18.mp4",
+  "refined_output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/polished/T18.mp4",
+  "refinement": "Narrow lip/jaw feather; original nose and cheek texture restored",
+  "sha256": "2dca6654d4ccc6e4e03dbef0f1baf8a9a88312c2cb48a3e17f8e1ac47a4c387a",
+  "face_boxes": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/polished/T18.face-boxes.npy"
+}

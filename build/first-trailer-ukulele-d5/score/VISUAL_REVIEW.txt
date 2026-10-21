@@ -1,0 +1,1 @@
+All six final pages rendered with Poppler at 1600px and inspected; clear timing marks, round/cross body articulations centered, no clipped or overlapping notation.

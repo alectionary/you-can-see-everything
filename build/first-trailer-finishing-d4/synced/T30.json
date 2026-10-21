@@ -1,0 +1,34 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-picture-pass-d3/segments/T30.mp4",
+  "audio": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/lip-inputs/T30.wav",
+  "output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/synced/T30.mp4",
+  "frames": 72,
+  "fps": 24,
+  "device": "mps",
+  "roi": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "detected_face_samples": 24,
+  "attempted_face_samples": 24,
+  "box_min": [
+    388,
+    2,
+    863,
+    616
+  ],
+  "box_max": [
+    396,
+    19,
+    871,
+    652
+  ],
+  "source_sha256": "3f544de1ea82747dd0832fb21443d25962f1e99648b9e8225b2dc212c25c8cd5",
+  "audio_sha256": "306b702cd24c6470e753627748c282b80d6d2d5240b994da90686bcc6f0cdf27",
+  "output_sha256": "fc70e0070576034b2f36af4e0e72907f5e6369817c6502814fa214f485a728e3",
+  "seconds": 15.29,
+  "method": "Wav2Lip GAN; feathered lower-face composite; original upper face and body retained",
+  "license": "personal/noncommercial only"
+}

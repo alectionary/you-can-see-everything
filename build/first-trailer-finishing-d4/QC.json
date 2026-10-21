@@ -1,0 +1,449 @@
+{
+  "artifact": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/first-trailer-finishing-d4.mp4",
+  "sha256": "2bdb650328c936b0daaa7d14ae641e63ac5f835d7413795113aac714b89e11c0",
+  "duration": 180,
+  "frames": 4320,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "audio_channels": 2,
+  "audio_sample_rate": 48000,
+  "segments": [
+    {
+      "id": "T01",
+      "start": 0.0,
+      "end": 8.0,
+      "frames": 192,
+      "duration": 8.0
+    },
+    {
+      "id": "T02",
+      "start": 8.0,
+      "end": 12.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T03",
+      "start": 12.0,
+      "end": 18.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T04",
+      "start": 18.0,
+      "end": 22.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T05",
+      "start": 22.0,
+      "end": 26.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T06",
+      "start": 26.0,
+      "end": 30.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T07",
+      "start": 30.0,
+      "end": 34.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T08",
+      "start": 34.0,
+      "end": 37.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T09",
+      "start": 37.0,
+      "end": 40.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T10",
+      "start": 40.0,
+      "end": 48.0,
+      "frames": 192,
+      "duration": 8.0
+    },
+    {
+      "id": "T11",
+      "start": 48.0,
+      "end": 52.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T12",
+      "start": 52.0,
+      "end": 56.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T13",
+      "start": 56.0,
+      "end": 62.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T14",
+      "start": 62.0,
+      "end": 67.0,
+      "frames": 120,
+      "duration": 5.0
+    },
+    {
+      "id": "T15",
+      "start": 67.0,
+      "end": 72.0,
+      "frames": 120,
+      "duration": 5.0
+    },
+    {
+      "id": "T16",
+      "start": 72.0,
+      "end": 76.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T17",
+      "start": 76.0,
+      "end": 79.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T18",
+      "start": 79.0,
+      "end": 82.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T19",
+      "start": 82.0,
+      "end": 88.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T20",
+      "start": 88.0,
+      "end": 94.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T21",
+      "start": 94.0,
+      "end": 98.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T22",
+      "start": 98.0,
+      "end": 104.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T23",
+      "start": 104.0,
+      "end": 110.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T24",
+      "start": 110.0,
+      "end": 118.0,
+      "frames": 192,
+      "duration": 8.0
+    },
+    {
+      "id": "T25",
+      "start": 118.0,
+      "end": 122.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T26",
+      "start": 122.0,
+      "end": 126.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T27",
+      "start": 126.0,
+      "end": 132.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T28",
+      "start": 132.0,
+      "end": 138.0,
+      "frames": 144,
+      "duration": 6.0
+    },
+    {
+      "id": "T29",
+      "start": 138.0,
+      "end": 142.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T30",
+      "start": 142.0,
+      "end": 145.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T31",
+      "start": 145.0,
+      "end": 148.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T32",
+      "start": 148.0,
+      "end": 151.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T33",
+      "start": 151.0,
+      "end": 154.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T34",
+      "start": 154.0,
+      "end": 157.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T35",
+      "start": 157.0,
+      "end": 160.0,
+      "frames": 72,
+      "duration": 3.0
+    },
+    {
+      "id": "T36",
+      "start": 160.0,
+      "end": 164.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T37",
+      "start": 164.0,
+      "end": 166.0,
+      "frames": 48,
+      "duration": 2.0
+    },
+    {
+      "id": "T38",
+      "start": 166.0,
+      "end": 170.0,
+      "frames": 96,
+      "duration": 4.0
+    },
+    {
+      "id": "T39",
+      "start": 170.0,
+      "end": 175.0,
+      "frames": 120,
+      "duration": 5.0
+    },
+    {
+      "id": "T40",
+      "start": 175.0,
+      "end": 180.0,
+      "frames": 120,
+      "duration": 5.0
+    }
+  ],
+  "pcm": {
+    "mix.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -1.9464234641770493,
+      "format": "PCM_24"
+    },
+    "stems/ambience.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -28.19746454662171,
+      "format": "PCM_24"
+    },
+    "stems/bass.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -16.978580589575802,
+      "format": "PCM_24"
+    },
+    "stems/brass.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -20.813045063999972,
+      "format": "PCM_24"
+    },
+    "stems/dialogue.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -12.38081268268343,
+      "format": "PCM_24"
+    },
+    "stems/effects.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -23.37909695378158,
+      "format": "PCM_24"
+    },
+    "stems/percussion.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -25.883159638446543,
+      "format": "PCM_24"
+    },
+    "stems/piano.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -21.34348566642331,
+      "format": "PCM_24"
+    },
+    "stems/strings.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -21.084833483197936,
+      "format": "PCM_24"
+    },
+    "stems/ukulele.wav": {
+      "samples": 8640000,
+      "channels": 2,
+      "silence_gate_nonzero_samples": 0,
+      "peak_dbfs": -18.4387344501731,
+      "format": "PCM_24"
+    }
+  },
+  "encoded_gate_peak_dbfs": -71.65703247791261,
+  "encoded_loudness": {
+    "input_i": "-18.07",
+    "input_tp": "-1.95",
+    "input_lra": "13.70"
+  },
+  "mono_fold_loss_db": -0.00821192245403963,
+  "ukulele_pitch_checks": [
+    {
+      "midi": 57,
+      "onset": 0.9878794037362414,
+      "expected_hz": 220.0,
+      "measured_hz": 219.87716282699398,
+      "cents_error": -0.9669058541721829
+    },
+    {
+      "midi": 64,
+      "onset": 2.0038833622072447,
+      "expected_hz": 329.6275569128699,
+      "measured_hz": 328.51939141190144,
+      "cents_error": -5.829991813179119
+    },
+    {
+      "midi": 61,
+      "onset": 2.999908928368557,
+      "expected_hz": 277.1826309768721,
+      "measured_hz": 276.76583247599143,
+      "cents_error": -2.6052094738006777
+    }
+  ],
+  "black_frames": 48,
+  "black_max_gray": 0,
+  "speech_sources_preserved": 31,
+  "caption_bytes_preserved": true,
+  "local_lipsync_jobs": 22,
+  "visible_dialogue_cues_processed": 20,
+  "silent_mouth_correction_jobs": 2,
+  "title": "One ensemble onset at 166; no later score attacks",
+  "status": "PASS technical finishing checks; sampled-frame performance review recorded separately",
+  "limits": "Audio-driven lip generation is not a guarantee of perfect phoneme-level realism. Mouth artifacts and approximate instrument fingering remain possible. Human perceptual listening approval has not been claimed.",
+  "encoded_edit_scan": {
+    "scene_threshold": 0.25,
+    "detected_cut_times": [
+      8.0,
+      12.0,
+      18.0,
+      22.0,
+      26.0,
+      34.0,
+      37.0,
+      40.0,
+      48.0,
+      56.0,
+      62.0,
+      67.0,
+      72.0,
+      76.0,
+      79.0,
+      82.0,
+      94.0,
+      98.0,
+      104.0,
+      122.0,
+      126.0,
+      132.0,
+      138.0,
+      142.0,
+      145.0,
+      148.0,
+      151.0,
+      154.0,
+      157.0,
+      160.0,
+      164.0,
+      170.0
+    ],
+    "unplanned_cuts": [],
+    "alignment_tolerance_frames": 1.01
+  },
+  "visual_review": "VISUAL_REVIEW.md; eighteen actual final captioned frames plus local/Runway comparative frames",
+  "credits_used_this_pass": 137,
+  "runway_balance_verified": 1153
+}
