@@ -1,0 +1,66 @@
+{
+  "duration_seconds": 191,
+  "sample_rate": 48000,
+  "channels": 2,
+  "master_gain_db": 10.14,
+  "premaster_loudness": {
+    "input_i": "-28.14",
+    "input_tp": "-11.94",
+    "input_lra": "11.50",
+    "input_thresh": "-39.73",
+    "output_i": "-18.22",
+    "output_tp": "-1.27",
+    "output_lra": "8.70",
+    "output_thresh": "-29.83",
+    "normalization_type": "dynamic",
+    "target_offset": "0.22"
+  },
+  "master_loudness": {
+    "input_i": "-18.03",
+    "input_tp": "-1.80",
+    "input_lra": "11.60",
+    "input_thresh": "-29.80",
+    "output_i": "-18.18",
+    "output_tp": "-1.28",
+    "output_lra": "8.50",
+    "output_thresh": "-29.76",
+    "normalization_type": "dynamic",
+    "target_offset": "0.18"
+  },
+  "roles": {
+    "plucks": {
+      "linear_gain": 0.012752425714086435,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    },
+    "low": {
+      "linear_gain": 0.0836861964118484,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    },
+    "bloom": {
+      "linear_gain": 0.03857771733123869,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    },
+    "grit": {
+      "linear_gain": 0.01630336962838403,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    },
+    "body": {
+      "linear_gain": 0.005500413988918611,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    },
+    "reverse": {
+      "linear_gain": 0.0002283140056533739,
+      "source": "Ukulele recordings, same transformation as D5; extended event map"
+    }
+  },
+  "opening": "Clearly ringing four-string staggered strums; original wrong chord and restart retained; no body-percussion score in first 18 seconds. Roy foreground peak raised.",
+  "speech": "Original Dan d04 restored and d05 moved later within T04; all other accepted PCM speech preserved, shifted with inserted cards.",
+  "silence": [
+    171,
+    173
+  ],
+  "title_attack": 173,
+  "music_ends": 177,
+  "new_runway_generations": 0,
+  "new_elevenlabs_generations": 0
+}

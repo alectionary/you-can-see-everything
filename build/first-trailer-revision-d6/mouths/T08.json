@@ -1,0 +1,22 @@
+{
+  "segment": "T08",
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T08.mp4",
+  "frames": 72,
+  "fps": 24,
+  "dan_windows_local": [
+    [
+      0.14999999999999858,
+      1.3515799999999984
+    ]
+  ],
+  "reference_frame": 3,
+  "reference_openness": 0.042859112213950924,
+  "neutral_frames": 40,
+  "transition_frames": 3,
+  "closure_tail_seconds": 0.1,
+  "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+  "affine_fallbacks": 0,
+  "source_sha256": "4d2b54750c9152913060be037307cea84a0800ac572c5005fe387c66cfd54239",
+  "output_sha256": "166578480d391d27c3ef14244211af0410ca1d17cd9871a0c6632662070474f4",
+  "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+}

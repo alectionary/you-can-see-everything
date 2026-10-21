@@ -1,0 +1,22 @@
+{
+  "segment": "T22",
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T22.mp4",
+  "frames": 144,
+  "fps": 24,
+  "dan_windows_local": [
+    [
+      0.4000000000000057,
+      2.553920000000005
+    ]
+  ],
+  "reference_frame": 107,
+  "reference_openness": 0.10881648936170213,
+  "neutral_frames": 89,
+  "transition_frames": 3,
+  "closure_tail_seconds": 0.1,
+  "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+  "affine_fallbacks": 0,
+  "source_sha256": "fef6b51f6a592783c41e1c2821d768524659d05756f6b5dac643ae7d6e95562d",
+  "output_sha256": "ae71695c982dfa57bf71d1c26ece893bc2ae330161ac44579ca0546e11d50ca5",
+  "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+}

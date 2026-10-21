@@ -1,0 +1,138 @@
+[
+  {
+    "segment": "T04",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T04.mp4",
+    "frames": 96,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        0.3999999999999986,
+        1.2732291666666669
+      ],
+      [
+        2.25,
+        3.5462291666666665
+      ]
+    ],
+    "reference_frame": 42,
+    "reference_openness": 0.08826854149434796,
+    "neutral_frames": 38,
+    "transition_frames": 5,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "80b16cee4c29f30d82706f890b77d92f2dbd1fb76c641dccdf901775958aae27",
+    "output_sha256": "b45db9a5346c094a9938a65c04cab1a77541f4f78018fb98289d39072d490802",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  },
+  {
+    "segment": "T08",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T08.mp4",
+    "frames": 72,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        0.14999999999999858,
+        1.3515799999999984
+      ]
+    ],
+    "reference_frame": 3,
+    "reference_openness": 0.042859112213950924,
+    "neutral_frames": 40,
+    "transition_frames": 3,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "4d2b54750c9152913060be037307cea84a0800ac572c5005fe387c66cfd54239",
+    "output_sha256": "166578480d391d27c3ef14244211af0410ca1d17cd9871a0c6632662070474f4",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  },
+  {
+    "segment": "T10",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T10.mp4",
+    "frames": 192,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        5.0,
+        6.719850000000001
+      ]
+    ],
+    "reference_frame": 0,
+    "reference_openness": 0.014423076923076924,
+    "neutral_frames": 148,
+    "transition_frames": 2,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "fdd44f9a4cea51b17c72c5d3c12e0dcb851ec451ddfa1df9a90d82520e5c443d",
+    "output_sha256": "cdc4ff6681028f757988e489728f27e4b4c139964d0a24307cdfdc696449c900",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  },
+  {
+    "segment": "T22",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T22.mp4",
+    "frames": 144,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        0.4000000000000057,
+        2.553920000000005
+      ]
+    ],
+    "reference_frame": 107,
+    "reference_openness": 0.10881648936170213,
+    "neutral_frames": 89,
+    "transition_frames": 3,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "fef6b51f6a592783c41e1c2821d768524659d05756f6b5dac643ae7d6e95562d",
+    "output_sha256": "ae71695c982dfa57bf71d1c26ece893bc2ae330161ac44579ca0546e11d50ca5",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  },
+  {
+    "segment": "T26",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T26.mp4",
+    "frames": 96,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        0.29999999999999716,
+        1.1973700000000065
+      ]
+    ],
+    "reference_frame": 91,
+    "reference_openness": 0.11029100529100529,
+    "neutral_frames": 71,
+    "transition_frames": 4,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "3ff4e1c56a9ea3c43374598df82e39741aa47a85d00e316e0c29bb3369faee84",
+    "output_sha256": "d4cae352f986ee1741570587fae45bd9d2d4abb958d36b8cbbded1e3cb659cee",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  },
+  {
+    "segment": "T30",
+    "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-finishing-d4/segments/T30.mp4",
+    "frames": 72,
+    "fps": 24,
+    "dan_windows_local": [
+      [
+        0.4000000000000057,
+        0.9584800000000087
+      ]
+    ],
+    "reference_frame": 20,
+    "reference_openness": 0.11150097465886939,
+    "neutral_frames": 55,
+    "transition_frames": 3,
+    "closure_tail_seconds": 0.1,
+    "method": "Tracked neutral mouth patch outside saved Dan speech windows. Upper-face LK feature alignment preserves head movement; eyes, brows, body and background remain original. T04 speaking lips additionally re-driven from original d04+d05 audio.",
+    "affine_fallbacks": 0,
+    "source_sha256": "35d28f72dad46592fc34a05f19ccb838f66a93e7475e62b3f94af421949ec69d",
+    "output_sha256": "44b9c0e7f9a454024678a8973a17de66e9fd048d884d7b289f323c944955bda7",
+    "license": "Existing Wav2Lip performance terms: personal/noncommercial"
+  }
+]

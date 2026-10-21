@@ -1,0 +1,44 @@
+{
+  "duration_seconds": 191,
+  "old_duration_seconds": 180,
+  "added_seconds": 11,
+  "minimum_segment_seconds": 2,
+  "cards": [
+    [
+      79,
+      2,
+      "C01",
+      "YOU CAN SEE PARKING"
+    ],
+    [
+      104,
+      2,
+      "C02",
+      "YOU CAN SEE BETRAYAL"
+    ],
+    [
+      164,
+      3,
+      "C03",
+      "YOU CAN SEE BEYOND TRUTH"
+    ],
+    [
+      180,
+      4,
+      "C04",
+      "LEARN MORE ON PINTEREST: @YOUCANSEEEVERYTHINGFILMS"
+    ]
+  ],
+  "title_attack": 173,
+  "silence": [
+    171,
+    173
+  ],
+  "music_ends": 177,
+  "cta": [
+    187,
+    191
+  ],
+  "dan_opening": "Original d04 and d05, both on Dan; no new TTS",
+  "rules_audit": "All original holds retained; four standalone cards added; no shot shortened. Dialogue shifts only with insertions, plus explicitly requested restored opening exchange."
+}

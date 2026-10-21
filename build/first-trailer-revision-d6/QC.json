@@ -1,0 +1,605 @@
+{
+  "status": "PASS rendered technical checks; sampled-frame review documented separately",
+  "artifact": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d6/first-trailer-revision-d6.mp4",
+  "sha256": "3eb65c0a90962aa5e4df5834d8378e990249f19ab8af0ded536c0e8ef9867c5e",
+  "duration_seconds": 191,
+  "frames": 4584,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "added_seconds": 11,
+  "segments": [
+    {
+      "id": "T01",
+      "start": 0,
+      "end": 8.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T02",
+      "start": 8.0,
+      "end": 12.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T03",
+      "start": 12.0,
+      "end": 18.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T04",
+      "start": 18.0,
+      "end": 22.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T05",
+      "start": 22.0,
+      "end": 26.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T06",
+      "start": 26.0,
+      "end": 30.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T07",
+      "start": 30.0,
+      "end": 34.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T08",
+      "start": 34.0,
+      "end": 37.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T09",
+      "start": 37.0,
+      "end": 40.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T10",
+      "start": 40.0,
+      "end": 48.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T11",
+      "start": 48.0,
+      "end": 52.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T12",
+      "start": 52.0,
+      "end": 56.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T13",
+      "start": 56.0,
+      "end": 62.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T14",
+      "start": 62.0,
+      "end": 67.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T15",
+      "start": 67.0,
+      "end": 72.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T16",
+      "start": 72.0,
+      "end": 76.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T17",
+      "start": 76.0,
+      "end": 79.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "C01",
+      "start": 79.0,
+      "end": 81.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "T18",
+      "start": 81.0,
+      "end": 84.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T19",
+      "start": 84.0,
+      "end": 90.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T20",
+      "start": 90.0,
+      "end": 96.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T21",
+      "start": 96.0,
+      "end": 100.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T22",
+      "start": 100.0,
+      "end": 106.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "C02",
+      "start": 106.0,
+      "end": 108.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "T23",
+      "start": 108.0,
+      "end": 114.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T24",
+      "start": 114.0,
+      "end": 122.0,
+      "duration": 8.0,
+      "frames": 192
+    },
+    {
+      "id": "T25",
+      "start": 122.0,
+      "end": 126.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T26",
+      "start": 126.0,
+      "end": 130.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T27",
+      "start": 130.0,
+      "end": 136.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T28",
+      "start": 136.0,
+      "end": 142.0,
+      "duration": 6.0,
+      "frames": 144
+    },
+    {
+      "id": "T29",
+      "start": 142.0,
+      "end": 146.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T30",
+      "start": 146.0,
+      "end": 149.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T31",
+      "start": 149.0,
+      "end": 152.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T32",
+      "start": 152.0,
+      "end": 155.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T33",
+      "start": 155.0,
+      "end": 158.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T34",
+      "start": 158.0,
+      "end": 161.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T35",
+      "start": 161.0,
+      "end": 164.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T36",
+      "start": 164.0,
+      "end": 168.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "C03",
+      "start": 168.0,
+      "end": 171.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "T37",
+      "start": 171.0,
+      "end": 173.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "T38",
+      "start": 173.0,
+      "end": 177.0,
+      "duration": 4.0,
+      "frames": 96
+    },
+    {
+      "id": "T39",
+      "start": 177.0,
+      "end": 182.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "T40",
+      "start": 182.0,
+      "end": 187.0,
+      "duration": 5.0,
+      "frames": 120
+    },
+    {
+      "id": "C04",
+      "start": 187.0,
+      "end": 191.0,
+      "duration": 4.0,
+      "frames": 96
+    }
+  ],
+  "minimum_segment_seconds": 2.0,
+  "cards": [
+    {
+      "id": "C01",
+      "start": 79.0,
+      "end": 81.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "C02",
+      "start": 106.0,
+      "end": 108.0,
+      "duration": 2.0,
+      "frames": 48
+    },
+    {
+      "id": "C03",
+      "start": 168.0,
+      "end": 171.0,
+      "duration": 3.0,
+      "frames": 72
+    },
+    {
+      "id": "C04",
+      "start": 187.0,
+      "end": 191.0,
+      "duration": 4.0,
+      "frames": 96
+    }
+  ],
+  "encoded_loudness": {
+    "input_i": "-18.03",
+    "input_tp": "-1.80",
+    "input_lra": "11.60"
+  },
+  "mono_fold_loss_db": -0.01038553213920941,
+  "encoded_gap_peak_dbfs": -79.05126190647734,
+  "black_frames": 48,
+  "black_max_gray": 0,
+  "pcm": {
+    "mix.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -1.825451645314735
+    },
+    "music-only.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -14.1107321159771
+    },
+    "stems/ambience.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -28.19746454662171
+    },
+    "stems/bloom.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -20.060845841259763
+    },
+    "stems/body.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -29.866781234700454
+    },
+    "stems/dialogue.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -12.380726545060437
+    },
+    "stems/effects.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -23.37909695378158
+    },
+    "stems/grit.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -35.67923798195547
+    },
+    "stems/low.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -15.738258203963829
+    },
+    "stems/plucks.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -25.99005440029094
+    },
+    "stems/reverse.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -38.41640061990714
+    },
+    "stems/roy.wav": {
+      "frames": 9168000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "gap_nonzero_samples": 0,
+      "peak_dbfs": -15.44619259066934
+    }
+  },
+  "opening_strum_rms_increase_db": 5.493343312473614,
+  "middle_roy_max_pcm_error": 0.0,
+  "card_music_energy": [
+    {
+      "start": 79,
+      "end": 81,
+      "premaster_rms_dbfs": -36.17986935420452
+    },
+    {
+      "start": 106,
+      "end": 108,
+      "premaster_rms_dbfs": -36.32941900120164
+    },
+    {
+      "start": 168,
+      "end": 171,
+      "premaster_rms_dbfs": -29.020924467599198
+    }
+  ],
+  "pitch_checks": [
+    {
+      "source": "Actual decoded MP4 opening chord",
+      "window_start": 1.09,
+      "midi": 57,
+      "expected_hz": 220.0,
+      "measured_hz": 219.7406953000663,
+      "cents_error": -2.041735879523989
+    },
+    {
+      "source": "Actual decoded MP4 opening chord",
+      "window_start": 3.12,
+      "midi": 61,
+      "expected_hz": 277.1826309768721,
+      "measured_hz": 276.753922481093,
+      "cents_error": -2.6797108389673245
+    }
+  ],
+  "dan_opening_source_correlations": [
+    {
+      "id": "L04a",
+      "speaker": "DAN",
+      "actual_delivery_correlation_with_source": 0.999929782809152
+    },
+    {
+      "id": "L04b",
+      "speaker": "DAN",
+      "actual_delivery_correlation_with_source": 0.9998949440582591
+    }
+  ],
+  "dan_mouth_checks": [
+    {
+      "segment": "T04",
+      "silent_frames_checked_in_actual_mp4": 12,
+      "median_neutral_mouth_error_8bit": 2.418614583726416,
+      "prior_mouth_error_8bit": 13.852997078172184,
+      "upper_face_preservation_error_8bit": 2.5801364140437144,
+      "closure_tail_seconds": 0.1
+    },
+    {
+      "segment": "T08",
+      "silent_frames_checked_in_actual_mp4": 13,
+      "median_neutral_mouth_error_8bit": 2.409202216780513,
+      "prior_mouth_error_8bit": 9.666914928831513,
+      "upper_face_preservation_error_8bit": 2.58826695762866,
+      "closure_tail_seconds": 0.1
+    },
+    {
+      "segment": "T10",
+      "silent_frames_checked_in_actual_mp4": 49,
+      "median_neutral_mouth_error_8bit": 2.8196881091617936,
+      "prior_mouth_error_8bit": 13.356600189933523,
+      "upper_face_preservation_error_8bit": 2.6813839109050823,
+      "closure_tail_seconds": 0.1
+    },
+    {
+      "segment": "T22",
+      "silent_frames_checked_in_actual_mp4": 29,
+      "median_neutral_mouth_error_8bit": 2.3939431447786443,
+      "prior_mouth_error_8bit": 18.065901148277582,
+      "upper_face_preservation_error_8bit": 2.602129928941697,
+      "closure_tail_seconds": 0.1
+    },
+    {
+      "segment": "T26",
+      "silent_frames_checked_in_actual_mp4": 24,
+      "median_neutral_mouth_error_8bit": 2.332202728954287,
+      "prior_mouth_error_8bit": 9.111610633358987,
+      "upper_face_preservation_error_8bit": 2.5893517142263343,
+      "closure_tail_seconds": 0.1
+    },
+    {
+      "segment": "T30",
+      "silent_frames_checked_in_actual_mp4": 18,
+      "median_neutral_mouth_error_8bit": 2.3304845570718404,
+      "prior_mouth_error_8bit": 11.900327192952222,
+      "upper_face_preservation_error_8bit": 2.597692297317691,
+      "closure_tail_seconds": 0.1
+    }
+  ],
+  "original_speech_files_preserved": 31,
+  "spoken_cues": 32,
+  "new_spoken_cues": 1,
+  "midi_tracks": 8,
+  "midi_matches_event_map": true,
+  "score_pdf_pages": 6,
+  "score_pdf_sha256": "a7669ebc99525c46692e3d9b25ec3a6fe1b5b0cb1ef97adc5049cca4c1a5051b",
+  "scene_changes": [
+    8.0,
+    12.0,
+    18.0,
+    22.0,
+    26.0,
+    34.0,
+    37.0,
+    40.0,
+    48.0,
+    56.0,
+    62.0,
+    67.0,
+    72.0,
+    76.0,
+    79.0,
+    81.0,
+    84.0,
+    96.0,
+    100.0,
+    106.0,
+    108.0,
+    126.0,
+    130.0,
+    136.0,
+    142.0,
+    146.0,
+    149.0,
+    152.0,
+    155.0,
+    158.0,
+    161.0,
+    164.0,
+    168.0,
+    177.0,
+    187.0
+  ],
+  "unplanned_internal_cuts": [],
+  "earlier_cuts_preserved": true,
+  "builtin_image_generations": 3,
+  "new_runway_generations": 0,
+  "new_elevenlabs_generations": 0,
+  "limits": "Silent-mouth correction preserves upper-face/head motion but is not a guarantee of perfect phonemes during speech. Hands remain approximate generated performance. Perceptual headphone/speaker approval is not claimed.",
+  "midi_final_meter_verified": {
+    "4/4_at_seconds": 0,
+    "3/4_at_seconds": 188,
+    "end_seconds": 191
+  },
+  "midi_sha256": "9789c7c1cb1cd22ce8691afab0524d2e2a4e1f26c71d635d9d39d2b55c422fe7",
+  "visual_review": "VISUAL_REVIEW.md; all six score pages and actual final video contact sheet inspected"
+}
