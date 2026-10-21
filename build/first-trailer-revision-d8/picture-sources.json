@@ -1,0 +1,310 @@
+[
+  {
+    "segment": "T01",
+    "duration": 8.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T01.mp4",
+    "output_sha256": "0c32f12bf13aa537c8d9538c18f843bae378970cf115ab97babaeb5299faf853"
+  },
+  {
+    "segment": "T02",
+    "duration": 4.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T02.mp4",
+    "output_sha256": "c2b5bd357e7095f3b4be48b1cd3c548cbdae0b3c0dc64459a8dec2bfa7852075"
+  },
+  {
+    "segment": "T03",
+    "duration": 6.0,
+    "method": "title card",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "986ab25eaa7fdac6badd919c29b6a7c62e149339538d3b16fbe61db7f2e9f5b1"
+  },
+  {
+    "segment": "T04",
+    "duration": 4.0,
+    "method": "original simultaneous take",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "4cb2f275a4fe29830571b8e2b19fcf80f850762fe0e3e0161aead5f6bdd8c6b8"
+  },
+  {
+    "segment": "T05",
+    "duration": 4.0,
+    "method": "original simultaneous take continuation",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "b902955e746d681737f6eefa85c22ae06b560b02a5b66328e260bc1fe8a0a7b8"
+  },
+  {
+    "segment": "T06",
+    "duration": 4.0,
+    "method": "identical Dan replay / practice two",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "e3504536e530b614e422f32e130e47b62194c5227b7049f174f5208afd030bd0"
+  },
+  {
+    "segment": "T07",
+    "duration": 8.0,
+    "method": "identical Dan replay / practice three and question",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "05e6ca1bbcdbca3c2735fd0eed6182d039dd7ca761c01fb7ccd51db1708cf1cf"
+  },
+  {
+    "segment": "T08",
+    "duration": 3.0,
+    "method": "Pinterest iPhone DM",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "0903e3cb71f990250fe22e92d37bf8e2a94156aade0671342addceef486e6e5d"
+  },
+  {
+    "segment": "T09",
+    "duration": 3.0,
+    "method": "Pinterest iPhone DM continuation",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "fbbc21b974c3c39d6a041e764626b5b7912a5a9992c1b49a4544f439aacfb1ad"
+  },
+  {
+    "segment": "T10",
+    "duration": 8.0,
+    "method": "character title card",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "9ab3ebfdc3d583ea27cd08119a66fa1279e5aa7af8108beac5db10feb63ec2c9"
+  },
+  {
+    "segment": "T11",
+    "duration": 4.0,
+    "method": "moving candidate and MacBook pullback",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "61912bf3b29e892101fbf12d1601ae7b9017e71b2901d163b698a22c2caeb63a"
+  },
+  {
+    "segment": "T12",
+    "duration": 4.0,
+    "method": "moving candidate on glary MacBook",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "ae4e5ad790370949b78c3886febaf9752e19ba43451dfdc0075f3553e1353f26"
+  },
+  {
+    "segment": "T13",
+    "duration": 6.0,
+    "method": "moving candidate on glary MacBook",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "46bc40e7822e1e7ee1be0e4a19f42ce5202e45ae15b28921744b800db7d0e864"
+  },
+  {
+    "segment": "T14",
+    "duration": 5.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T14.mp4",
+    "output_sha256": "35f2603e677913dd68c46ad82eadd5531b2c155d878a41927e62836bcf23e9d6"
+  },
+  {
+    "segment": "T15",
+    "duration": 5.0,
+    "method": "corporate communications title",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "488a01cad58081819ed735e0ebeb0c9d0e74c9345c77462199d584970a487423"
+  },
+  {
+    "segment": "T16",
+    "duration": 4.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T16.mp4",
+    "output_sha256": "e4f89fafd0aafa391dd9d039834818de98d1a9642de73dde4665415b18cf33d2"
+  },
+  {
+    "segment": "C01",
+    "duration": 2.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/C01.mp4",
+    "output_sha256": "cab516200d3cbba50d96b83d1c3ab4bd5efb352dbbbea609ac1fbda8cf5fa28f"
+  },
+  {
+    "segment": "T17",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T17.mp4",
+    "output_sha256": "0564bfe438462b2de303df1a828bd28adbbd7333a56ff9a5723c5778d4e203c6"
+  },
+  {
+    "segment": "T18",
+    "duration": 3.0,
+    "method": "friendly parking plan / demolition permit",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "0a9dca844c1e45807893ce149c24f83f1ab7142d9fe8ed1dd8bd506f47f66764"
+  },
+  {
+    "segment": "T19",
+    "duration": 6.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T19.mp4",
+    "output_sha256": "8a7a3af74e72759f6534ec032d29438f647080ed6efb8e9f28e45bd5e4258c01"
+  },
+  {
+    "segment": "T20",
+    "duration": 6.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T20.mp4",
+    "output_sha256": "e1637e65610fc0a88986d7ca5df28025324c48b46f6acb897804f0acb8e45014"
+  },
+  {
+    "segment": "T21",
+    "duration": 4.0,
+    "method": "trolling title",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "39df273304af2917b37f4113600aaa1d1dac47a65f28cb27a7127f734746d5fd"
+  },
+  {
+    "segment": "T22",
+    "duration": 6.0,
+    "method": "moving destruction in Dan post / reaction icons",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "100a73001cc523dc99a4dc62721d0dafd5141ab737de677ab3e595bffc2ba130"
+  },
+  {
+    "segment": "C02",
+    "duration": 2.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/C02.mp4",
+    "output_sha256": "531e3173cb40bd331dd2112feea8f344b535550ee1225f5491c54fa2c514aa27"
+  },
+  {
+    "segment": "T23",
+    "duration": 6.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T23.mp4",
+    "output_sha256": "c5bb6160c650ac666f67d53b314cab66e4de43c7bf9fbb6a043cfa00fc0f62b6"
+  },
+  {
+    "segment": "T24",
+    "duration": 8.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T24.mp4",
+    "output_sha256": "5830998381b891bb4a2a393cbf7e806294b0ebc592f34e16f302358bab23729e"
+  },
+  {
+    "segment": "T25",
+    "duration": 4.0,
+    "method": "Pinterest DM / arrangement question",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "0dc30117b97b0750d8df3b568ac9cce5fa59a2a0c749401654353975817462bc"
+  },
+  {
+    "segment": "T26",
+    "duration": 4.0,
+    "method": "Pinterest DM / Dan blocks Nathan",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "9555f3aa63385fafa540d9bf32dd1ad1da56d6949ca5d4993abd447e51494a55"
+  },
+  {
+    "segment": "T27",
+    "duration": 6.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T27.mp4",
+    "output_sha256": "4c9c4c70465cf7577ac6ebb32fea868cb7722f74491a83a066c210d514276e74"
+  },
+  {
+    "segment": "T28",
+    "duration": 6.0,
+    "method": "Nathan post reveal",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "b9c4fece9cf8c43d8ed406addca75f1913e6bb2921bb1c702a5c4e327227c57c"
+  },
+  {
+    "segment": "T29",
+    "duration": 4.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T29.mp4",
+    "output_sha256": "c934ea0473c703b49b9317557656b348f506f109500449e62903f32321615f4b"
+  },
+  {
+    "segment": "T30",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T30.mp4",
+    "output_sha256": "39f41a293ab4dcf2986ce4990283f0c44f0d108873d8bf21c279d3f71871f05f"
+  },
+  {
+    "segment": "T31",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T31.mp4",
+    "output_sha256": "e091c41cf298af00d818cc1559f38ac026484d743744a1a77f2deb144561997c"
+  },
+  {
+    "segment": "T32",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T32.mp4",
+    "output_sha256": "bc3f17279c8ddc386f6046256bcccf1ac5829be8a0d14ecd31dc5cd1b2b0e876"
+  },
+  {
+    "segment": "T33",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T33.mp4",
+    "output_sha256": "b816c2028d5e6e9431db8c5187f7210b93783af432be68ceb6e7f2f4b2416237"
+  },
+  {
+    "segment": "T34",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T34.mp4",
+    "output_sha256": "b5efecdb1b8c6d774527cb2de1d75331c2bb06635dfa34293c3edbe8c51c80f7"
+  },
+  {
+    "segment": "T35",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T35.mp4",
+    "output_sha256": "59126b91a027f1b6e1313f55a112b65a0b29899396eeacb8222f76dde86c70b3"
+  },
+  {
+    "segment": "T36",
+    "duration": 6.0,
+    "method": "private DM screenshot to Times Square billboard",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "21a7e79baee6021cd0e8364dc8aa08b0ddbb82082c1058d632ba628a4e0d6892"
+  },
+  {
+    "segment": "C03",
+    "duration": 3.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/C03.mp4",
+    "output_sha256": "1f56da8ece057f362355f5755fe6572f960cf5acf9173b7a3aeae5eb19886ab7"
+  },
+  {
+    "segment": "T37",
+    "duration": 2.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T37.mp4",
+    "output_sha256": "0bbac53367a90c39800179301d7825691d12739bd427a8a54d31c3aae9adcc39"
+  },
+  {
+    "segment": "T38",
+    "duration": 4.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T38.mp4",
+    "output_sha256": "cfec0d073a2e8ec095dbf0439d531d945d800d853e981c5d299e22c1efc4456b"
+  },
+  {
+    "segment": "T39",
+    "duration": 5.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T39.mp4",
+    "output_sha256": "d014312e5d2bad21c6a4ed4dfc97e821705379023758cdecf47e70f6d04e711e"
+  },
+  {
+    "segment": "T40",
+    "duration": 5.0,
+    "method": "preserved D7 composition",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-revision-d7/segments/T40.mp4",
+    "output_sha256": "b856db7ebdc79fe9cdf535c0a4e04db69a392c4c8ef3fa4bdc95084829d1793f"
+  },
+  {
+    "segment": "C04",
+    "duration": 4.0,
+    "method": "new underscored Pinterest handle",
+    "source_reference": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/revision-d8/build_revision.py",
+    "output_sha256": "06e568a9f59a60c2e416dc8c333e93255fd25e15de1df4bd19503cd9304eb7fa"
+  }
+]

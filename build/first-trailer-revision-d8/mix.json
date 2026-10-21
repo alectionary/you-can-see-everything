@@ -1,0 +1,25 @@
+{
+  "master_gain_db": 9.45,
+  "loudness": {
+    "input_i": "-18.02",
+    "input_tp": "-1.57",
+    "input_lra": "10.30",
+    "input_thresh": "-29.49",
+    "output_i": "-18.45",
+    "output_tp": "-1.20",
+    "output_lra": "8.20",
+    "output_thresh": "-29.71",
+    "normalization_type": "dynamic",
+    "target_offset": "0.45"
+  },
+  "hand_sync": "Each clean instrument attack follows reviewed visible hand motion, with idle/damping introduction excluded",
+  "dialogue": "32 accepted files preserved, two exact byte-identical Dan repeats",
+  "score_extended_seconds": 6,
+  "black_silence": [
+    177,
+    179
+  ],
+  "title_attack": 179,
+  "score_ends": 183,
+  "diegetic_ends": 193
+}

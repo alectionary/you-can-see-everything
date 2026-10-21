@@ -1,0 +1,5050 @@
+{
+  "version": "D8 hand-synchronized editorial score",
+  "tempo_quarter": 60,
+  "meter": "4/4",
+  "duration_seconds": 197,
+  "timing": "One quarter note is one second. JSON drives notation, MIDI and transformed audio. Roy retains D4 microtiming.",
+  "notation": "Sounding output pitches; low and sustained parts are studio transformations, not a playable solo-ukulele transcription.",
+  "roles": {
+    "roy": {
+      "name": "Roy - clean ukulele",
+      "source_staff": "ukulele"
+    },
+    "plucks": {
+      "name": "Uke - displaced motif",
+      "source_staff": "piano"
+    },
+    "low": {
+      "name": "Uke - lowered pulse",
+      "source_staff": "bass"
+    },
+    "bloom": {
+      "name": "Uke - stretched resonance",
+      "source_staff": "strings"
+    },
+    "grit": {
+      "name": "Uke - distorted cluster",
+      "source_staff": "brass"
+    },
+    "body": {
+      "name": "Uke - body / muted strum",
+      "source_staff": "percussion"
+    },
+    "reverse": {
+      "name": "Uke - reversed breath",
+      "source_staff": null
+    }
+  },
+  "events": {
+    "roy": [
+      {
+        "t": 0.083333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 2",
+        "motion_key": "opening"
+      },
+      {
+        "t": 0.375,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 9",
+        "motion_key": "opening"
+      },
+      {
+        "t": 0.708333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 17",
+        "motion_key": "opening"
+      },
+      {
+        "t": 1.083333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 26",
+        "motion_key": "opening"
+      },
+      {
+        "t": 1.416667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 34",
+        "motion_key": "opening"
+      },
+      {
+        "t": 1.791667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 43",
+        "motion_key": "opening"
+      },
+      {
+        "t": 2.166667,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 52",
+        "motion_key": "opening"
+      },
+      {
+        "t": 2.5,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 60",
+        "motion_key": "opening"
+      },
+      {
+        "t": 3.0,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 72",
+        "motion_key": "opening"
+      },
+      {
+        "t": 3.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 80",
+        "motion_key": "opening"
+      },
+      {
+        "t": 3.708333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 89",
+        "motion_key": "opening"
+      },
+      {
+        "t": 4.041667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 97",
+        "motion_key": "opening"
+      },
+      {
+        "t": 4.291667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 103",
+        "motion_key": "opening"
+      },
+      {
+        "t": 4.583333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 110",
+        "motion_key": "opening"
+      },
+      {
+        "t": 5.375,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 129",
+        "motion_key": "opening"
+      },
+      {
+        "t": 5.708333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 137",
+        "motion_key": "opening"
+      },
+      {
+        "t": 5.958333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 143",
+        "motion_key": "opening"
+      },
+      {
+        "t": 6.291667,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 151",
+        "motion_key": "opening"
+      },
+      {
+        "t": 6.708333,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 161",
+        "motion_key": "opening"
+      },
+      {
+        "t": 7.041667,
+        "d": 0.5,
+        "notes": [
+          57,
+          61,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 169",
+        "motion_key": "opening"
+      },
+      {
+        "t": 7.416667,
+        "d": 0.5,
+        "notes": [
+          57,
+          61,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 178",
+        "motion_key": "opening"
+      },
+      {
+        "t": 7.75,
+        "d": 0.25,
+        "notes": [
+          57,
+          61,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 186",
+        "motion_key": "opening"
+      },
+      {
+        "t": 8.083333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 2",
+        "motion_key": "apology"
+      },
+      {
+        "t": 8.333333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 8",
+        "motion_key": "apology"
+      },
+      {
+        "t": 8.875,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 21",
+        "motion_key": "apology"
+      },
+      {
+        "t": 9.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 32",
+        "motion_key": "apology"
+      },
+      {
+        "t": 9.583333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 38",
+        "motion_key": "apology"
+      },
+      {
+        "t": 10.041667,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 49",
+        "motion_key": "apology"
+      },
+      {
+        "t": 10.625,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 63",
+        "motion_key": "apology"
+      },
+      {
+        "t": 11.25,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 78",
+        "motion_key": "apology"
+      },
+      {
+        "t": 11.875,
+        "d": 0.125,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 54,
+        "articulation": "palm-muted",
+        "source_staff": "verified hand-motion frame 93",
+        "motion_key": "apology"
+      },
+      {
+        "t": 118.0,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 144",
+        "motion_key": "middle"
+      },
+      {
+        "t": 118.416667,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 154",
+        "motion_key": "middle"
+      },
+      {
+        "t": 119.041667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 169",
+        "motion_key": "middle"
+      },
+      {
+        "t": 119.458333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 179",
+        "motion_key": "middle"
+      },
+      {
+        "t": 119.833333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 188",
+        "motion_key": "middle"
+      },
+      {
+        "t": 120.083333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 194",
+        "motion_key": "middle"
+      },
+      {
+        "t": 120.333333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 200",
+        "motion_key": "middle"
+      },
+      {
+        "t": 120.916667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 214",
+        "motion_key": "middle"
+      },
+      {
+        "t": 121.75,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 234",
+        "motion_key": "middle"
+      },
+      {
+        "t": 122.166667,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 244",
+        "motion_key": "middle"
+      },
+      {
+        "t": 122.583333,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 254",
+        "motion_key": "middle"
+      },
+      {
+        "t": 123.166667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 268",
+        "motion_key": "middle"
+      },
+      {
+        "t": 123.416667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 274",
+        "motion_key": "middle"
+      },
+      {
+        "t": 124.458333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 299",
+        "motion_key": "middle"
+      },
+      {
+        "t": 124.875,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 309",
+        "motion_key": "middle"
+      },
+      {
+        "t": 125.291667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 319",
+        "motion_key": "middle"
+      },
+      {
+        "t": 125.916667,
+        "d": 0.0833329999999961,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 334",
+        "motion_key": "middle"
+      },
+      {
+        "t": 183.291667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 7",
+        "motion_key": "ending"
+      },
+      {
+        "t": 183.666667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 16",
+        "motion_key": "ending"
+      },
+      {
+        "t": 183.958333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 23",
+        "motion_key": "ending"
+      },
+      {
+        "t": 184.291667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 31",
+        "motion_key": "ending"
+      },
+      {
+        "t": 184.666667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 40",
+        "motion_key": "ending"
+      },
+      {
+        "t": 185.083333,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 50",
+        "motion_key": "ending"
+      },
+      {
+        "t": 185.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 56",
+        "motion_key": "ending"
+      },
+      {
+        "t": 185.875,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 69",
+        "motion_key": "ending"
+      },
+      {
+        "t": 186.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 80",
+        "motion_key": "ending"
+      },
+      {
+        "t": 186.583333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 86",
+        "motion_key": "ending"
+      },
+      {
+        "t": 187.041667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 97",
+        "motion_key": "ending"
+      },
+      {
+        "t": 187.625,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 111",
+        "motion_key": "ending"
+      },
+      {
+        "t": 188.25,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 126",
+        "motion_key": "ending"
+      },
+      {
+        "t": 188.875,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 141",
+        "motion_key": "ending"
+      },
+      {
+        "t": 189.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 152",
+        "motion_key": "ending"
+      },
+      {
+        "t": 189.875,
+        "d": 0.5,
+        "notes": [
+          55,
+          60,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 165",
+        "motion_key": "ending"
+      },
+      {
+        "t": 190.333333,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 176",
+        "motion_key": "ending"
+      },
+      {
+        "t": 190.625,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 183",
+        "motion_key": "ending"
+      },
+      {
+        "t": 191.041667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 193",
+        "motion_key": "ending"
+      },
+      {
+        "t": 191.333333,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 200",
+        "motion_key": "ending"
+      },
+      {
+        "t": 191.666667,
+        "d": 0.5,
+        "notes": [
+          57,
+          60,
+          64,
+          69
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 208",
+        "motion_key": "ending"
+      },
+      {
+        "t": 192.041667,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 65,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 217",
+        "motion_key": "ending"
+      },
+      {
+        "t": 192.375,
+        "d": 0.5,
+        "notes": [
+          55,
+          59,
+          64,
+          67
+        ],
+        "v": 74,
+        "articulation": "ringing",
+        "source_staff": "verified hand-motion frame 225",
+        "motion_key": "ending"
+      }
+    ],
+    "plucks": [
+      {
+        "t": 18.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 47,
+        "source_staff": "piano",
+        "source_event": 0
+      },
+      {
+        "t": 19.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 47,
+        "source_staff": "piano",
+        "source_event": 1
+      },
+      {
+        "t": 21.0,
+        "d": 0.5,
+        "notes": [
+          60
+        ],
+        "v": 47,
+        "source_staff": "piano",
+        "source_event": 2
+      },
+      {
+        "t": 26.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 50,
+        "source_staff": "piano",
+        "source_event": 3
+      },
+      {
+        "t": 27.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 50,
+        "source_staff": "piano",
+        "source_event": 4
+      },
+      {
+        "t": 29.0,
+        "d": 0.5,
+        "notes": [
+          60
+        ],
+        "v": 50,
+        "source_staff": "piano",
+        "source_event": 5
+      },
+      {
+        "t": 38.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 52,
+        "source_staff": "piano",
+        "source_event": 6
+      },
+      {
+        "t": 39.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 52,
+        "source_staff": "piano",
+        "source_event": 7
+      },
+      {
+        "t": 41.0,
+        "d": 0.5,
+        "notes": [
+          60
+        ],
+        "v": 52,
+        "source_staff": "piano",
+        "source_event": 8
+      },
+      {
+        "t": 46.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 54,
+        "source_staff": "piano",
+        "source_event": 9
+      },
+      {
+        "t": 47.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 54,
+        "source_staff": "piano",
+        "source_event": 10
+      },
+      {
+        "t": 49.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 54,
+        "source_staff": "piano",
+        "source_event": 11
+      },
+      {
+        "t": 54.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 56,
+        "source_staff": "piano",
+        "source_event": 12
+      },
+      {
+        "t": 55.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 56,
+        "source_staff": "piano",
+        "source_event": 13
+      },
+      {
+        "t": 57.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 56,
+        "source_staff": "piano",
+        "source_event": 14
+      },
+      {
+        "t": 62.0,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 58,
+        "source_staff": "piano",
+        "source_event": 15
+      },
+      {
+        "t": 63.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 58,
+        "source_staff": "piano",
+        "source_event": 16
+      },
+      {
+        "t": 65.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 58,
+        "source_staff": "piano",
+        "source_event": 17
+      },
+      {
+        "t": 70.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 60,
+        "source_staff": "piano",
+        "source_event": 18
+      },
+      {
+        "t": 71.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 60,
+        "source_staff": "piano",
+        "source_event": 19
+      },
+      {
+        "t": 73.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 60,
+        "source_staff": "piano",
+        "source_event": 20
+      },
+      {
+        "t": 78.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 62,
+        "source_staff": "piano",
+        "source_event": 21
+      },
+      {
+        "t": 79.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 62,
+        "source_staff": "piano",
+        "source_event": 22
+      },
+      {
+        "t": 80.5,
+        "d": 0.5,
+        "notes": [
+          57
+        ],
+        "v": 63,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 81.5,
+        "d": 0.5,
+        "notes": [
+          58
+        ],
+        "v": 63,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 83.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 62,
+        "source_staff": "piano",
+        "source_event": 23
+      },
+      {
+        "t": 88.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 65,
+        "source_staff": "piano",
+        "source_event": 24
+      },
+      {
+        "t": 89.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 65,
+        "source_staff": "piano",
+        "source_event": 25
+      },
+      {
+        "t": 91.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 65,
+        "source_staff": "piano",
+        "source_event": 26
+      },
+      {
+        "t": 100.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 68,
+        "source_staff": "piano",
+        "source_event": 27
+      },
+      {
+        "t": 101.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 68,
+        "source_staff": "piano",
+        "source_event": 28
+      },
+      {
+        "t": 103.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 68,
+        "source_staff": "piano",
+        "source_event": 29
+      },
+      {
+        "t": 110.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 63,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 111.5,
+        "d": 0.5,
+        "notes": [
+          60
+        ],
+        "v": 63,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 122.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 73,
+        "source_staff": "piano",
+        "source_event": 33
+      },
+      {
+        "t": 123.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 73,
+        "source_staff": "piano",
+        "source_event": 34
+      },
+      {
+        "t": 125.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 73,
+        "source_staff": "piano",
+        "source_event": 35
+      },
+      {
+        "t": 130.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 75,
+        "source_staff": "piano",
+        "source_event": 36
+      },
+      {
+        "t": 131.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 75,
+        "source_staff": "piano",
+        "source_event": 37
+      },
+      {
+        "t": 133.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 75,
+        "source_staff": "piano",
+        "source_event": 38
+      },
+      {
+        "t": 138.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 78,
+        "source_staff": "piano",
+        "source_event": 39
+      },
+      {
+        "t": 139.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 78,
+        "source_staff": "piano",
+        "source_event": 40
+      },
+      {
+        "t": 141.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 78,
+        "source_staff": "piano",
+        "source_event": 41
+      },
+      {
+        "t": 146.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 80,
+        "source_staff": "piano",
+        "source_event": 42
+      },
+      {
+        "t": 147.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 80,
+        "source_staff": "piano",
+        "source_event": 43
+      },
+      {
+        "t": 149.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 80,
+        "source_staff": "piano",
+        "source_event": 44
+      },
+      {
+        "t": 154.0,
+        "d": 0.5,
+        "notes": [
+          51,
+          57,
+          58
+        ],
+        "v": 82,
+        "source_staff": "piano",
+        "source_event": 45
+      },
+      {
+        "t": 155.5,
+        "d": 0.5,
+        "notes": [
+          64
+        ],
+        "v": 82,
+        "source_staff": "piano",
+        "source_event": 46
+      },
+      {
+        "t": 157.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61
+        ],
+        "v": 82,
+        "source_staff": "piano",
+        "source_event": 47
+      },
+      {
+        "t": 158.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 48
+      },
+      {
+        "t": 158.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 49
+      },
+      {
+        "t": 159.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 50
+      },
+      {
+        "t": 159.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 51
+      },
+      {
+        "t": 160.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 52
+      },
+      {
+        "t": 160.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 53
+      },
+      {
+        "t": 161.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 54
+      },
+      {
+        "t": 161.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 55
+      },
+      {
+        "t": 162.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 56
+      },
+      {
+        "t": 162.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 57
+      },
+      {
+        "t": 163.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 58
+      },
+      {
+        "t": 163.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 59
+      },
+      {
+        "t": 164.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 60
+      },
+      {
+        "t": 164.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 61
+      },
+      {
+        "t": 165.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 62
+      },
+      {
+        "t": 165.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 63
+      },
+      {
+        "t": 166.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 64
+      },
+      {
+        "t": 166.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 65
+      },
+      {
+        "t": 167.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 66
+      },
+      {
+        "t": 167.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 67
+      },
+      {
+        "t": 168.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 68
+      },
+      {
+        "t": 168.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 69
+      },
+      {
+        "t": 169.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 70
+      },
+      {
+        "t": 169.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 71
+      },
+      {
+        "t": 170.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 72
+      },
+      {
+        "t": 170.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 73
+      },
+      {
+        "t": 171.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 74
+      },
+      {
+        "t": 171.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "piano",
+        "source_event": 75
+      },
+      {
+        "t": 172.0,
+        "d": 0.25,
+        "notes": [
+          57,
+          58,
+          66
+        ],
+        "v": 89,
+        "source_staff": "D8 billboard extension",
+        "source_event": 72
+      },
+      {
+        "t": 172.5,
+        "d": 0.25,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 89,
+        "source_staff": "D8 billboard extension",
+        "source_event": 73
+      },
+      {
+        "t": 173.0,
+        "d": 0.25,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 89,
+        "source_staff": "D8 billboard extension",
+        "source_event": 74
+      },
+      {
+        "t": 173.5,
+        "d": 0.25,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 89,
+        "source_staff": "D8 billboard extension",
+        "source_event": 75
+      },
+      {
+        "t": 174.0,
+        "d": 0.5,
+        "notes": [
+          58,
+          59,
+          66
+        ],
+        "v": 94,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 175.0,
+        "d": 0.5,
+        "notes": [
+          59,
+          60,
+          66
+        ],
+        "v": 98,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 176.0,
+        "d": 0.5,
+        "notes": [
+          60,
+          61,
+          66
+        ],
+        "v": 102,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 179.0,
+        "d": 4.0,
+        "notes": [
+          33,
+          45,
+          57,
+          58,
+          59,
+          60,
+          63,
+          64,
+          66
+        ],
+        "v": 118,
+        "source_staff": "piano",
+        "source_event": 76
+      }
+    ],
+    "low": [
+      {
+        "t": 44.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 42,
+        "source_staff": "bass",
+        "source_event": 0
+      },
+      {
+        "t": 48.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 44,
+        "source_staff": "bass",
+        "source_event": 1
+      },
+      {
+        "t": 52.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 47,
+        "source_staff": "bass",
+        "source_event": 2
+      },
+      {
+        "t": 56.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 49,
+        "source_staff": "bass",
+        "source_event": 3
+      },
+      {
+        "t": 60.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 52,
+        "source_staff": "bass",
+        "source_event": 4
+      },
+      {
+        "t": 64.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 55,
+        "source_staff": "bass",
+        "source_event": 5
+      },
+      {
+        "t": 66.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 56,
+        "source_staff": "bass",
+        "source_event": 6
+      },
+      {
+        "t": 68.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 57,
+        "source_staff": "bass",
+        "source_event": 7
+      },
+      {
+        "t": 70.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 58,
+        "source_staff": "bass",
+        "source_event": 8
+      },
+      {
+        "t": 72.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 60,
+        "source_staff": "bass",
+        "source_event": 9
+      },
+      {
+        "t": 74.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 61,
+        "source_staff": "bass",
+        "source_event": 10
+      },
+      {
+        "t": 76.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 62,
+        "source_staff": "bass",
+        "source_event": 11
+      },
+      {
+        "t": 78.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 64,
+        "source_staff": "bass",
+        "source_event": 12
+      },
+      {
+        "t": 80.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 70,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 81.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 70,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 82.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 65,
+        "source_staff": "bass",
+        "source_event": 13
+      },
+      {
+        "t": 84.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 66,
+        "source_staff": "bass",
+        "source_event": 14
+      },
+      {
+        "t": 86.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 68,
+        "source_staff": "bass",
+        "source_event": 15
+      },
+      {
+        "t": 88.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 69,
+        "source_staff": "bass",
+        "source_event": 16
+      },
+      {
+        "t": 90.0,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 70,
+        "source_staff": "bass",
+        "source_event": 17
+      },
+      {
+        "t": 92.0,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 71,
+        "source_staff": "bass",
+        "source_event": 18
+      },
+      {
+        "t": 94.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 73,
+        "source_staff": "bass",
+        "source_event": 19
+      },
+      {
+        "t": 96.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 74,
+        "source_staff": "bass",
+        "source_event": 20
+      },
+      {
+        "t": 98.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 75,
+        "source_staff": "bass",
+        "source_event": 21
+      },
+      {
+        "t": 100.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 77,
+        "source_staff": "bass",
+        "source_event": 22
+      },
+      {
+        "t": 102.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 78,
+        "source_staff": "bass",
+        "source_event": 23
+      },
+      {
+        "t": 104.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 79,
+        "source_staff": "bass",
+        "source_event": 24
+      },
+      {
+        "t": 106.0,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 81,
+        "source_staff": "bass",
+        "source_event": 25
+      },
+      {
+        "t": 108.0,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 82,
+        "source_staff": "bass",
+        "source_event": 26
+      },
+      {
+        "t": 110.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 70,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 111.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 70,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 112.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 83,
+        "source_staff": "bass",
+        "source_event": 27
+      },
+      {
+        "t": 113.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 28
+      },
+      {
+        "t": 114.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 29
+      },
+      {
+        "t": 115.0,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 30
+      },
+      {
+        "t": 116.0,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 86,
+        "source_staff": "bass",
+        "source_event": 31
+      },
+      {
+        "t": 117.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 32
+      },
+      {
+        "t": 118.5,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 33
+      },
+      {
+        "t": 119.5,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 34
+      },
+      {
+        "t": 120.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 35
+      },
+      {
+        "t": 121.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 36
+      },
+      {
+        "t": 122.5,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 37
+      },
+      {
+        "t": 123.5,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 38
+      },
+      {
+        "t": 124.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 39
+      },
+      {
+        "t": 125.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 40
+      },
+      {
+        "t": 126.5,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 41
+      },
+      {
+        "t": 127.5,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 42
+      },
+      {
+        "t": 128.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 43
+      },
+      {
+        "t": 129.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 44
+      },
+      {
+        "t": 130.5,
+        "d": 0.75,
+        "notes": [
+          28
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 45
+      },
+      {
+        "t": 131.5,
+        "d": 0.75,
+        "notes": [
+          34
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 46
+      },
+      {
+        "t": 132.5,
+        "d": 0.75,
+        "notes": [
+          33
+        ],
+        "v": 84,
+        "source_staff": "bass",
+        "source_event": 47
+      },
+      {
+        "t": 134.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 97,
+        "source_staff": "bass",
+        "source_event": 48
+      },
+      {
+        "t": 134.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 49
+      },
+      {
+        "t": 135.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 98,
+        "source_staff": "bass",
+        "source_event": 50
+      },
+      {
+        "t": 135.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 51
+      },
+      {
+        "t": 136.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 99,
+        "source_staff": "bass",
+        "source_event": 52
+      },
+      {
+        "t": 136.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 53
+      },
+      {
+        "t": 137.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 99,
+        "source_staff": "bass",
+        "source_event": 54
+      },
+      {
+        "t": 137.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 55
+      },
+      {
+        "t": 138.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 100,
+        "source_staff": "bass",
+        "source_event": 56
+      },
+      {
+        "t": 138.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 57
+      },
+      {
+        "t": 139.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 101,
+        "source_staff": "bass",
+        "source_event": 58
+      },
+      {
+        "t": 139.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 59
+      },
+      {
+        "t": 140.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 101,
+        "source_staff": "bass",
+        "source_event": 60
+      },
+      {
+        "t": 140.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 61
+      },
+      {
+        "t": 141.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 102,
+        "source_staff": "bass",
+        "source_event": 62
+      },
+      {
+        "t": 141.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 63
+      },
+      {
+        "t": 142.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 103,
+        "source_staff": "bass",
+        "source_event": 64
+      },
+      {
+        "t": 142.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 65
+      },
+      {
+        "t": 143.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 103,
+        "source_staff": "bass",
+        "source_event": 66
+      },
+      {
+        "t": 143.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 67
+      },
+      {
+        "t": 144.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 104,
+        "source_staff": "bass",
+        "source_event": 68
+      },
+      {
+        "t": 144.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 69
+      },
+      {
+        "t": 145.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 105,
+        "source_staff": "bass",
+        "source_event": 70
+      },
+      {
+        "t": 145.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 71
+      },
+      {
+        "t": 146.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 105,
+        "source_staff": "bass",
+        "source_event": 72
+      },
+      {
+        "t": 146.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 73
+      },
+      {
+        "t": 147.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 106,
+        "source_staff": "bass",
+        "source_event": 74
+      },
+      {
+        "t": 147.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 75
+      },
+      {
+        "t": 148.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 107,
+        "source_staff": "bass",
+        "source_event": 76
+      },
+      {
+        "t": 148.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 77
+      },
+      {
+        "t": 149.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 107,
+        "source_staff": "bass",
+        "source_event": 78
+      },
+      {
+        "t": 149.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 79
+      },
+      {
+        "t": 150.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 108,
+        "source_staff": "bass",
+        "source_event": 80
+      },
+      {
+        "t": 150.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 81
+      },
+      {
+        "t": 151.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 108,
+        "source_staff": "bass",
+        "source_event": 82
+      },
+      {
+        "t": 151.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 83
+      },
+      {
+        "t": 152.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 109,
+        "source_staff": "bass",
+        "source_event": 84
+      },
+      {
+        "t": 152.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 85
+      },
+      {
+        "t": 153.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 110,
+        "source_staff": "bass",
+        "source_event": 86
+      },
+      {
+        "t": 153.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 87
+      },
+      {
+        "t": 154.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 110,
+        "source_staff": "bass",
+        "source_event": 88
+      },
+      {
+        "t": 154.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 89
+      },
+      {
+        "t": 155.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 111,
+        "source_staff": "bass",
+        "source_event": 90
+      },
+      {
+        "t": 155.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 91
+      },
+      {
+        "t": 156.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 92
+      },
+      {
+        "t": 156.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 93
+      },
+      {
+        "t": 157.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 94
+      },
+      {
+        "t": 157.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 95
+      },
+      {
+        "t": 158.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 96
+      },
+      {
+        "t": 158.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 97
+      },
+      {
+        "t": 159.0,
+        "d": 0.5,
+        "notes": [
+          28
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 98
+      },
+      {
+        "t": 159.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 99
+      },
+      {
+        "t": 160.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 100
+      },
+      {
+        "t": 160.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 101
+      },
+      {
+        "t": 161.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 102
+      },
+      {
+        "t": 161.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 103
+      },
+      {
+        "t": 162.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 104
+      },
+      {
+        "t": 162.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 105
+      },
+      {
+        "t": 163.0,
+        "d": 0.5,
+        "notes": [
+          34
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 106
+      },
+      {
+        "t": 163.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 107
+      },
+      {
+        "t": 164.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 108
+      },
+      {
+        "t": 164.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 109
+      },
+      {
+        "t": 165.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 110
+      },
+      {
+        "t": 165.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 111
+      },
+      {
+        "t": 166.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 112
+      },
+      {
+        "t": 166.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 113
+      },
+      {
+        "t": 167.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 114
+      },
+      {
+        "t": 167.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 115
+      },
+      {
+        "t": 168.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 116
+      },
+      {
+        "t": 168.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 117
+      },
+      {
+        "t": 169.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 118
+      },
+      {
+        "t": 169.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 119
+      },
+      {
+        "t": 170.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 120
+      },
+      {
+        "t": 170.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 121
+      },
+      {
+        "t": 171.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "bass",
+        "source_event": 122
+      },
+      {
+        "t": 171.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "bass",
+        "source_event": 123
+      },
+      {
+        "t": 172.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "D8 billboard extension",
+        "source_event": 120
+      },
+      {
+        "t": 172.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "D8 billboard extension",
+        "source_event": 121
+      },
+      {
+        "t": 173.0,
+        "d": 0.5,
+        "notes": [
+          33
+        ],
+        "v": 112,
+        "source_staff": "D8 billboard extension",
+        "source_event": 122
+      },
+      {
+        "t": 173.5,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 85,
+        "source_staff": "D8 billboard extension",
+        "source_event": 123
+      },
+      {
+        "t": 174.0,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 104,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 174.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 105,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 175.0,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 106,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 175.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 107,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 176.0,
+        "d": 0.25,
+        "notes": [
+          33
+        ],
+        "v": 108,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 176.5,
+        "d": 0.25,
+        "notes": [
+          34
+        ],
+        "v": 109,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 179.0,
+        "d": 4.0,
+        "notes": [
+          33
+        ],
+        "v": 118,
+        "source_staff": "bass",
+        "source_event": 124
+      }
+    ],
+    "bloom": [
+      {
+        "t": 66.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          60,
+          64
+        ],
+        "v": 35,
+        "source_staff": "strings",
+        "source_event": 0
+      },
+      {
+        "t": 70.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          60,
+          64
+        ],
+        "v": 37,
+        "source_staff": "strings",
+        "source_event": 1
+      },
+      {
+        "t": 74.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          60,
+          64
+        ],
+        "v": 40,
+        "source_staff": "strings",
+        "source_event": 2
+      },
+      {
+        "t": 78.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          60,
+          64
+        ],
+        "v": 43,
+        "source_staff": "strings",
+        "source_event": 3
+      },
+      {
+        "t": 84.0,
+        "d": 6.0,
+        "notes": [
+          57,
+          60,
+          64
+        ],
+        "v": 46,
+        "source_staff": "strings",
+        "source_event": 4
+      },
+      {
+        "t": 88.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 49,
+        "source_staff": "strings",
+        "source_event": 5
+      },
+      {
+        "t": 92.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 52,
+        "source_staff": "strings",
+        "source_event": 6
+      },
+      {
+        "t": 96.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 55,
+        "source_staff": "strings",
+        "source_event": 7
+      },
+      {
+        "t": 100.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 58,
+        "source_staff": "strings",
+        "source_event": 8
+      },
+      {
+        "t": 104.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 60,
+        "source_staff": "strings",
+        "source_event": 9
+      },
+      {
+        "t": 108.0,
+        "d": 6.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 63,
+        "source_staff": "strings",
+        "source_event": 10
+      },
+      {
+        "t": 114.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 66,
+        "source_staff": "strings",
+        "source_event": 11
+      },
+      {
+        "t": 118.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 69,
+        "source_staff": "strings",
+        "source_event": 12
+      },
+      {
+        "t": 122.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 72,
+        "source_staff": "strings",
+        "source_event": 13
+      },
+      {
+        "t": 126.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 75,
+        "source_staff": "strings",
+        "source_event": 14
+      },
+      {
+        "t": 130.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          64
+        ],
+        "v": 78,
+        "source_staff": "strings",
+        "source_event": 15
+      },
+      {
+        "t": 134.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 81,
+        "source_staff": "strings",
+        "source_event": 16
+      },
+      {
+        "t": 138.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 83,
+        "source_staff": "strings",
+        "source_event": 17
+      },
+      {
+        "t": 142.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 86,
+        "source_staff": "strings",
+        "source_event": 18
+      },
+      {
+        "t": 146.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 89,
+        "source_staff": "strings",
+        "source_event": 19
+      },
+      {
+        "t": 150.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 92,
+        "source_staff": "strings",
+        "source_event": 20
+      },
+      {
+        "t": 154.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64
+        ],
+        "v": 95,
+        "source_staff": "strings",
+        "source_event": 21
+      },
+      {
+        "t": 158.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          59,
+          64,
+          66
+        ],
+        "v": 98,
+        "source_staff": "strings",
+        "source_event": 22
+      },
+      {
+        "t": 162.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          59,
+          64,
+          66
+        ],
+        "v": 101,
+        "source_staff": "strings",
+        "source_event": 23
+      },
+      {
+        "t": 166.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          59,
+          64,
+          66
+        ],
+        "v": 104,
+        "source_staff": "strings",
+        "source_event": 24
+      },
+      {
+        "t": 170.0,
+        "d": 5.0,
+        "notes": [
+          57,
+          58,
+          59,
+          64,
+          66
+        ],
+        "v": 107,
+        "source_staff": "strings",
+        "source_event": 25
+      },
+      {
+        "t": 172.0,
+        "d": 2.0,
+        "notes": [
+          57,
+          58,
+          59,
+          64,
+          66
+        ],
+        "v": 107,
+        "source_staff": "D8 billboard extension",
+        "source_event": 25
+      },
+      {
+        "t": 179.0,
+        "d": 4.0,
+        "notes": [
+          57,
+          58,
+          63,
+          64,
+          65,
+          66
+        ],
+        "v": 118,
+        "source_staff": "strings",
+        "source_event": 26
+      }
+    ],
+    "grit": [
+      {
+        "t": 156.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 90,
+        "source_staff": "brass",
+        "source_event": 0
+      },
+      {
+        "t": 158.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 92,
+        "source_staff": "brass",
+        "source_event": 1
+      },
+      {
+        "t": 160.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 94,
+        "source_staff": "brass",
+        "source_event": 2
+      },
+      {
+        "t": 162.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 96,
+        "source_staff": "brass",
+        "source_event": 3
+      },
+      {
+        "t": 164.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 98,
+        "source_staff": "brass",
+        "source_event": 4
+      },
+      {
+        "t": 166.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 100,
+        "source_staff": "brass",
+        "source_event": 5
+      },
+      {
+        "t": 168.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 102,
+        "source_staff": "brass",
+        "source_event": 6
+      },
+      {
+        "t": 170.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 104,
+        "source_staff": "brass",
+        "source_event": 7
+      },
+      {
+        "t": 172.0,
+        "d": 1.5,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 104,
+        "source_staff": "D8 billboard extension",
+        "source_event": 7
+      },
+      {
+        "t": 174.0,
+        "d": 3,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 108,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 179.0,
+        "d": 4.0,
+        "notes": [
+          33,
+          39,
+          46
+        ],
+        "v": 118,
+        "source_staff": "brass",
+        "source_event": 8
+      }
+    ],
+    "body": [
+      {
+        "t": 96.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 0
+      },
+      {
+        "t": 97.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 1
+      },
+      {
+        "t": 99.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 2
+      },
+      {
+        "t": 100.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 3
+      },
+      {
+        "t": 102.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 4
+      },
+      {
+        "t": 103.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 5
+      },
+      {
+        "t": 105.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 6
+      },
+      {
+        "t": 106.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 7
+      },
+      {
+        "t": 108.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 8
+      },
+      {
+        "t": 109.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 9
+      },
+      {
+        "t": 110.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 50,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 111.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 50,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 119.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 14
+      },
+      {
+        "t": 120.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 15
+      },
+      {
+        "t": 122.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 16
+      },
+      {
+        "t": 123.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 17
+      },
+      {
+        "t": 125.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 18
+      },
+      {
+        "t": 126.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 19
+      },
+      {
+        "t": 128.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 20
+      },
+      {
+        "t": 129.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 21
+      },
+      {
+        "t": 131.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 22
+      },
+      {
+        "t": 132.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 45,
+        "source_staff": "percussion",
+        "source_event": 23
+      },
+      {
+        "t": 134.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 24
+      },
+      {
+        "t": 134.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 25
+      },
+      {
+        "t": 135.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 26
+      },
+      {
+        "t": 135.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 27
+      },
+      {
+        "t": 136.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 28
+      },
+      {
+        "t": 136.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 29
+      },
+      {
+        "t": 137.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 30
+      },
+      {
+        "t": 137.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 31
+      },
+      {
+        "t": 138.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 32
+      },
+      {
+        "t": 138.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 33
+      },
+      {
+        "t": 139.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 34
+      },
+      {
+        "t": 139.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 35
+      },
+      {
+        "t": 140.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 36
+      },
+      {
+        "t": 140.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 37
+      },
+      {
+        "t": 141.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 38
+      },
+      {
+        "t": 141.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 39
+      },
+      {
+        "t": 142.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 40
+      },
+      {
+        "t": 142.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 41
+      },
+      {
+        "t": 143.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 42
+      },
+      {
+        "t": 143.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 43
+      },
+      {
+        "t": 144.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 44
+      },
+      {
+        "t": 144.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 45
+      },
+      {
+        "t": 145.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 46
+      },
+      {
+        "t": 145.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 47
+      },
+      {
+        "t": 146.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 48
+      },
+      {
+        "t": 146.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 49
+      },
+      {
+        "t": 147.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 50
+      },
+      {
+        "t": 147.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 51
+      },
+      {
+        "t": 148.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 52
+      },
+      {
+        "t": 148.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 53
+      },
+      {
+        "t": 149.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 54
+      },
+      {
+        "t": 149.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 55
+      },
+      {
+        "t": 150.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 56
+      },
+      {
+        "t": 150.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 57
+      },
+      {
+        "t": 151.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 58
+      },
+      {
+        "t": 151.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 59
+      },
+      {
+        "t": 152.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 60
+      },
+      {
+        "t": 152.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 61
+      },
+      {
+        "t": 153.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 62
+      },
+      {
+        "t": 153.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 63
+      },
+      {
+        "t": 154.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 64
+      },
+      {
+        "t": 154.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 65
+      },
+      {
+        "t": 155.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 66
+      },
+      {
+        "t": 155.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 67,
+        "source_staff": "percussion",
+        "source_event": 67
+      },
+      {
+        "t": 156.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 68
+      },
+      {
+        "t": 156.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 69
+      },
+      {
+        "t": 157.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 70
+      },
+      {
+        "t": 157.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 71
+      },
+      {
+        "t": 158.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 72
+      },
+      {
+        "t": 158.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 73
+      },
+      {
+        "t": 159.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 74
+      },
+      {
+        "t": 159.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 75
+      },
+      {
+        "t": 160.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 76
+      },
+      {
+        "t": 160.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 77
+      },
+      {
+        "t": 161.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 78
+      },
+      {
+        "t": 161.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 79
+      },
+      {
+        "t": 162.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 80
+      },
+      {
+        "t": 162.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 81
+      },
+      {
+        "t": 163.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 82
+      },
+      {
+        "t": 163.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 83
+      },
+      {
+        "t": 164.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 84
+      },
+      {
+        "t": 164.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 85
+      },
+      {
+        "t": 165.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 86
+      },
+      {
+        "t": 165.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 87
+      },
+      {
+        "t": 166.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 88
+      },
+      {
+        "t": 166.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 89
+      },
+      {
+        "t": 167.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 90
+      },
+      {
+        "t": 167.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 91
+      },
+      {
+        "t": 168.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 92
+      },
+      {
+        "t": 168.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 93
+      },
+      {
+        "t": 169.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 94
+      },
+      {
+        "t": 169.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 95
+      },
+      {
+        "t": 170.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 96
+      },
+      {
+        "t": 170.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 97
+      },
+      {
+        "t": 171.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 98
+      },
+      {
+        "t": 171.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "percussion",
+        "source_event": 99
+      },
+      {
+        "t": 172.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "D8 billboard extension",
+        "source_event": 96
+      },
+      {
+        "t": 172.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "D8 billboard extension",
+        "source_event": 97
+      },
+      {
+        "t": 173.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 82,
+        "source_staff": "D8 billboard extension",
+        "source_event": 98
+      },
+      {
+        "t": 173.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 82,
+        "source_staff": "D8 billboard extension",
+        "source_event": 99
+      },
+      {
+        "t": 174.0,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 86,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 174.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 87,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 175.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 88,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 175.5,
+        "d": 0.25,
+        "notes": [
+          47
+        ],
+        "v": 89,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 176.0,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 90,
+        "source_staff": "new card extension"
+      },
+      {
+        "t": 176.5,
+        "d": 0.25,
+        "notes": [
+          48
+        ],
+        "v": 91,
+        "source_staff": "new card extension"
+      }
+    ],
+    "reverse": [
+      {
+        "t": 42.75,
+        "d": 1.25,
+        "notes": [
+          64
+        ],
+        "v": 53,
+        "source_staff": "new transition",
+        "arrival": 40
+      },
+      {
+        "t": 64.75,
+        "d": 1.25,
+        "notes": [
+          60
+        ],
+        "v": 58,
+        "source_staff": "new transition",
+        "arrival": 62
+      },
+      {
+        "t": 86.5,
+        "d": 1.5,
+        "notes": [
+          57
+        ],
+        "v": 63,
+        "source_staff": "new transition",
+        "arrival": 82
+      },
+      {
+        "t": 103.0,
+        "d": 1.0,
+        "notes": [
+          64
+        ],
+        "v": 67,
+        "source_staff": "new transition",
+        "arrival": 98
+      },
+      {
+        "t": 132.5,
+        "d": 1.5,
+        "notes": [
+          64
+        ],
+        "v": 74,
+        "source_staff": "new transition",
+        "arrival": 126
+      },
+      {
+        "t": 154.0,
+        "d": 2.0,
+        "notes": [
+          60
+        ],
+        "v": 79,
+        "source_staff": "new transition",
+        "arrival": 148
+      },
+      {
+        "t": 166.5,
+        "d": 1.5,
+        "notes": [
+          57
+        ],
+        "v": 82,
+        "source_staff": "new transition",
+        "arrival": 160
+      },
+      {
+        "t": 170.5,
+        "d": 1.5,
+        "notes": [
+          58
+        ],
+        "v": 83,
+        "source_staff": "new transition",
+        "arrival": 164
+      },
+      {
+        "t": 172.5,
+        "d": 1.5,
+        "notes": [
+          58
+        ],
+        "v": 83,
+        "source_staff": "D8 billboard extension",
+        "arrival": 164
+      }
+    ]
+  },
+  "processing": {
+    "roy": "D4 clean recorded performance, byte-identical stem; screen perspective retained",
+    "plucks": "Recorded notes; dry -> subtle detuned double / short echoes / saturation",
+    "low": "C4 recording resampled down to original bass pitches; low-pass and parallel saturation",
+    "bloom": "Recorded notes phase-vocoder stretched at unchanged pitch; soft swells and growing tremolo",
+    "grit": "Recorded low chord, stretched and driven through tanh; no brass sample",
+    "body": "Recorded body-tap and muted-strum articulations; no synthesized drum or shredder in music",
+    "reverse": "Recorded pluck reversed into the next structural cue"
+  },
+  "title": "One title attack at 179; transformed score ends 183; Roy plays to 193",
+  "gates": [
+    [
+      177,
+      179
+    ],
+    [
+      193,
+      197
+    ]
+  ],
+  "paid_generations": 0,
+  "opening": "Roy stops at 12. No Roy strum events at 12-18 or during the six-second song introduction. Onsets follow the actual source hand-motion peaks, not a regular musical grid.",
+  "ending": "Non-diegetic score ends 177. Roy plays in room 177-187, including question and notification. CTA 187-191 silent."
+}

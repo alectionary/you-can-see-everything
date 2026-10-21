@@ -1,0 +1,15 @@
+{
+  "Dan_source": "D7/performance/dan-test-native.mp4",
+  "first_assurance_source_start": 2,
+  "repeated_assurance_source_start": 2,
+  "Dan_audio_files": [
+    "L04b",
+    "L04r2",
+    "L04r3"
+  ],
+  "first_squint_global": 21.3,
+  "take2_squint_global": 27.3,
+  "take3_squint_global": 31.3,
+  "squint_word": "that",
+  "only_reaction_performance_changes": true
+}

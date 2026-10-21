@@ -1,0 +1,27 @@
+{
+  "duration": 197,
+  "prior_duration": 191,
+  "added_seconds": 6,
+  "minimum_hold": 2,
+  "extensions": {
+    "T07": 4,
+    "T36": 2
+  },
+  "no_shot_shortened": true,
+  "cards_explicitly_over_spoken_audio": true,
+  "parking_card_precedes_lot": true,
+  "handle": "@YOU_CAN_SEE_EVERYTHING",
+  "original_Dan_replays": [
+    20.25,
+    26.25,
+    30.25
+  ],
+  "that_relative_to_assurance_start": 1.05,
+  "Fielder_source_squint_anchors": [
+    4.4,
+    3.4,
+    2.7
+  ],
+  "motion": "Locked static cards/screens; mathematically smooth subpixel pullbacks only; no zoompan shake",
+  "RULES.md_audit": "All original holds retained, third rehearsal extended four seconds and billboard two seconds. Full trailer changes and text-over-voice cards explicitly requested by user. Dialogue words and accepted recordings preserved; two exact Dan audio replays added. Final encoded delivery will be audited."
+}

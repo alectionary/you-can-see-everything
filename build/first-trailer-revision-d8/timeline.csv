@@ -1,0 +1,45 @@
+segment,start_seconds,end_seconds,duration_seconds,asset_ids,picture,source_segment
+T01,0,8.0,8.0,N01,"Roy sets up his stream, starts the ukulele phrase, misses a chord. One patient domestic shot.",T01
+T02,8.0,12.0,4.0,N01,"Same room and identity, closer framing. Roy apologizes without performing embarrassment.",T02
+T03,12.0,18.0,6.0,N01,"YOU CAN SEE THE TRUTH, 12 seconds until Dan; no visible hands",T03
+T04,18.0,22.0,4.0,E01,"Simultaneous Dan and original Fielder reaction, squint on that",T04
+T05,22.0,26.0,4.0,E02,Continue the original simultaneous take; Again before next take,T05
+T06,26.0,30.0,4.0,N02,"Take 2: identical Dan assurance playback, new Fielder reaction",T06
+T07,30.0,38.0,8.0,N02,"Take 3: identical Dan assurance playback, new Fielder reaction, then question; extended 4 seconds",T07
+T08,38.0,41.0,3.0,N03,"Pinterest DM: Dan to Nathan, I thought you looked confused",T08
+T09,41.0,44.0,3.0,N02,Same iPhone DM: Nathan replies I was,T09
+T10,44.0,52.0,8.0,N04,YOU CAN SEE A CHARACTER HE CREATED; existing refusal/lookalike exchange,T10
+T11,52.0,56.0,4.0,N05,Candidate A moving video pulls back into glary MacBook editing board,T11
+T12,56.0,60.0,4.0,N05,Candidate B moving video in the MacBook editing board,T12
+T13,60.0,66.0,6.0,N05,Candidate C moving video in the MacBook editing board,T13
+T14,66.0,71.0,5.0,G01,"Full-frame corporate preparation document, readable Pinterest identification and two editorial comments. Static layout for five seconds.",T14
+T15,71.0,76.0,5.0,N06,YOU CAN SEE CORPORATE COMMUNICATIONS,T15
+T16,76.0,80.0,4.0,E03,"Food bank in operation, source 1–5 seconds. Preserve volunteers and material activity.",T16
+C01,80.0,82.0,2.0,new card,YOU CAN SEE PARKING before actual lot,
+T17,82.0,85.0,3.0,E04,"Empty lot, source 2–5 seconds. Fielder’s question plays offscreen.",T17
+T18,85.0,88.0,3.0,N06,Friendly architectural parking plan and demolition permit,T18
+T19,88.0,94.0,6.0,N07,Ski-lodge event and Picasso display before destruction. Dan’s publicity statement is interview voiceover.,T19
+T20,94.0,100.0,6.0,N07,One sustained shot of the shredding apparatus engaging the painting. Clear physical continuity; mechanism audible.,T20
+T21,100.0,104.0,4.0,N07,YOU CAN SEE TROLLING with accepted Fielder voice,T21
+T22,104.0,110.0,6.0,N03,Dan Pinterest post embeds painting destruction; absurd angry reaction count,T22
+C02,110.0,112.0,2.0,new card,YOU CAN SEE BETRAYAL,
+T23,112.0,118.0,6.0,N01,Roy instrument introduction: hands rest; no strum audio,T23
+T24,118.0,126.0,8.0,N08+G02,Same continuous native Roy performance; audio attacks follow actual strokes,T24
+T25,126.0,130.0,4.0,N08,"Pinterest DM, Nathan asks Did you arrange this",T25
+T26,130.0,134.0,4.0,N03,"Same DM, Dan says Roy chose the song, then blocks Nathan",T26
+T27,134.0,140.0,6.0,N09,A previously established Roy candidate holds a ukulele and asks whether he must play. Offscreen instruction: use the original audio.,T27
+T28,140.0,146.0,6.0,N10+G03,Editor/Nathan scene pulls back into Nathan post: I didn’t know,T28
+T29,146.0,150.0,4.0,G04,Review screen with interview and corporate comments. Fielder’s accusation is offscreen; notes remain readable.,T29
+T30,150.0,153.0,3.0,N03,Dan asks In the song? Calmly narrow the question.,T30
+T31,153.0,156.0,3.0,N01,Real Roy looks past his streaming camera. Something has changed; do not show what.,T31
+T32,156.0,159.0,3.0,E05,"Demolition, source 3–6 seconds; dry environmental texture beneath score.",T32
+T33,159.0,162.0,3.0,G05,The demolition frame appears in a Pinterest distribution-strategy presentation. Keep the conversation on Pinterest is readable; no numerical performance claims.,T33
+T34,162.0,165.0,3.0,G03,"Fielder’s reaction repeated in editing thumbnails; static composition, no hidden fast-cut montage.",T34
+T35,165.0,168.0,3.0,N05,Dan signature line visibly remains Dan,T35
+T36,168.0,174.0,6.0,N11,Roy/lawyer DM screenshot pulls out to a Times Square billboard; extended 2 seconds,T36
+C03,174.0,177.0,3.0,new card,YOU CAN SEE BEYOND TRUTH,
+T37,177.0,179.0,2.0,G06,Pure black. Every audio bus silent; no impact or transition tail.,T37
+T38,179.0,183.0,4.0,G07,YOU CAN SEE EVERYTHING on black. Single ensemble attack at first frame; sustained decay.,T38
+T39,183.0,188.0,5.0,N01,Return to real Roy’s streaming setup. No score. He asks Can you hear me? No visible Pinterest wrapper yet.,T39
+T40,188.0,193.0,5.0,N01+G02,"Same continuous take; notification and comment from PINTEREST: We hear you, Roy. Hold the full five seconds. End at EOF without another picture segment.",T40
+C04,193.0,197.0,4.0,new card,LEARN MORE ON PINTEREST / @YOU_CAN_SEE_EVERYTHING,
