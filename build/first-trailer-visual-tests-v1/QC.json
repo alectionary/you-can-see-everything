@@ -1,0 +1,88 @@
+{
+  "status": "PASS technical visual-test checks; new moving character performances remain pending",
+  "files": [
+    {
+      "file": "roy-pinterest-reveal-test-v1.mp4",
+      "seconds": 18,
+      "frames": 432,
+      "sha256": "4d31c3825443ab67feabad2205fcb1aa3f217824183c5d5c8df4d24958efbada"
+    },
+    {
+      "file": "fielder-rehearsal-reference-v1.mp4",
+      "seconds": 12,
+      "frames": 288,
+      "sha256": "eaaf2ea9997be5f13ffafbc745345b78ea712f0cea2a8e496a590fc1b03204c9"
+    },
+    {
+      "file": "original-reaction.mp4",
+      "seconds": 4,
+      "frames": 96,
+      "sha256": "398ba04f91ced98e7f5e7b693ed76d49c17ba02053a805c63add23fc6b5d05c2"
+    },
+    {
+      "file": "reset-reference.mp4",
+      "seconds": 4,
+      "frames": 96,
+      "sha256": "e51442fbe4c0329aae97682ede3bc85c74dd7633ef95fb1db15ebf074c96b89f"
+    },
+    {
+      "file": "downward-reference.mp4",
+      "seconds": 4,
+      "frames": 96,
+      "sha256": "50c9ff38028ea602fc02afca6b4a0ae9796d547431b8e19d9161bbda79c44c23"
+    }
+  ],
+  "exact_pcm_excerpt_match": true,
+  "approved_full_trailer_unchanged": true,
+  "loudness": {
+    "input_i": "-22.48",
+    "input_tp": "-2.57",
+    "input_lra": "2.70",
+    "input_thresh": "-32.54",
+    "output_i": "-16.29",
+    "output_tp": "-1.00",
+    "output_lra": "1.70",
+    "output_thresh": "-26.36",
+    "normalization_type": "dynamic",
+    "target_offset": "0.29"
+  },
+  "compositions": [
+    {
+      "name": "T23 stream",
+      "duration": 6,
+      "minimum": 2,
+      "result": "PASS"
+    },
+    {
+      "name": "T24 continuous pullback",
+      "duration": 8,
+      "minimum": 2,
+      "result": "PASS"
+    },
+    {
+      "name": "T25 room hold",
+      "duration": 4,
+      "minimum": 2,
+      "result": "PASS"
+    },
+    {
+      "name": "Original reaction reference",
+      "duration": 4,
+      "minimum": 2,
+      "result": "PASS"
+    },
+    {
+      "name": "Reset keyframe reference",
+      "duration": 4,
+      "minimum": 2,
+      "result": "PASS"
+    },
+    {
+      "name": "Downward keyframe reference",
+      "duration": 4,
+      "minimum": 2,
+      "result": "PASS"
+    }
+  ],
+  "still_reference_limit": "Roy, Dan and Fielder are static generated keyframes in the reveal proof. The reference reel contains original motion followed by labeled static poses."
+}

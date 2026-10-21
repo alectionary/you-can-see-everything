@@ -1,0 +1,65 @@
+{
+  "method": "Still-keyframe camera and screen composite; no new moving character footage",
+  "fps": 24,
+  "segments": [
+    {
+      "id": "T23",
+      "start": 0,
+      "end": 6,
+      "duration": 6
+    },
+    {
+      "id": "T24",
+      "start": 6,
+      "end": 14,
+      "duration": 8
+    },
+    {
+      "id": "T25",
+      "start": 14,
+      "end": 18,
+      "duration": 4
+    }
+  ],
+  "screen_corners": [
+    [
+      51.0,
+      178.0
+    ],
+    [
+      820.0,
+      194.0
+    ],
+    [
+      823.0,
+      608.0
+    ],
+    [
+      42.0,
+      671.0
+    ]
+  ],
+  "stream_viewport_page": [
+    [
+      130.0,
+      278.0
+    ],
+    [
+      1310.0,
+      278.0
+    ],
+    [
+      1310.0,
+      942.0
+    ],
+    [
+      130.0,
+      942.0
+    ]
+  ],
+  "source_audio_start": 104,
+  "source_audio_end": 122,
+  "same_stream_image_every_frame": "/Users/anonymous/Documents/you-can-see-anything-teaser/trailer/first/visual-tests/v1/roy-stream-master-v1.png",
+  "source_audio_sha256": "ba56ffc8efb81b6674d1cbbe8883fe099250d0fa3786ffcb11d7aacdbfc83900",
+  "output": "/Users/anonymous/Documents/you-can-see-anything-teaser/build/first-trailer-visual-tests-v1/roy-pinterest-reveal-test-v1.mp4"
+}

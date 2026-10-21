@@ -1,0 +1,1 @@
+["Samantha", 175, "We’re only here for factual accuracy."]

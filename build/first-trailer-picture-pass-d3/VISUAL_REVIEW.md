@@ -1,0 +1,11 @@
+# D3 picture review
+
+Reviewed all 40 composition midpoint frames from the encoded concatenated picture after the CEO lower third was added, plus 17 caption-bearing frames from the actual final viewing MP4. Contact sheets are saved in contacts/. The final MP4 passes the separate measured QC report.
+
+Roy remains in the same home, hoodie and small four-string instrument. Three candidates appear in the same casting setup; candidate A returns with the corrected four-peg ukulele. The original Fielder reaction is retained, followed by two distinct moving practice takes. Dan is explicitly identified as CEO, Pinterest. The preparation document, corporate review, distribution slide and final Pinterest comment are readable. The new nested stream follows one continuous source through the reveal; the surrounding room and editor bodies are still plates. Title and black are clean.
+
+The lodge painting descends within its fixed outer frame and strips lengthen beneath it. The generated inner bottom edge moves with the canvas, so the mechanism is still provisional rather than a final practical-effects simulation. Guests now include a phone recording and a tentative clap gesture. No abrupt scene change above the ffmpeg 0.18 scene-score threshold was detected within either long continuous source. This automated scan supplements the sampled-frame review and does not constitute full perceptual motion approval.
+
+Caption-bearing frames show the corrected question sources, longer “I was,” candidates’ repeated answer, factual-accuracy claim, publicity statement, platform motive, song introduction, arranged-it question, original-audio scene, editor answer, interrupted Roy line and final webcam/comment beat. Captions clear the final comment and intended corporate text. The workprint tag partially overlaps the page header during the full-page phase; the Pinterest name remains visible in the room monitor and elsewhere in the sequence. Remove the workprint tag for the final master.
+
+Generated mouth movements are visibly provisional and not phoneme synchronized. They may continue through a silent hold; the final audio-driven performance pass must correct this. Hands and instrument-to-score synchronization need motion review with the final ukulele. No claim of final lip synchronization or human listening approval is made.

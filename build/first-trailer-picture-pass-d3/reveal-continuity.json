@@ -1,0 +1,48 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/picture-pass-d3/roy_continuous.mp4",
+  "source_frames": 432,
+  "timeline_start": 104,
+  "timeline_end": 122,
+  "mapping": "output frame n uses source frame n throughout full screen, Pinterest page, room monitor",
+  "segments": [
+    "T23",
+    "T24",
+    "T25"
+  ],
+  "screen_corners": [
+    [
+      51.0,
+      178.0
+    ],
+    [
+      820.0,
+      194.0
+    ],
+    [
+      823.0,
+      608.0
+    ],
+    [
+      42.0,
+      671.0
+    ]
+  ],
+  "stream_viewport": [
+    [
+      130.0,
+      278.0
+    ],
+    [
+      1310.0,
+      278.0
+    ],
+    [
+      1310.0,
+      942.0
+    ],
+    [
+      130.0,
+      942.0
+    ]
+  ]
+}

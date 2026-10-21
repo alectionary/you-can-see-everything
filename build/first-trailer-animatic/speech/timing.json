@@ -1,0 +1,281 @@
+[
+  {
+    "id": "L01",
+    "speaker": "ROY",
+    "start": 8.4,
+    "target_end": 10.5,
+    "actual_end": 10.50117,
+    "caption_end": 10.50117,
+    "reused": false
+  },
+  {
+    "id": "L02",
+    "speaker": "FIELDER",
+    "start": 12.2,
+    "target_end": 14.7,
+    "actual_end": 13.96425,
+    "caption_end": 14.7,
+    "reused": false
+  },
+  {
+    "id": "L03",
+    "speaker": "ROY",
+    "start": 15.5,
+    "target_end": 16.5,
+    "actual_end": 16.16896,
+    "caption_end": 16.5,
+    "reused": false
+  },
+  {
+    "id": "L04",
+    "speaker": "DAN",
+    "start": 18.4,
+    "target_end": 20.165,
+    "actual_end": 19.69623,
+    "caption_end": 20.165,
+    "reused": true
+  },
+  {
+    "id": "L05",
+    "speaker": "OFFSCREEN DIRECTOR",
+    "start": 25.2,
+    "target_end": 25.9,
+    "actual_end": 25.66077,
+    "caption_end": 25.9,
+    "reused": false
+  },
+  {
+    "id": "L06",
+    "speaker": "FIELDER",
+    "start": 30.3,
+    "target_end": 33.0,
+    "actual_end": 32.32048,
+    "caption_end": 33.0,
+    "reused": false
+  },
+  {
+    "id": "L07",
+    "speaker": "DAN",
+    "start": 34.15,
+    "target_end": 36.6,
+    "actual_end": 35.97758,
+    "caption_end": 36.6,
+    "reused": false
+  },
+  {
+    "id": "L08",
+    "speaker": "FIELDER",
+    "start": 37.4,
+    "target_end": 38.2,
+    "actual_end": 38.00798,
+    "caption_end": 38.2,
+    "reused": false
+  },
+  {
+    "id": "L09",
+    "speaker": "FIELDER",
+    "start": 40.5,
+    "target_end": 44.0,
+    "actual_end": 43.41431,
+    "caption_end": 44.0,
+    "reused": false
+  },
+  {
+    "id": "L10",
+    "speaker": "DAN",
+    "start": 45.0,
+    "target_end": 47.8,
+    "actual_end": 47.25685,
+    "caption_end": 47.8,
+    "reused": false
+  },
+  {
+    "id": "L11",
+    "speaker": "ROY CANDIDATE A",
+    "start": 49.0,
+    "target_end": 50.4,
+    "actual_end": 50.47635,
+    "caption_end": 50.47635,
+    "reused": false
+  },
+  {
+    "id": "L12",
+    "speaker": "ROY CANDIDATE B",
+    "start": 53.0,
+    "target_end": 54.4,
+    "actual_end": 54.4881,
+    "caption_end": 54.4881,
+    "reused": false
+  },
+  {
+    "id": "L13",
+    "speaker": "ROY CANDIDATE C",
+    "start": 57.0,
+    "target_end": 59.3,
+    "actual_end": 58.44848,
+    "caption_end": 59.3,
+    "reused": false
+  },
+  {
+    "id": "L14",
+    "speaker": "COMMUNICATIONS",
+    "start": 67.5,
+    "target_end": 70.0,
+    "actual_end": 69.72498,
+    "caption_end": 70.0,
+    "reused": false
+  },
+  {
+    "id": "L15",
+    "speaker": "FIELDER",
+    "start": 76.1,
+    "target_end": 78.2,
+    "actual_end": 77.24552,
+    "caption_end": 78.2,
+    "reused": false
+  },
+  {
+    "id": "L16",
+    "speaker": "COMMUNICATIONS",
+    "start": 79.1,
+    "target_end": 81.5,
+    "actual_end": 80.67671,
+    "caption_end": 81.5,
+    "reused": false
+  },
+  {
+    "id": "L17",
+    "speaker": "DAN",
+    "start": 82.1,
+    "target_end": 87.8,
+    "actual_end": 87.0204,
+    "caption_end": 87.8,
+    "reused": false
+  },
+  {
+    "id": "L18",
+    "speaker": "FIELDER",
+    "start": 94.2,
+    "target_end": 97.7,
+    "actual_end": 96.15425,
+    "caption_end": 97.7,
+    "reused": false
+  },
+  {
+    "id": "L19",
+    "speaker": "DAN",
+    "start": 98.4,
+    "target_end": 102.4,
+    "actual_end": 100.55392,
+    "caption_end": 102.4,
+    "reused": false
+  },
+  {
+    "id": "L20",
+    "speaker": "ROY",
+    "start": 104.8,
+    "target_end": 109.0,
+    "actual_end": 107.49379,
+    "caption_end": 109.0,
+    "reused": false
+  },
+  {
+    "id": "L21",
+    "speaker": "FIELDER",
+    "start": 118.4,
+    "target_end": 120.6,
+    "actual_end": 119.56248,
+    "caption_end": 120.6,
+    "reused": false
+  },
+  {
+    "id": "L22",
+    "speaker": "DAN",
+    "start": 122.3,
+    "target_end": 124.1,
+    "actual_end": 123.59512,
+    "caption_end": 124.1,
+    "reused": false
+  },
+  {
+    "id": "L23",
+    "speaker": "ROY CANDIDATE A",
+    "start": 126.4,
+    "target_end": 128.5,
+    "actual_end": 128.03444,
+    "caption_end": 128.5,
+    "reused": false
+  },
+  {
+    "id": "L24",
+    "speaker": "OFFSCREEN CREW",
+    "start": 129.0,
+    "target_end": 131.5,
+    "actual_end": 130.81773,
+    "caption_end": 131.5,
+    "reused": false
+  },
+  {
+    "id": "L25",
+    "speaker": "EDITOR",
+    "start": 132.5,
+    "target_end": 133.6,
+    "actual_end": 133.18869,
+    "caption_end": 133.6,
+    "reused": false
+  },
+  {
+    "id": "L26",
+    "speaker": "FIELDER",
+    "start": 134.3,
+    "target_end": 136.8,
+    "actual_end": 135.89848,
+    "caption_end": 136.8,
+    "reused": false
+  },
+  {
+    "id": "L27",
+    "speaker": "FIELDER",
+    "start": 138.3,
+    "target_end": 141.5,
+    "actual_end": 139.77904,
+    "caption_end": 141.5,
+    "reused": false
+  },
+  {
+    "id": "L28",
+    "speaker": "DAN",
+    "start": 142.4,
+    "target_end": 143.7,
+    "actual_end": 143.17667,
+    "caption_end": 143.7,
+    "reused": false
+  },
+  {
+    "id": "L29",
+    "speaker": "DAN",
+    "start": 158.2,
+    "target_end": 160.336,
+    "actual_end": 159.89269,
+    "caption_end": 160.336,
+    "reused": true
+  },
+  {
+    "id": "L30",
+    "speaker": "ROY",
+    "start": 160.8,
+    "target_end": 163.9,
+    "actual_end": 162.79004,
+    "caption_end": 163.9,
+    "reused": false
+  },
+  {
+    "id": "L31",
+    "speaker": "ROY",
+    "start": 172.3,
+    "target_end": 173.8,
+    "actual_end": 173.1994,
+    "caption_end": 173.8,
+    "reused": false
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "source": "/Users/anonymous/Documents/you-can-see-anything-teaser/clips/first/fielder-rehearsal-test-01.mov",
+  "sha256": "82bc538ca8f25d636a21e0f4244384495a4a1fb375e29b8489bd618ee6c39361",
+  "native_duration": 8.041667,
+  "native_frames": 193,
+  "native_fps": "24/1",
+  "native_dimensions": [
+    1280,
+    720
+  ],
+  "native_audio_streams": 0,
+  "comparison_checks": [
+    {
+      "file": "original.mp4",
+      "duration": 4,
+      "frames": 96,
+      "minimum_picture_duration": 2,
+      "result": "PASS"
+    },
+    {
+      "file": "new.mp4",
+      "duration": 4,
+      "frames": 96,
+      "minimum_picture_duration": 2,
+      "result": "PASS"
+    },
+    {
+      "file": "fielder-original-versus-new-test-01.mp4",
+      "duration": 8,
+      "frames": 192,
+      "minimum_picture_duration": 2,
+      "result": "PASS"
+    }
+  ],
+  "status": "Technical comparison checks pass; gesture/identity/acting remain visual review."
+}

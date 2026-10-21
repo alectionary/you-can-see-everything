@@ -1,0 +1,41 @@
+segment,start_seconds,end_seconds,duration_seconds,asset_ids,picture
+T01,0,8,8,N01,"Roy sets up his stream, starts the ukulele phrase, misses a chord. One patient domestic shot."
+T02,8,12,4,N01,"Same room and identity, closer framing. Roy apologizes without performing embarrassment."
+T03,12,18,6,N01,Roy starts again. Fielder’s question is from a separate interview; Roy’s answer is voiceover. Do not imply he is lip-syncing both contexts.
+T04,18,22,4,E01,Dan’s assurance: There’s no reason for me to do that. Use the existing recording as voiceover over a Dan hold; lip sync is not claimed.
+T05,22,26,4,E02,"The specific v10 39-second reaction: attentive face, brow pinches, eyes squint, gaze drops. Use reaction source 2–6 seconds. Offscreen Again follows the downward glance."
+T06,26,30,4,N02,"Practice take two repeats the squint-and-downward-glance movement from T05, with a visible reset. New performance required; animatic repeats the source and labels it."
+T07,30,34,4,N02,Practice take three rehearses the same squint and downward glance. Fielder asks whether the first take was too suspicious. New performance required; animatic repeats the source and labels it.
+T08,34,37,3,N03,Dan says he thought Fielder looked confused; mild helpfulness.
+T09,37,40,3,N02,"Fielder says I was, then holds. Rehearsal has not explained his actual state."
+T10,40,48,8,N04,One continuous table two-shot. Fielder reports Roy’s refusal; Dan proposes a lookalike. Let the pause belong to the decision.
+T11,48,52,4,N05,"First Roy candidate gives the line. Plausible casting, ordinary performance."
+T12,52,56,4,N05,Second Roy candidate gives the same line; different face and delivery.
+T13,56,62,6,N05,Third candidate asks what he is saying no to. Hold on his reasonable expectation of an answer.
+T14,62,67,5,G01,"Full-frame corporate preparation document, readable Pinterest identification and two editorial comments. Static layout for five seconds."
+T15,67,72,5,N06,"Communications employee just beyond the interview setup: factual accuracy. Restrained, professional."
+T16,72,76,4,E03,"Food bank in operation, source 1–5 seconds. Preserve volunteers and material activity."
+T17,76,79,3,E04,"Empty lot, source 2–5 seconds. Fielder’s question plays offscreen."
+T18,79,82,3,N06,Communications employee asks which version he is looking at.
+T19,82,88,6,N07,Ski-lodge event and Picasso display before destruction. Dan’s publicity statement is interview voiceover.
+T20,88,94,6,N07,One sustained shot of the shredding apparatus engaging the painting. Clear physical continuity; mechanism audible.
+T21,94,98,4,N07,"Guests watching, one recording on a phone, an isolated tentative clap. Fielder’s movie question is voiceover."
+T22,98,104,6,N03,"Dan expresses a distribution motive as Pinterest’s CEO: the conversation should happen on his platform. Helpful, businesslike delivery; hold afterward."
+T23,104,110,6,N01,"Roy, now more settled, introduces the next song. Keep his performance musically continuous into the reveal."
+T24,110,118,8,N08+G02,"A single continuous pullback reveals the exact stream inside Pinterest, then the surrounding screen and Dan watching it. Frame content must remain the same performance, not a second generated Roy."
+T25,118,122,4,N08,Fielder beside Dan asks whether he arranged it. Same viewing location and screen position as T24.
+T26,122,126,4,N03,Dan says Roy chose the song. This settles neither authorship nor distribution.
+T27,126,132,6,N09,A previously established Roy candidate holds a ukulele and asks whether he must play. Offscreen instruction: use the original audio.
+T28,132,138,6,N10+G03,Fielder and an editor review the puzzled reaction. Visible editing thumbnails must match the actual T05–T07 frames.
+T29,138,142,4,G04,Review screen with interview and corporate comments. Fielder’s accusation is offscreen; notes remain readable.
+T30,142,145,3,N03,Dan asks In the song? Calmly narrow the question.
+T31,145,148,3,N01,Real Roy looks past his streaming camera. Something has changed; do not show what.
+T32,148,151,3,E05,"Demolition, source 3–6 seconds; dry environmental texture beneath score."
+T33,151,154,3,G05,The demolition frame appears in a Pinterest distribution-strategy presentation. Keep the conversation on Pinterest is readable; no numerical performance claims.
+T34,154,157,3,G03,"Fielder’s reaction repeated in editing thumbnails; static composition, no hidden fast-cut montage."
+T35,157,160,3,N05,Replacement Roy in the interview chair. Dan’s human-being assurance begins offscreen.
+T36,160,164,4,N11,"The real Roy watches a monitor. Dan’s assurance finishes across the cut; Roy’s interrupted statement follows as stream audio, not a new visible lip-sync requirement."
+T37,164,166,2,G06,Pure black. Every audio bus silent; no impact or transition tail.
+T38,166,170,4,G07,YOU CAN SEE EVERYTHING on black. Single ensemble attack at first frame; sustained decay.
+T39,170,175,5,N01,Return to real Roy’s streaming setup. No score. He asks Can you hear me? No visible Pinterest wrapper yet.
+T40,175,180,5,N01+G02,"Same continuous take; notification and comment from PINTEREST: We hear you, Roy. Hold the full five seconds. End at EOF without another picture segment."
